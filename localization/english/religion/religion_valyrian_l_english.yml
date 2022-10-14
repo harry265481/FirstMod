@@ -1,0 +1,97 @@
+﻿l_english:
+
+ valyrian_religion:0 "Gods of Valyria"
+ valyrian_religion_adj:0 "Valyrian"
+ valyrian_religion_adherent:0 "Valyrian"
+ valyrian_religion_adherent_plural:0 "Valyrians"
+ valyrian_religion_desc:0 ""
+
+ valyrian_high_god_name:0 "Arrax"
+ valyrian_high_god_name_2:0 "$valyrian_high_god_name$" # Optional translation alt
+ valyrian_high_god_name_3:0 "$valyrian_high_god_name$" # Optional translation alt
+ valyrian_high_god_name_possessive:0 "Arrax's"
+ valyrian_high_god_name_alternate:0 "$valyrian_high_god_name$"
+ valyrian_high_god_name_alternate_possessive:0 "$valyrian_high_god_name_possessive$"
+
+ valyrian_devil_name:0 "Balerion
+ valyrian_devil_name_possessive:0 "Balerion's"
+ valyrian_death_deity_name:0 "Balerion"
+ valyrian_death_deity_name_possessive:0 "Balerions's"
+
+ valyrian_house_of_worship:0 "temple"
+ valyrian_house_of_worship_2:0 "$valyrian_house_of_worship$" # Optional translation alt
+ valyrian_house_of_worship_3:0 "$valyrian_house_of_worship$" # Optional translation alt
+ valyrian_house_of_worship_plural:0 "temples"
+
+ valyrian_religious_symbol:0 "The Fourteen Flames"
+ valyrian_religious_symbol_2:0 "$valyrian_religious_symbol$" # Optional translation alt
+ valyrian_religious_symbol_3:0 "$valyrian_religious_symbol$" # Optional translation alt
+
+ valyrian_religious_text:0 "scriptures"
+ valyrian_religious_text_2:0 "$valyrian_religious_text$" # Optional translation alt
+ valyrian_religious_text_3:0 "$valyrian_religious_text$" # Optional translation alt
+
+ valyrian_religious_head_title:0 "High Septon"
+ valyrian_religious_head_title_name:0 "High Septonry"
+
+ valyrian_devotee_male:0 "singer"
+ valyrian_devotee_male_plural:0 "singers"
+ valyrian_devotee_female:0 "singer"
+ valyrian_devotee_female_plural:0 "singers"
+
+ valyrian_devotee_neuter:0 "monastic"
+ valyrian_devotee_neuter_plural:0 "monastics"
+
+ valyrian_priest_male:0 "singer"
+ valyrian_priest_male_plural:0 "singers"
+ valyrian_priest_female:0 "singer"
+ valyrian_priest_female_plural:0 "singers"
+ valyrian_priest_alternate_plural:0 "clergy"
+
+ valyrian_bishop:0 "singer"
+ valyrian_bishop_plural:0 "singers"
+
+ valyrian_positive_afterlife:0 "heaven"
+ valyrian_negative_afterlife:0 "hell"
+
+ valyrian_witchgodname_the_horned_god:0 "Balerion "
+ valyrian_witchgodname_the_horned_god_possessive:0 "Balerion's"
+
+ valyrian_creator_god_name:0 "$valyrian_high_god_name$"
+ valyrian_creator_god_name_possessive:0 "$valyrian_high_god_name_possessive$"
+
+ valyrian_health_god_name:0 "Tessarion"
+ valyrian_health_god_name_possessive:0 "Tessarion's"
+
+ valyrian_fertility_god_name:0 "Meleys"
+ valyrian_fertility_god_name_possessive:0 "Meleys'"
+
+ valyrian_wealth_god_name:0 "Syrax"
+ valyrian_wealth_god_name_possessive:0 "Syrax's"
+
+ valyrian_household_god_name:0 "$valyrian_health_god_name$"
+ valyrian_household_god_name_possessive:0 "$valyrian_health_god_name_possessive$"
+
+ valyrian_fate_god_name:0 "Shrykos"
+ valyrian_fate_god_name_possessive:0 "Shrykos'"
+
+ valyrian_knowledge_god_name:0 "Tessarion"
+ valyrian_knowledge_god_name_possessive:0 "Tessarion's"
+
+ valyrian_war_god_name:0 "Tyraxes"
+ valyrian_war_god_name_possessive:0 "Tyraxes'"
+
+ valyrian_trickster_god_name:0 "Tessarion"
+ valyrian_trickster_god_name_possessive:0 "Tessarion's"
+
+ valyrian_night_god_name:0 "Gaelithox"
+ valyrian_night_god_name_possessive:0 "Gaelithox's"
+
+ valyrian_water_god_name:0 "Caraxes"
+ valyrian_water_god_name_possessive:0 "Caraxes"
+
+ valyrian:0 "Valyrian"
+ valyrian_adj:0 "Valyrian"
+ valyrian_adherent:0 "Valyrian"
+ valyrian_adherent_plural:0 "Valyrians"
+ valyrian_desc:0 "Valyrian"

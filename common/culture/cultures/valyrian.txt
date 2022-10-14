@@ -1,0 +1,22 @@
+﻿valyrian = {
+	color = english
+	created = 100.1.1
+	heritage = heritage_valyrian
+
+	ethos = ethos_bureaucratic
+	martial_custom = martial_custom_male_only
+	language = language_valyrian
+	name_list = name_list_valyrian
+	traditions = {
+		tradition_isolationist
+		tradition_ruling_caste
+		tradition_polygamous
+	}
+	coa_gfx = { english_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { western_unit_gfx }
+	ethnicities = {
+		100 = valyrian_platinum
+	}
+}

@@ -1,0 +1,64 @@
+﻿namespace = asoiaf
+asoiaf.1 = {
+	type = character_event
+	title = "Britannia or Europe"
+	desc = asoiaf.1.desc
+	left_portrait = root
+	option = { # England
+		name = "Britannia"
+		trigger_event = {
+			id = asoiaf.2
+		}
+	}
+	option = { # Europe
+		name = "Europe"
+		trigger_event = {
+			id = asoiaf.3
+		}
+	}
+}
+asoiaf.2 = { #Britannia
+	type = character_event
+	title = "Who should we conquer first?"
+	desc = asoiaf.2.desc
+	option = { # We shall take the throne of England
+		name = "We shall take the throne of England"
+		trigger_event = {
+			id = asoiaf.4
+		}
+	}
+
+	option = { # Wales is ripe for the taking
+		name = "Wales shall be ours"
+		trigger_event = {
+			id = asoiaf.5
+		}
+	}
+
+	option = { # We shall take the fight to the irish
+		name = "To Ireland!"
+		trigger_event = {
+			id = asoiaf.6
+		}
+	}
+
+	option = { # Scotland belongs to us
+		name = "Scotland belongs to us"
+		trigger_event = {
+			id = asoiaf.7
+		}
+	}
+}
+
+asoiaf.4 = { #England
+	type = character_event
+	title = "To war with england"
+	desc = asoiaf.4.desc
+	immediate = {
+		start_war = {
+			cb = claim_cb
+			target = title:k_england.holder #17131
+			target_title = title:k_england
+		}
+	}
+}

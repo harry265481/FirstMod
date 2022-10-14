@@ -1,0 +1,9 @@
+﻿name_list_valyrian = {
+	male_names = {
+		Aegon Aegor Aelix Aemon Aemond Aenys Aerion Aerys Alan Alaric Allar Allard Alton Alyn Ardrian Arryk Aurane Arthor Addam Aethan Baelor Balman Bartimos Bennard Boros Bryen Clarence Clayton Clement Crispian Corlys Corwyn Daemon Daeron Danos Davos Denys Dontos Duncan Duram Edwell Florian Guncer Gyles Galfrid Gargon Haegon Hubard Jacelyn Jaehaerys Janos Jarman Jarmen Jon Jorgen Justin Jacaerys Joffrey Lothar Lothor Lucos Lucerys Laenor Laemond Maegor Maekar Malentine Malliard Maric Matarys Matthos Monford Monterys Morgan Morros Ollidor Orys Pate Qarlton Quenton Rhaegar Rhaegel Rolland Sefton Simon Steffon Symon Symeon Triston Ulmer Valarr Viserys Vaermon Victor Vaemond
+	}
+
+	female_names = {
+		Aelinor Aglantine Alerie Alla Alyce Alynne Alys Alysanne Annara Arianne Alynna Aenesa Baena Cassana Corenna Cyrenna Dalla Delena Denyse Desmera Donyse Daella Daena Daenerys Daeryssa Daesanne Eglantine Elaena Ermesande Falena Falyse Jeyne Jonquil Joyeuse Leona Leonette Leyla Larissa Lianna Leana Malessa Malora Marei Marya Matrice Melicent Mhaegan Mhaegen Moelle Mylenda Marilda Prudence Prunella Rhae Rhaella Rhaelle Rhaena Rhaenyra Rhaenys Roelle Rhaera Scolera Selyse Senelle Serenei Shiera Shireen Talla Tanda Unella Visenya Vaena 
+	}
+}
