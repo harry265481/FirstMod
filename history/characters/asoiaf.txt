@@ -34,20 +34,57 @@
 		add_spouse = 900002
 	}
 	1066.1.1 = {
+		add_pressed_claim = title:c_middlesex
 		add_pressed_claim = title:k_england
-	}
-	1066.9.16 = {
-		if = {
-			limit = {
-				NOT = { year = 1067 }
-				NOT = { has_landed_title = e_britannia }
+		add_pressed_claim = title:k_ireland
+		add_pressed_claim = title:k_scotland
+		add_pressed_claim = title:k_wales
+		add_pressed_claim = title:e_britannia
+		spawn_army = {
+			men_at_arms = {
+				type = armored_footmen
+				men = 1700
 			}
-			if = {
-				limit = { ai = no }
-				character_event = { id = asoiaf.1 }
+			men_at_arms = {
+				type = armored_footmen
+				men = 1700
 			}
+			men_at_arms = {
+				type = armored_footmen
+				men = 1700
+			}
+			men_at_arms = {
+				type = armored_footmen
+				men = 1700
+			}
+			men_at_arms = {
+				type = armored_footmen
+				men = 1700
+			}
+			men_at_arms = {
+				type = armored_footmen
+				men = 1700
+			}
+			men_at_arms = {
+				type = armored_footmen
+				men = 1700
+			}
+			location = province:2325
 		}
+		add_gold = 3000
 	}
+	#	1066.9.16 = {
+	#		if = {
+	#			limit = {
+	#				NOT = { year = 1067 }
+	#				NOT = { has_landed_title = e_britannia }
+	#			}
+	#			if = {
+	#				limit = { is_ai = no }
+	#				trigger_event = { id = asoiaf.1 }
+	#			}
+	#		}
+	#	}
 	1103.1.1 = {
 		death = yes
 	}

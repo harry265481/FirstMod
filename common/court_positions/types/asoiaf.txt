@@ -1,0 +1,141 @@
+﻿admiral_position = {
+	skill = martial
+	max_available_positions = 1
+	category = court_position_category_royal
+	minimum_rank = kingdom
+
+	opinion = {
+		value = 20
+	}
+
+	aptitude_level_breakpoints = { 20 40 60 80 }
+
+	aptitude = {
+		value = 40
+		add = {
+			value = martial
+			multiply = 4
+			max = 50
+			desc = court_position_skill_martial
+		}
+		if = {
+			limit = {
+				capital_province = is_coastal
+			}
+			add = {
+				value = 20
+				desc = court_position_coastal
+			}
+		}
+		if = {
+			limit = {
+				has_trait = blind # Can't see the damn ships
+			}
+			add = {
+				value = -20
+				desc = court_position_blind_trait
+			}
+		}
+		add = court_position_aptitude_family_business_value
+		add = court_position_aptitude_low_penalty_value
+	}
+
+	is_shown = {
+		has_culture = valyrian
+	}
+
+	valid_character = {
+		scope:employee = {
+			is_imprisoned = no
+			is_vassal_of = scope:liege
+		}
+	}
+
+	revoke_cost = {
+		prestige =  {
+			value = major_court_position_prestige_revoke_cost
+
+			# Set to 0 with Dynasty Perk Inner Circle
+			if = {
+				limit = {
+					exists = dynasty
+					dynasty = { has_dynasty_perk = fp2_coterie_legacy_1 }
+
+					employs_court_position = admiral_position
+					any_court_position_holder = {
+				        type = admiral_position
+						exists = dynasty
+						house = prev.house
+					}
+				}
+				multiply = 0
+			}
+		}
+	}
+
+	salary = {
+		round = no
+		gold = {
+			value = minor_court_position_salary
+			# Set to 0 with Dynasty Perk Inner Circle
+			if = {
+				limit = {
+					scope:liege = {
+						exists = dynasty
+						dynasty = { has_dynasty_perk = fp2_coterie_legacy_1 }
+
+						employs_court_position = admiral_position
+						any_court_position_holder = {
+					        type = admiral_position
+							exists = dynasty
+							house = prev.house
+						}
+					}
+				}
+				multiply = {
+					value = 0.0
+					desc = inner_circle_salary_mod
+					format = "BASE_VALUE_FORMAT_DECIMALS_MINUS_POSITIVE"
+				}
+			}
+		}
+	}
+	
+	base_employer_modifier = {
+		diplomacy_per_prestige_level = 1
+	}
+
+	scaling_employer_modifiers = {
+		aptitude_level_1 = {
+		}
+		aptitude_level_2 = {
+			court_grandeur_baseline_add = 1
+		}
+		aptitude_level_3 = {
+			court_grandeur_baseline_add = 1
+		}
+		aptitude_level_4 = {
+			court_grandeur_baseline_add = 2
+		}
+		aptitude_level_5 = {
+			court_grandeur_baseline_add = 2
+		}
+	}
+
+	on_court_position_received = {
+		admiral_position_title_accepted_effect = yes
+	}
+	on_court_position_revoked = { 
+		admiral_position_title_revoked_effect = yes
+	}
+	on_court_position_invalidated = {
+		admiral_position_title_invalidated_effect = yes
+	}
+	candidate_score = {
+		value = 25
+		add = scope:base_value
+		add = court_position_candidate_score_base_value
+		add = court_position_candidate_aptitude_value
+		add = court_position_debt_considerations_value
+	}
+}

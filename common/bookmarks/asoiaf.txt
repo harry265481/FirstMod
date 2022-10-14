@@ -1,4 +1,4 @@
-bm_1066_aegon = {
+﻿bm_1066_aegon = {
 	start_date = 1066.9.15
 	is_playable = yes
 	
