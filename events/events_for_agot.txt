@@ -1,0 +1,16 @@
+﻿namespace = custom
+custom.01 = {
+	desc = custom.01.desc
+	type = character_event
+	title = "Custom Event I made!"
+	left_portrait = root
+	trigger = {
+		
+	}
+	option = {
+		name = example.1.a
+		trigger_event = {
+			id = example.2
+		}
+	}
+}
