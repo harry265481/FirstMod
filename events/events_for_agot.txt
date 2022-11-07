@@ -39,9 +39,7 @@ custom.2 = {
 	option = {
 		name = "I am once again asking that you stop annoying me with these events!"
 		trigger = {
-			OR = {
-				has_trait = impatient
-			}
+			has_trait = impatient
 		}
 		trait = impatient
 	}
@@ -60,9 +58,7 @@ custom.3 = {
 	option = {
 		name = "At least give me money for wasting my time!"
 		trigger = {
-			OR = {
-				has_trait = greedy
-			}
+			has_trait = greedy
 		}
 		trigger_event = {
 			id = custom.4
