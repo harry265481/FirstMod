@@ -3,8 +3,5 @@ tags={
 	"Culture"
 	"Religion"
 }
-replace_path="history/provinces"
-replace_path="history/titles"
-replace_path="history/characters"
 name="FirstMod"
 supported_version="1.7.2"

@@ -1,16 +1,80 @@
 ﻿namespace = custom
-custom.01 = {
-	desc = custom.01.desc
+custom.1 = {
+	desc = "This is a custom event"
 	type = character_event
 	title = "Custom Event I made!"
 	left_portrait = root
-	trigger = {
-		
+	option = {
+		name = "Next step!"
+		trigger_event = {
+			id = custom.2
+		}
 	}
 	option = {
-		name = example.1.a
-		trigger_event = {
-			id = example.2
+		name = "I am the blood of the dragon, do not pester me with this!"
+		trigger = {
+			OR = {
+				has_trait = valyrian_1
+				has_trait = valyrian_2
+				has_trait = valyrian_3
+			}
 		}
+		trait = valyrian_3
+	}
+}
+
+custom.2 = {
+	desc = "I must have hit the first option on the last event"
+	type = character_event
+	title = "Custom event number 2!"
+	left_portrait = root
+	
+	option = {
+		name = "Next step!"
+		trigger_event = {
+			id = custom.3
+		}
+	}
+	
+	option = {
+		name = "I am once again asking that you stop annoying me with these events!"
+		trigger = {
+			OR = {
+				has_trait = impatient
+			}
+		}
+		trait = impatient
+	}
+}
+
+custom.3 = {
+	desc = "I must have hit the first option on the last event"
+	type = character_event
+	title = "Custom event number 3!"
+	left_portrait = root
+	
+	option = {
+		name = "Enough!"
+	}
+	
+	option = {
+		name = "At least give me money for wasting my time!"
+		trigger = {
+			OR = {
+				has_trait = greedy
+			}
+		}
+		trigger_event = {
+			id = custom.4
+		}
+		trait = greedy
+	}
+}
+
+custom.4 = {
+	type = character_event
+	hidden = yes
+	immediate = {
+		add_gold = 75;
 	}
 }
