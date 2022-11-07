@@ -1,0 +1,298 @@
+contraceptives_modifier = {
+	icon = fertility_negative
+	fertility = -100
+	monthly_income = -0.1
+}
+
+asoiaf_fertility_health_boost = {
+	icon = fertility_positive
+	fertility = 90
+	health = 1.5
+	stress_gain_mult = -0.5
+	stress_loss_mult = 0.5
+}
+
+hails_from_westeros = {
+	icon = prestige_positive
+	#knight_limit = 10
+	#knight_effectiveness_mult = 0.20
+	inbreeding_chance = -0.25 #inbreeding in ASOIAF is less intense than in real life
+	fertility = 0.25 #just so the Westerosi Houses don't die off so easily
+	
+	#vassal_limit = 20
+	#fellow_vassal_opinion = 20 #so they don't try to wage war on each other all the bloody time
+	#max_hostile_schemes_add = 1
+	#max_personal_schemes_add = 1
+	#movement_speed = 0.15
+	#supply_duration = 6
+	#supply_capacity_mult = 1
+	#hostile_county_attrition = -1
+	#different_faith_county_opinion_mult = -0.5
+	#monthly_lifestyle_xp_gain_mult = 0.8
+	#men_at_arms_maintenance = -0.95
+	#men_at_arms_limit = 3 #upgradable limit
+	#men_at_arms_cap = 1 #total number
+	#levy_size = -0.5
+	#vassal_levy_contribution_mult = -0.5
+	#archers_siege_value_add = 0.1
+
+	#always_use_patronym = no
+	hide_effects = yes
+}
+
+ironborn_old_way = {
+	icon = martial_positive
+	#This modifier gives access to raiding & overseas raiding via the 00_scripted_rule_triggers and 00_rules files
+	#conquest_cb_enabled = yes
+	#invasion_cb_enabled = yes
+	#raid_speed = 1
+	#max_loot_mult = 5
+	#hostile_county_attrition = -0.60
+	#embarkation_cost_mult = -0.5
+	#movement_speed = 0.2
+	#supply_duration = 0.5
+	#independent_ruler_opinion = -10
+	#martial_per_prestige_level = 1
+}
+
+frey = {
+	icon = fertility_positive
+	#fertility = 2
+	#life_expectancy = 5
+	#general_opinion = -5
+	#opinion_of_liege = -10 #YOUR opinion of your liege
+	
+	ai_honor = high_negative_ai_value
+	ai_vengefulness = very_high_positive_ai_value
+	ai_greed = very_high_positive_ai_value
+}
+
+lannister = {
+	icon = intrigue_positive
+	#owned_hostile_scheme_success_chance_add = 10
+	#intrigue = 1
+	#stewardship = 1
+	
+	ai_vengefulness = high_positive_ai_value
+	ai_honor = medium_negative_ai_value
+}
+
+clegane = {
+	icon = prowess_positive
+	#prowess = 10
+	
+	ai_sociability = very_high_negative_ai_value
+	ai_honor = very_high_negative_ai_value
+	ai_compassion = high_negative_ai_value
+}
+
+greyjoy = {
+	icon = dread_positive
+	
+	ai_compassion = low_negative_ai_value
+	ai_honor = high_negative_ai_value
+	ai_vengefulness = high_positive_ai_value
+	ai_boldness = high_positive_ai_value
+}
+
+greyiron = {
+	icon = blood_positive
+	#dread_baseline_add = 5
+	#dread_gain_mult = 1.0
+	#dread_decay_mult = -0.1
+	
+	ai_compassion = very_high_negative_ai_value
+	ai_honor = very_high_negative_ai_value
+	ai_vengefulness = high_positive_ai_value
+	ai_boldness = high_positive_ai_value
+}
+
+hoare = {
+	icon = dread_positive
+	#dread_baseline_add = 10
+	#dread_gain_mult = 0.5
+	#dread_decay_mult = -0.25
+	
+	ai_compassion = very_high_negative_ai_value
+	ai_honor = very_high_negative_ai_value
+	ai_vengefulness = high_positive_ai_value
+	ai_boldness = high_positive_ai_value
+}
+
+baelish = {
+	icon = intrigue_positive
+	#intrigue = 10
+	#hostile_scheme_power_mult = 2
+	#owned_scheme_secrecy_add = 75
+	#scheme_discovery_chance_mult = 0.1
+	#hostile_scheme_resistance_mult = 0.2
+	#owned_personal_scheme_success_chance_add = 20
+	#owned_hostile_scheme_success_chance_add = 40
+	#monthly_intrigue_lifestyle_xp_gain_mult = 0.5
+	#stewardship_per_prestige_level = 1
+	#intrigue_per_prestige_level = 1
+	
+	ai_compassion = high_negative_ai_value
+	ai_honor = very_high_negative_ai_value
+	ai_boldness = low_negative_ai_value
+	ai_greed = high_positive_ai_value
+}
+
+tyrell = {
+	icon = diplomacy_positive
+	#county_opinion_add = 15
+	#general_opinion = 5
+	#liege_opinion = 5 #liege's opinion of YOU
+	
+	ai_war_chance = -0.5
+	ai_compassion = high_positive_ai_value
+	ai_sociability = low_positive_ai_value
+}
+
+baratheon = {
+	icon = prowess_positive
+	#prowess = 5 #already on the baratheon trait
+	#martial = 1
+	
+	ai_boldness = very_high_positive_ai_value
+	ai_energy = high_positive_ai_value
+}
+
+durrandon = {
+	icon = prowess_positive
+	#prowess = 5 #already on the baratheon trait
+	3martial = 1
+	
+	ai_boldness = very_high_positive_ai_value
+	ai_energy = high_positive_ai_value
+}
+
+stark = {
+	icon = family_positive
+	#close_relative_opinion = 25
+	#vassal_opinion = 10
+	
+	ai_honor = very_high_positive_ai_value
+}
+
+bolton = {
+	icon = blood_positive
+	#dread_baseline_add = 20
+	#dread_gain_mult = 0.3
+	#dread_decay_mult = -0.5
+	
+	ai_compassion = very_high_negative_ai_value
+	ai_honor = high_negative_ai_value
+	ai_vengefulness = high_positive_ai_value
+}
+
+valyrian_house = {
+	icon = family_positive
+	#ignore_negative_culture_opinion = yes
+	#ignore_negative_opinion_of_culture = yes
+	#inbreeding_chance = -0.5
+	#vassal_opinion = 5
+	#courtier_opinion = 5
+	#monthly_county_control_change_factor = 0.2
+	#martial_per_prestige_level = 1
+}
+
+northern_house = {
+	icon = family_positive
+	#winter_movement_speed = 0.25
+	#winter_advantage = 5
+	#taiga_advantage = 5
+	#taiga_attrition_mult = -0.5
+}
+
+dornish_house = {
+	icon = family_positive
+	#desert_advantage = 5
+	#desert_mountains_advantage = 5
+	#desert_cancel_negative_supply = yes
+	#desert_attrition_mult = -0.5
+	#desert_mountains_attrition_mult = -0.25
+	#intrigue_per_prestige_level = 1
+}
+
+reachman_house = {
+	icon = family_positive
+	#knight_effectiveness_mult = 0.2
+	#knight_limit = 5
+	#county_opinion_add = 10
+	#vassal_opinion = 5
+	#stewardship_per_prestige_level = 1
+}
+
+valeman_house = {
+	icon = family_positive
+	#knight_effectiveness_mult = 0.4
+	#mountains_advantage = 5
+	
+	ai_honor = medium_positive_ai_value
+}
+
+crownlander_house = {
+	icon = family_positive
+	#knight_limit = 5
+	#liege_opinion = 15 #liege's opinion of YOU
+	#opinion_of_liege = 30 #YOUR opinion of your liege
+	#diplomacy_per_prestige_level = 1
+	
+	ai_war_chance = -0.5
+}
+
+riverman_house = {
+	icon = family_positive
+	#wetlands_advantage = 5
+	#no_water_crossing_penalty = yes
+	#hard_casualty_modifier = -0.05
+	#controlled_province_advantage = 5
+	
+	ai_boldness = low_negative_ai_value
+	ai_honor = low_positive_ai_value
+}
+
+ironborn_house = {
+	icon = family_positive
+	#embarkation_cost_mult = -0.5
+	#naval_movement_speed_mult = 0.25
+	#general_opinion = -5
+	#prowess_per_piety_level = 1
+	#coastal_advantage = 5
+	
+	ai_honor = meidum_negative_ai_value
+	ai_boldness = medium_positive_ai_value
+	ai_greed = high_positive_ai_value
+	ai_compassion = low_negative_ai_value
+	ai_sociability = low_negative_ai_value
+}
+
+westerman_house = {
+	icon = family_positive
+	#hills_advantage = 5
+	#powerful_vassal_opinion = 15
+	
+	ai_greed = medium_positive_ai_value
+}
+
+stormlander_house = {
+	icon = family_positive
+	#martial = 2
+	#prowess_per_prestige_level = 1
+	
+	ai_boldness = high_positive_ai_value
+	ai_honor = low_positive_ai_value
+}
+
+ghiscari_house = {
+	icon = outdoors_positive
+	#hills_advantage = 5
+	#powerful_vassal_opinion = 15
+	
+	ai_greed = medium_positive_ai_value
+	ai_boldness = low_positive_ai_value
+	ai_compassion = low_negative_ai_value
+	ai_honor = low_negative_ai_value
+	ai_vengefulness = very_high_positive_ai_value
+}

@@ -1,0 +1,226 @@
+﻿# Emblems used in the CoA designer.
+# The order defines the order in which they are listed.
+#
+# Format:
+# filename = {
+#     # How many colors options to show for this emblem. Optional, will assume maximum number of colors if missing
+#     colors = 3
+#
+#     # Whether to show the emblem in the CoA designer. Default yes.
+#     # Add an entry with no to allow specifying number of colors for emblems used in adjusted mode
+#     visible = no
+# }
+#
+#
+# Use the count_unique_emblem_colors console command to generate this instead of manually doing the tedium
+# Note that the command does NOT preserve your visible definitions, so you'll want to add them back in yourself, use a diff tool to make it easier
+
+# Double underscore intentional to make it the first option in the list
+ce__empty_designer.dds = { colors = 0 category = abstract }
+
+#ASOIAF COAS
+#(Taken from: HBO and A Wiki of Ice and Fire. The vast majority of them were sourced and converted to CK3-usable CoAs by myself)
+asoiaf_apple.dds = { colors = 3 category = asoiaf }
+asoiaf_lion_split.dds = { colors = 2 category = asoiaf }
+asoiaf_stag_split.dds = { colors = 2 category = asoiaf }
+asoiaf_stag.dds = { colors = 1 category = asoiaf }
+asoiaf_stag_crowned.dds = { colors = 2 category = asoiaf }
+asoiaf_bear_1.dds = { colors = 1 category = asoiaf }
+asoiaf_raven_displayed.dds = { colors = 1 category = asoiaf }
+asoiaf_raven_profile.dds = { colors = 1 category = asoiaf }
+asoiaf_tree_dead_3.dds = { colors = 1 category = asoiaf }
+asoiaf_flayed_man.dds = { colors = 3 category = asoiaf }
+asoiaf_horse_rampant.dds = { colors = 1 category = asoiaf }
+asoiaf_wheel_broken.dds = { colors = 1 category = asoiaf }
+asoiaf_falcon_on_moon.dds = { colors = 2 category = asoiaf }
+asoiaf_badger.dds = { colors = 2 category = asoiaf }
+asoiaf_bend_cotised.dds = { colors = 1 category = asoiaf }
+asoiaf_stag_head_2.dds = { colors = 2 category = asoiaf }
+asoiaf_plowman.dds = { colors = 1 category = asoiaf }
+asoiaf_buckle.dds = { colors = 2 category = asoiaf }
+asoiaf_farwynd_sigil.dds = { colors = 2 category = asoiaf }
+asoiaf_crab.dds = { colors = 2 category = asoiaf }
+asoiaf_crab_field.dds = { colors = 2 category = asoiaf }
+asoiaf_feather.dds = { colors = 2 category = asoiaf }
+asoiaf_feather_curved.dds = { colors = 2 category = asoiaf }
+asoiaf_heart_flaming.dds = { colors = 3 category = asoiaf }
+asoiaf_flail.dds = { colors = 1 category = asoiaf }
+asoiaf_bridge.dds = { colors = 2 category = asoiaf }
+asoiaf_cloud_hand_lightning.dds = { colors = 2 category = asoiaf }
+asoiaf_kraken.dds = { colors = 3 category = asoiaf }
+asoiaf_lance.dds = { colors = 2 category = asoiaf }
+asoiaf_crown_stars.dds = { colors = 1 category = asoiaf }
+asoiaf_lemon_field.dds = { colors = 2 category = asoiaf }
+asoiaf_lips.dds = { colors = 1 category = asoiaf }
+asoiaf_sun_spear.dds = { colors = 3 category = asoiaf }
+asoiaf_spear.dds = { colors = 2 category = asoiaf }
+asoiaf_star_seven_pointed_encircled.dds = { colors = 3 category = asoiaf }
+asoiaf_sun_1.dds = { colors = 2 category = asoiaf }
+asoiaf_onion.dds = { colors = 2 category = asoiaf }
+asoiaf_bricks.dds = { colors = 2 category = asoiaf }
+asoiaf_tree_pine.dds = { colors = 2 category = asoiaf }
+asoiaf_seahorse_1.dds = { colors = 3 category = asoiaf }
+asoiaf_seahorse_2.dds = { colors = 1 category = asoiaf }
+asoiaf_shell.dds = { colors = 2 category = asoiaf }
+asoiaf_skull_1.dds = { colors = 2 category = asoiaf }
+asoiaf_swordfish.dds = { colors = 2 category = asoiaf }
+asoiaf_tarbeck_sigil.dds = { colors = 2 category = asoiaf }
+asoiaf_huntsman_2.dds = { colors = 2 category = asoiaf }
+asoiaf_vines.dds = { colors = 1 category = asoiaf }
+asoiaf_warhammer.dds = { colors = 2 category = asoiaf }
+asoiaf_battleaxe.dds = { colors = 2 category = asoiaf }
+asoiaf_fish_two_headed.dds = { colors = 1 category = asoiaf }
+asoiaf_gryphon_split.dds = { colors = 2 category = asoiaf }
+asoiaf_dagger.dds = { colors = 3 category = asoiaf }
+asoiaf_dayne_sigil_2.dds = { colors = 1 category = asoiaf }
+asoiaf_dayne_sigil_1.dds = { colors = 2 category = asoiaf }
+asoiaf_lightning_stars.dds = { colors = 2 category = asoiaf }
+asoiaf_knight_poised.dds = { colors = 1 category = asoiaf }
+asoiaf_fireburst.dds = { colors = 3 category = asoiaf }
+asoiaf_arrow_flaming.dds = { colors = 3 category = asoiaf }
+asoiaf_sword_silhouette_small.dds = { colors = 1 category = asoiaf }
+asoiaf_tree_dead_1.dds = { colors = 1 category = asoiaf }
+asoiaf_fox.dds = { colors = 3 category = asoiaf }
+asoiaf_spear_skulls.dds = { colors = 3 category = asoiaf }
+asoiaf_lit_stone_watchtower.dds = { colors = 3 category = asoiaf }
+asoiaf_hound.dds = { colors = 2 category = asoiaf }
+asoiaf_sun_4.dds = { colors = 1 category = asoiaf }
+asoiaf_waves_4.dds = { colors = 2 category = asoiaf }
+asoiaf_lion_rampant.dds = { colors = 3 category = asoiaf }
+asoiaf_lion_rampant_forked_tail.dds = { colors = 3 category = asoiaf }
+asoiaf_lion_passant.dds = { colors = 3 category = asoiaf }
+asoiaf_lion_head.dds = { colors = 3 category = asoiaf }
+asoiaf_lizard_lion.dds = { colors = 3 category = asoiaf }
+asoiaf_mace.dds = { colors = 3 category = asoiaf }
+asoiaf_chain_maester.dds = { colors = 1 category = asoiaf }
+asoiaf_eagle_1.dds = { colors = 2 category = asoiaf }
+asoiaf_skull_crowned.dds = { colors = 2 category = asoiaf }
+asoiaf_tree_dead_2.dds = { colors = 1 category = asoiaf }
+asoiaf_merman.dds = { colors = 1 category = asoiaf }
+asoiaf_mockingbird.dds = { colors = 1 category = asoiaf }
+asoiaf_crow_flying.dds = { colors = 1 category = asoiaf }
+asoiaf_waves_2.dds = { colors = 3 category = asoiaf }
+asoiaf_onion_ship.dds = { colors = 3 category = asoiaf }
+asoiaf_star_seven_pointed_linked.dds = { colors = 1 category = asoiaf }
+asoiaf_quill_1.dds = { colors = 2 category = asoiaf }
+asoiaf_quill_2.dds = { colors = 2 category = asoiaf }
+asoiaf_grapes_1.dds = { colors = 3 category = asoiaf }
+asoiaf_stag_head_1.dds = { colors = 1 category = asoiaf }
+asoiaf_lion_rampant_regardant_forked_tail.dds = { colors = 3 category = asoiaf }
+asoiaf_lion_rampant_regardant.dds = { colors = 3 category = asoiaf }
+asoiaf_tree_1.dds = { colors = 2 category = asoiaf }
+asoiaf_runes.dds = { colors = 2 category = asoiaf }
+asoiaf_salmon.dds = { colors = 2 category = asoiaf }
+asoiaf_scythe.dds = { colors = 2 category = asoiaf }
+asoiaf_wheat_stalks_three.dds = { colors = 1 category = asoiaf }
+asoiaf_hand_skeletal.dds = { colors = 2 category = asoiaf }
+asoiaf_swan_1.dds = { colors = 1 category = asoiaf }
+asoiaf_dragon_three_headed_1.dds = { colors = 3 category = asoiaf }
+asoiaf_dragon_three_headed_2.dds = { colors = 3 category = asoiaf }
+asoiaf_dragon_three_headed_tricolour.dds = { colors = 3 category = asoiaf }
+asoiaf_dragon_three_headed_trimmed.dds = { colors = 3 category = asoiaf }
+asoiaf_dragon_single_headed_1.dds = { colors = 3 category = asoiaf }
+asoiaf_dragon_ouroboros.dds = { colors = 3 category = asoiaf }
+asoiaf_huntsman_1.dds = { colors = 2 category = asoiaf }
+asoiaf_moon_1.dds = { colors = 1 category = asoiaf }
+asoiaf_sun_2.dds = { colors = 1 category = asoiaf }
+asoiaf_waves_3.dds = { colors = 2 category = asoiaf }
+asoiaf_trout.dds = { colors = 2 category = asoiaf }
+asoiaf_turtle_2.dds = { colors = 2 category = asoiaf }
+asoiaf_turtle_1.dds = { colors = 1 category = asoiaf }
+asoiaf_shackles_crossed.dds = { colors = 2 category = asoiaf }
+asoiaf_bat_1.dds = { colors = 2 category = asoiaf }
+asoiaf_grapes_2.dds = { colors = 3 category = asoiaf }
+asoiaf_wolf_head_1.dds = { colors = 3 category = asoiaf }
+asoiaf_wolf_head_2.dds = { colors = 3 category = asoiaf }
+asoiaf_peacock.dds = { colors = 3 category = asoiaf }
+asoiaf_fist.dds = { colors = 1 category = asoiaf }
+asoiaf_strong_strips.dds = { colors = 3 category = asoiaf }
+asoiaf_bittersteel.dds = { colors = 3 category = asoiaf }
+asoiaf_fish_botley.dds = { colors = 2 category = asoiaf }
+asoiaf_lion_wolf.dds = { colors = 3 category = asoiaf }
+asoiaf_boar.dds = { colors = 3 category = asoiaf }
+asoiaf_castle_1.dds = { colors = 2 category = asoiaf }
+asoiaf_castle_2.dds = { colors = 2 category = asoiaf }
+asoiaf_waves_1.dds = { colors = 1 category = asoiaf }
+asoiaf_warhorn.dds = { colors = 3 category = asoiaf }
+asoiaf_lightning_bolt.dds = { colors = 1 category = asoiaf }
+asoiaf_crown_1.dds = { colors = 3 category = asoiaf }
+asoiaf_crown_2.dds = { colors = 2 category = asoiaf }
+asoiaf_pitchfork.dds = { colors = 1 category = asoiaf }
+asoiaf_sun_3.dds = { colors = 1 category = asoiaf }
+asoiaf_serpent_nine_headed.dds = { colors = 1 category = asoiaf }
+asoiaf_rooster.dds = { colors = 3 category = asoiaf }
+asoiaf_nightingale.dds = { colors = 2 category = asoiaf }
+asoiaf_embattled.dds = { colors = 1 category = asoiaf }
+asoiaf_wave_1.dds = { colors = 1 category = asoiaf }
+asoiaf_spiral.dds = { colors = 1 category = asoiaf }
+asoiaf_scorpion.dds = { colors = 1 category = asoiaf }
+asoiaf_raven_heart = { colors = 2 category = asoiaf }
+asoiaf_spear_bloody_tip.dds = { colors = 3 category = asoiaf }
+asoiaf_spiral_triple.dds = { colors = 3 category = asoiaf }
+asoiaf_moose_head.dds = { colors = 1 category = asoiaf }
+asoiaf_helm.dds = { colors = 2 category = asoiaf }
+asoiaf_helm_feather.dds = { colors = 2 category = asoiaf }
+asoiaf_lamb.dds = { colors = 2 category = asoiaf }
+asoiaf_lamb_goblet.dds = { colors = 3 category = asoiaf }
+asoiaf_sword_broken.dds = { colors = 2 category = asoiaf }
+asoiaf_star_seven_pointed.dds = { colors = 2 category = asoiaf }
+asoiaf_star_four_pointed.dds = { colors = 1 category = asoiaf }
+asoiaf_mountains_1.dds = { colors = 1 category = asoiaf }
+asoiaf_gauntlet.dds = { colors = 2 category = asoiaf }
+asoiaf_sprig_of_broom.dds = { colors = 2 category = asoiaf }
+asoiaf_catfish.dds = { colors = 2 category = asoiaf }
+asoiaf_sea_king_head.dds = { colors = 3 category = asoiaf }
+asoiaf_hand_1.dds = { colors = 1 category = asoiaf }
+asoiaf_hand_2.dds = { colors = 1 category = asoiaf }
+asoiaf_rose_1.dds = { colors = 2 category = asoiaf }
+asoiaf_chains_diagonal.dds = { colors = 2 category = asoiaf }
+asoiaf_cod.dds = { colors = 1 category = asoiaf }
+asoiaf_cauldron.dds = { colors = 2 category = asoiaf }
+asoiaf_snake.dds = { colors = 2 category = asoiaf }
+asoiaf_spider.dds = { colors = 2 category = asoiaf }
+asoiaf_man_hanged.dds = { colors = 1 category = asoiaf }
+asoiaf_weasel.dds = { colors = 2 category = asoiaf }
+asoiaf_trmumpets_crossed.dds = { colors = 1 category = asoiaf }
+asoiaf_web.dds = { colors = 2 category = asoiaf }
+asoiaf_wyl_sigil.dds = { colors = 2 category = asoiaf }
+asoiaf_leopard_rampant.dds = { colors = 2 category = asoiaf }
+asoiaf_leopard_standant.dds = { colors = 2 category = asoiaf }
+asoiaf_harpy.dds = { colors = 3 category = asoiaf }
+asoiaf_goose.dds = { colors = 3 category = asoiaf }
+asoiaf_hightower.dds = { colors = 2 category = asoiaf }
+asoiaf_floral_border.dds = { colors = 1 category = asoiaf }
+asoiaf_floral_inner_border.dds = { colors = 1 category = asoiaf }
+
+#HISTORICAL ALT COAS
+historical_plain.dds = { colors = 1 category = asoiaf }
+historical_portcullis.dds = { colors = 2 category = historical }
+historical_portcullis_no_chains.dds = { colors = 2 category = historical }
+historical_goblet.dds = { colors = 1 category = historical }
+historical_quarter.dds = { colors = 1 category = historical }
+historical_vairy.dds = { colors = 2 category = historical }
+historical_dexter.dds = { colors = 1 category = historical }
+historical_bottom_solid.dds = { colors = 1 category = historical }
+historical_per_fess_wavy.dds = { colors = 2 category = historical }
+historical_fretty.dds = { colors = 2 category = historical }
+historical_flaunches.dds = { colors = 2 category = historical }
+historical_pale_wavy.dds = { colors = 2 category = historical }
+historical_raven.dds = { colors = 2 category = historical }
+historical_hre_eagle_double.dds = { colors = 3 category = historical }
+historical_diamond_1.dds = { colors = 1 category = historical }
+historical_diamond_2.dds = { colors = 1 category = historical }
+historical_diamond_3.dds = { colors = 1 category = historical }
+historical_border_meander_1.dds = { colors = 2 category = historical }
+historical_border_meander_2.dds = { colors = 2 category = historical }
+historical_border_meander_3.dds = { colors = 2 category = historical }
+historical_border_stars_1.dds = { colors = 1 category = historical }
+historical_border_checker_1.dds = { colors = 2 category = historical }
+historical_border_leaves_1.dds = { colors = 2 category = historical }
+historical_border_simple_1.dds = { colors = 1 category = historical }
+historical_border_simple_2.dds = { colors = 1 category = historical }
+historical_border_triangles_1.dds = { colors = 1 category = historical }
+historical_border_triangles_2.dds = { colors = 2 category = historical }
+historical_border_zigzag_1.dds = { colors = 2 category = historical }
+historical_border_zigzag_2.dds = { colors = 1 category = historical }
+historical_border_rug_1.dds = { colors = 2 category = historical }

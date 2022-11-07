@@ -1,0 +1,510 @@
+dynn_Dhazak = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Dhazak = dynn_Dhazak
+
+dynn_Galare = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "ce_circle.dds"
+		color1 = "black"
+		instance = { position = { 0.505 0.17 } scale = { 0.256 0.256 }  }
+	}
+	colored_emblem = {
+		texture = "ce_circle.dds"
+		color1 = rgb { 217 188 103 }
+		instance = { position = { 0.505 0.17 } scale = { 0.24 0.24 }  }
+	}
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = rgb { 237 170 125 }
+		color3 = "asoiaf_brown_dark"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_triangles_2.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_sand_light"
+		instance = { position = { 0.55 0.5 } scale = { 1.0 1.0 } rotation = -90 } #left
+		instance = { position = { 0.45 0.5 } scale = { 1.0 1.0 } rotation = 90 } #right
+	}
+}
+house_Galare = dynn_Galare
+
+dynn_Ghazeen = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Ghazeen = dynn_Ghazeen
+
+dynn_Hazkar = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Hazkar = dynn_Hazkar
+
+dynn_Kandaq = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Kandaq = dynn_Kandaq
+
+dynn_Loraq = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Loraq = dynn_Loraq
+
+dynn_Merreq = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Merreq = dynn_Merreq
+
+dynn_Naqqan = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Naqqan = dynn_Naqqan
+
+dynn_Pahl = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Pahl = dynn_Pahl
+
+dynn_Quazzar = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Quazzar = dynn_Quazzar
+
+dynn_Reznak = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Reznak = dynn_Reznak
+
+dynn_Rhazdar = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Rhazdar = dynn_Rhazdar
+
+dynn_Uhlez = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Uhlez = dynn_Uhlez
+
+dynn_Yherizan = {
+	pattern = "pattern_solid.dds"	
+	color1 = rgb { 61 64 37 }
+	color2 = rgb { 148 104 38 }
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = rgb { 148 104 38 }
+		color2 = rgb { 237 170 125 }
+		color3 = "asoiaf_brown_dark"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_black"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Yherizan = dynn_Yherizan
+
+dynn_Zhak = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_green_warm_undertone"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_green_warm_undertone"
+		color3 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Zhak = dynn_Zhak
+
+dynn_Nakloz = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_bone_dark_warm"
+	color2 = "asoiaf_burgundy_dark"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_burgundy_dark"
+		color2 = "asoiaf_bone_dark_warm"
+		color3 = "asoiaf_bone_dark_warm"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_burgundy_dark"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Nakloz = dynn_Nakloz
+
+dynn_Ullhor = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_bone_dark_warm"
+	color2 = "asoiaf_burgundy_dark"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_burgundy_dark"
+		color2 = "asoiaf_bone_dark_warm"
+		color3 = "asoiaf_bone_dark_warm"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_burgundy_dark"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Ullhor = dynn_Ullhor
+
+dynn_Ahlaq = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_orange"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_orange"
+		color3 = "asoiaf_orange"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Ahlaq = dynn_Ahlaq
+
+dynn_Eraz = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_orange"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_orange"
+		color3 = "asoiaf_orange"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Eraz = dynn_Eraz
+
+dynn_Faez = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_orange"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_orange"
+		color3 = "asoiaf_orange"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Faez = dynn_Faez
+
+dynn_Myraq = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_orange"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_orange"
+		color3 = "asoiaf_orange"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Myraq = dynn_Myraq
+
+dynn_Qaggaz = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_orange"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_orange"
+		color3 = "asoiaf_orange"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Qaggaz = dynn_Qaggaz
+
+dynn_Rhaezn = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_orange"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_orange"
+		color3 = "asoiaf_orange"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Rhaezn = dynn_Rhaezn
+
+dynn_Yunzak = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_orange"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_orange"
+		color3 = "asoiaf_orange"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Yunzak = dynn_Yunzak
+
+dynn_Zherzyn = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_orange"
+	color2 = "asoiaf_yellow"
+	colored_emblem = {
+		texture = "asoiaf_harpy.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_orange"
+		color3 = "asoiaf_orange"
+		instance = { position = { 0.5 0.47 } scale = { 1.0 0.85 }  }			
+	}
+	colored_emblem = {
+		texture = "historical_border_simple_1.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.65 0.5 } scale = { 0.5 1.0 } rotation = 90 }
+		instance = { position = { 0.35 0.5 } scale = { 0.5 1.0 } rotation = 270 }
+	}
+}
+house_Zherzyn = dynn_Zherzyn

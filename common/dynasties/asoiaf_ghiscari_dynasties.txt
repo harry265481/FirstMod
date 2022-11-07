@@ -1,0 +1,155 @@
+﻿#Mereen
+dynn_Dhazak = {
+	name = "dynn_Dhazak"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Dhazak_motto"
+}
+dynn_Galare = {
+	name = "dynn_Galare"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Galare_motto"
+}
+dynn_Ghazeen = {
+	name = "dynn_Ghazeen"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Ghazeen_motto"
+}
+dynn_Hazkar = {
+	name = "dynn_Hazkar"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Hazkar_motto"
+}
+dynn_Kandaq = {
+	name = "dynn_Kandaq"
+	prefix = "dynnp_mo"
+	culture = "english"
+	motto = "dynn_Kandaq_motto"
+}
+dynn_Loraq = {
+	name = "dynn_Loraq"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Loraq_motto"
+}
+dynn_Merreq = {
+	name = "dynn_Merreq"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Merreq_motto"
+}
+dynn_Naqqan = {
+	name = "dynn_Naqqan"
+	prefix = "dynnp_mo"
+	culture = "english"
+	motto = "dynn_Naqqan_motto"
+}
+dynn_Pahl = {
+	name = "dynn_Pahl"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Pahl_motto"
+}
+dynn_Quazzar = {
+	name = "dynn_Quazzar"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Quazzar_motto"
+}
+dynn_Reznak = {
+	name = "dynn_Reznak"
+	prefix = "dynnp_mo"
+	culture = "english"
+	motto = "dynn_Reznak_motto"
+}
+dynn_Rhazdar = {
+	name = "dynn_Rhazdar"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Rhazdar_motto"
+}
+dynn_Uhlez = {
+	name = "dynn_Uhlez"
+	prefix = "dynnp_mo"
+	culture = "english"
+	motto = "dynn_Uhlez_motto"
+}
+dynn_Yherizan = {
+	name = "dynn_Yherizan"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Yherizan_motto"
+}
+dynn_Zhak = {
+	name = "dynn_Zhak"
+	prefix = "dynnp_mo"
+	culture = "english"
+	motto = "dynn_Zhak_motto"
+}
+
+#Astapor
+dynn_Nakloz = {
+	name = "dynn_Nakloz"
+	prefix = "dynnp_mo"
+	culture = "english"
+	motto = "dynn_Nakloz_motto"
+}
+dynn_Ullhor = {
+	name = "dynn_Ullhor"
+	prefix = "dynnp_mo"
+	culture = "english"
+	motto = "dynn_Ullhor_motto"
+}
+
+#Yunkai
+dynn_Ahlaq = {
+	name = "dynn_Ahlaq"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Ahlaq_motto"
+}
+dynn_Eraz = {
+	name = "dynn_Eraz"
+	prefix = "dynnp_mo"
+	culture = "english"
+	motto = "dynn_Eraz_motto"
+}
+dynn_Faez = {
+	name = "dynn_Faez"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Faez_motto"
+}
+dynn_Myraq = {
+	name = "dynn_Myraq"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Myraq_motto"
+}
+dynn_Qaggaz = {
+	name = "dynn_Qaggaz"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Qaggaz_motto"
+}
+dynn_Rhaezn = {
+	name = "dynn_Rhaezn"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Rhaezn_motto"
+}
+dynn_Yunzak = {
+	name = "dynn_Yunzak"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Yunzak_motto"
+}
+dynn_Zherzyn = {
+	name = "dynn_Zherzyn"
+	prefix = "dynnp_zo"
+	culture = "english"
+	motto = "dynn_Zherzyn_motto"
+}

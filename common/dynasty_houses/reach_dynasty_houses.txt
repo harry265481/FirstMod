@@ -1,0 +1,88 @@
+﻿#Main Houses
+house_Tyrell = {
+	name = "dynn_Tyrell"
+	dynasty = dynn_Tyrell
+	motto = "dynn_Tyrell_motto"
+}
+house_Florent = {
+	name = "dynn_Florent"
+	dynasty = dynn_Florent
+	motto = "dynn_Florent_motto"
+}
+house_Osgrey = {
+	name = "dynn_Osgrey"
+	dynasty = dynn_Osgrey
+	motto = "dynn_Osgrey_motto"
+}
+house_Hightower = {
+	name = "dynn_Hightower"
+	dynasty = dynn_Hightower
+	motto = "dynn_Hightower_motto"
+}
+house_Gardener = {
+	name = "dynn_Gardener"
+	dynasty = dynn_Gardener
+	motto = "dynn_Gardener_motto"
+}
+house_Redwyne = {
+	name = "dynn_Redwyne"
+	dynasty = dynn_Redwyne
+	motto = "dynn_Redwyne_motto"
+}
+house_Rowan = {
+	name = "dynn_Rowan"
+	dynasty = dynn_Rowan
+	motto = "dynn_Rowan_motto"
+}
+house_Tarly = {
+	name = "dynn_Tarly"
+	dynasty = dynn_Tarly
+	motto = "dynn_Tarly_motto"
+}
+house_Fossoway = {
+	name = "dynn_Fossoway"
+	dynasty = dynn_Fossoway
+	motto = "dynn_Fossoway_motto"
+}
+house_Leygood = {
+	name = "dynn_Leygood"
+	dynasty = dynn_Leygood
+	motto = "dynn_Leygood_motto"
+}
+house_Ashford = {
+	name = "dynn_Ashford"
+	dynasty = dynn_Ashford
+	motto = "dynn_Ashford_motto"
+}
+house_Hastwyck = {
+	name = "dynn_Hastwyck"
+	dynasty = dynn_Hastwyck
+	motto = "dynn_Hastwyck_motto"
+}
+house_Blackbar = {
+	name = "dynn_Blackbar"
+	dynasty = dynn_Blackbar
+	motto = "dynn_Blackbar_motto"
+}
+house_Cockshaw = {
+	name = "dynn_Cockshaw"
+	dynasty = dynn_Cockshaw
+	motto = "dynn_Cockshaw_motto"
+}
+house_Graves = {
+	name = "dynn_Graves"
+	dynasty = dynn_Graves
+	motto = "dynn_Graves_motto"
+}
+
+#Cadet Branches
+house_FossowayNB = {
+	name = "dynn_Fossoway"
+	dynasty = dynn_Fossoway #Fossoway
+	motto = "dynn_Fossoway_motto"
+}
+house_Oldflowers = {
+	name = "dynn_Oldflowers"
+	dynasty = dynn_Gardener
+	motto = "dynn_Gardener_motto"
+}

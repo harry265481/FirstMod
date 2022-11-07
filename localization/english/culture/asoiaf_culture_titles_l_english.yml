@@ -1,0 +1,19 @@
+﻿l_english:
+
+### High Valyrian ###
+# Feudal / Tribal 
+ baron_feudal_male_high_valyrian:0 "Lord"
+ baron_feudal_female_high_valyrian:0 "Lady"
+ barony_feudal_high_valyrian:0 "Low Lordship"
+
+ count_feudal_male_high_valyrian:0 "Lord"
+ count_feudal_female_high_valyrian:0 "Lady"
+ county_feudal_high_valyrian:0 "Lordship"
+ 
+ duke_feudal_male_high_valyrian:0 "Lord"
+ duke_feudal_female_high_valyrian:0 "Lady"
+ duchy_feudal_high_valyrian:0 "High Lordship"
+ 
+ emperor_feudal_male_high_valyrian:0 "King"
+ emperor_feudal_female_high_valyrian:0 "Queen"
+ empire_feudal_high_valyrian:0 "Kingdom"

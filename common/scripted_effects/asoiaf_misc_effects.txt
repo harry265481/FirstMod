@@ -1,0 +1,3 @@
+﻿baelish_modifier = {
+	house = { add_house_modifier = { modifier = baelish } }
+}

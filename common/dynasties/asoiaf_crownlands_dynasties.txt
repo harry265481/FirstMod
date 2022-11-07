@@ -1,0 +1,126 @@
+﻿dynn_Targaryen = {
+	name = "dynn_Targaryen"
+	culture = "english"
+	motto = "dynn_Targaryen_motto"
+}
+
+dynn_Velaryon = {
+	name = "dynn_Velaryon"
+	culture = "english"
+	motto = "dynn_Velaryon_motto"
+}
+
+dynn_Bar_Emmon = {
+	name = "dynn_Bar_Emmon"
+	culture = "english"
+	motto = "dynn_Bar_Emmon_motto"
+}
+
+dynn_Chelsted = {
+	name = "dynn_Chelsted"
+	culture = "english"
+	motto = "dynn_Chelsted_motto"
+}
+
+dynn_Darklyn = {
+	name = "dynn_Darklyn"
+	culture = "english"
+	motto = "dynn_Darklyn_motto"
+}
+
+dynn_Farring = {
+	name = "dynn_Farring"
+	culture = "english"
+	motto = "dynn_Farring_motto"
+}
+
+dynn_Gaunt = {
+	name = "dynn_Gaunt"
+	culture = "english"
+	motto = "dynn_Gaunt_motto"
+}
+
+dynn_Hayford = {
+	name = "dynn_Hayford"
+	culture = "english"
+	motto = "dynn_Hayford_motto"
+}
+
+dynn_Langward = {
+	name = "dynn_Langward"
+	culture = "english"
+	motto = "dynn_Langward_motto"
+}
+
+dynn_Rosby = {
+	name = "dynn_Rosby"
+	culture = "english"
+	motto = "dynn_Rosby_motto"
+}
+
+dynn_Rykker = {
+	name = "dynn_Rykker"
+	culture = "english"
+	motto = "dynn_Rykker_motto"
+}
+
+dynn_Hollard = {
+	name = "dynn_Hollard"
+	culture = "english"
+	motto = "dynn_Hollard_motto"
+}
+
+dynn_Blackwater = {
+	name = "dynn_Blackwater"
+	prefix = "dynnp_of_the"
+	culture = "english"
+	motto = "dynn_Blackwater_motto"
+}
+
+dynn_Slynt = {
+	name = "dynn_Slynt"
+	culture = "english"
+	motto = "dynn_Slynt_motto"
+}
+
+dynn_Massey = {
+	name = "dynn_Massey"
+	culture = "english"
+	motto = "dynn_Massey_motto"
+}
+
+dynn_Pyle = {
+	name = "dynn_Pyle"
+	culture = "english"
+	motto = "dynn_Pyle_motto"
+}
+
+dynn_Chyttering = {
+	name = "dynn_Chyttering"
+	culture = "english"
+	motto = "dynn_Chyttering_motto"
+}
+
+dynn_Rollingford = {
+	name = "dynn_Rollingford"
+	culture = "english"
+	motto = "dynn_Rollingford_motto"
+}
+
+dynn_Sunglass = {
+	name = "dynn_Sunglass"
+	culture = "english"
+	motto = "dynn_Sunglass_motto"
+}
+
+dynn_Stokeworth = {
+	name = "dynn_Stokeworth"
+	culture = "english"
+	motto = "dynn_Stokeworth_motto"
+}
+
+dynn_Cargyll = {
+	name = "dynn_Cargyll"
+	culture = "english"
+	motto = "dynn_Cargyll_motto"
+}

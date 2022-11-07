@@ -1,0 +1,87 @@
+﻿#allow_incest
+asoiaf_debug_allow_incest_for_dynasty_interaction = {
+	category = interaction_category_asoiaf_debug
+	use_diplomatic_range = no
+
+	is_shown = {
+		debug_only = yes
+		scope:actor = { is_ai = no }
+		scope:recipient = { exists = dynasty }
+	}
+
+	auto_accept = yes
+	
+	on_accept = {
+		scope:recipient.dynasty = {
+			set_variable = allow_incest
+		}
+	}
+}
+
+#allow_valyrian_incest
+asoiaf_debug_allow_valyrian_incest_for_dynasty_interaction = {
+	category = interaction_category_asoiaf_debug
+	use_diplomatic_range = no
+
+	is_shown = {
+		debug_only = yes
+		scope:actor = { is_ai = no }
+		scope:recipient = { exists = dynasty }
+	}
+
+	auto_accept = yes
+	
+	on_accept = {
+		scope:recipient.dynasty = {
+			set_variable = allow_valyrian_incest
+		}
+	}
+}
+
+#allow ironborn raiding
+asoiaf_debug_give_ironborn_old_way_interaction = {
+	category = interaction_category_asoiaf_debug
+	use_diplomatic_range = no
+
+	is_shown = {
+		debug_only = yes
+		scope:actor = { is_ai = no }
+		scope:recipient = { exists = house }
+		NOT = {
+			scope:recipient.house = {
+				has_house_modifier = ironborn_old_way
+			}
+		}
+	}
+
+	auto_accept = yes
+	
+	on_accept = {
+		scope:recipient.house = {
+			add_house_modifier = ironborn_old_way
+		}
+	}
+}
+
+#allow ironborn raiding
+asoiaf_debug_remove_ironborn_old_way_interaction = {
+	category = interaction_category_asoiaf_debug
+	use_diplomatic_range = no
+
+	is_shown = {
+		debug_only = yes
+		scope:actor = { is_ai = no }
+		scope:recipient = { exists = house }
+			scope:recipient.house = {
+				has_house_modifier = ironborn_old_way
+			}
+	}
+
+	auto_accept = yes
+	
+	on_accept = {
+		scope:recipient.house = {
+			remove_house_modifier = ironborn_old_way
+		}
+	}
+}

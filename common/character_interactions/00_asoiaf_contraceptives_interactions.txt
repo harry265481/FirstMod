@@ -1,0 +1,78 @@
+﻿remove_contraceptives_interaction = { #for some reason this interaction must come before start_contraceptives_interaction or else it wont show up
+	category = interaction_category_friendly
+	
+	desc = remove_contraceptives_interaction_desc
+	interface_priority = 40
+	use_diplomatic_range = yes
+	
+	auto_accept = yes
+	on_accept = {
+		scope:recipient = {
+			remove_character_modifier = contraceptives_modifier
+		}
+	}
+	ai_potential = { always = no }
+	is_shown = {
+		scope:recipient = {
+			OR = {
+				AND = {
+					scope:recipient.house = scope:actor.house
+					is_close_or_extended_family_of = scope:actor
+				}
+				scope:recipient = scope:actor
+			}
+			has_character_modifier = contraceptives_modifier
+		}
+	}
+}
+
+start_contraceptives_interaction = {
+    category = interaction_category_friendly
+    
+    desc = start_contraceptives_interaction_desc
+    interface_priority = 40
+    use_diplomatic_range = yes
+	
+	auto_accept = yes
+	on_accept = {
+        scope:recipient = {
+			add_character_modifier = contraceptives_modifier
+        }
+    }
+	ai_potential = { always = no }
+	is_shown = {
+		scope:actor = {
+			is_ai = no #player immune
+			is_adult = yes #only adults can use
+			NOT = { scope:recipient }
+		}
+		scope:recipient = {
+			NOT = { has_character_modifier = contraceptives_modifier }
+			OR = {
+				AND = {
+					OR = {
+						is_great_grandchild_of = scope:actor
+						is_grandchild_of = scope:actor
+						is_child_of = scope:actor
+					}
+					scope:recipient.house = scope:actor.house
+				}
+				scope:recipient = scope:actor
+			}
+			trigger_if = {
+				limit = { is_male = yes }
+				NAND = {
+					matrilinear_marriage = yes
+					any_spouse = { NOT = { house = scope:actor.house } }
+				}
+			}
+			trigger_else = {
+				NAND = {
+					patrilinear_marriage = yes
+					any_spouse = { NOT = { house = scope:actor.house } }
+				}
+			}
+		}
+		has_game_rule = asoiaf_contraceptives_on
+	}
+}

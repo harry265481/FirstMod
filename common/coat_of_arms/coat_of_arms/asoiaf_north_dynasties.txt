@@ -1,0 +1,212 @@
+dynn_Stark = { #Stark
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_bone_light_warm"
+	color2 = "asoiaf_field_green_light"
+	colored_emblem = {
+		texture = "historical_plain.dds"
+		color1 = "asoiaf_field_green_light"
+		instance = { position = { 0.5 1.2 } scale = { 1.0 1.0 } }
+	}
+	colored_emblem = {
+		texture = "asoiaf_wolf_head_1.dds"
+		color1 = "asoiaf_grey_medium"
+		color2 = "asoiaf_black"
+		color3 = "asoiaf_white"
+		instance = { position = { 0.48 0.5 } scale = { 0.75 0.75 }  }			
+	}
+}
+house_Stark = dynn_Stark
+house_Stark_Osgrey = { #Stark-Osgrey (meme house)
+	pattern	= "pattern_checkers_12.dds"
+    color1 = "asoiaf_bone_light_warm"
+	color2 = "asoiaf_field_green_light"
+	colored_emblem={
+        color1 = "asoiaf_bone_light_warm"
+        color2 = "asoiaf_bone_light_warm"
+        texture="ce_block_02.dds"
+    }
+	
+	colored_emblem = {
+		texture = "historical_plain.dds"
+		color1 = "asoiaf_field_green_light"
+		instance = { position = { 0.5 1.2 } scale = { 1.0 1.0 } }
+	}
+
+    colored_emblem={
+        color1 = "asoiaf_green"
+        color2 = "asoiaf_black"
+		color3 = "asoiaf_white"
+        texture	="asoiaf_wolf_head_1.dds"
+		instance = { position = { 0.48 0.5 } scale = { 0.75 0.75 }  }	
+        mask={ 1 0 0 }
+    }
+
+    colored_emblem={
+        color1 = "asoiaf_yellow"
+        color2 = "asoiaf_black"
+		color3 = "asoiaf_white"
+        texture="asoiaf_wolf_head_1.dds"
+		instance = { position = { 0.48 0.5 } scale = { 0.75 0.75 }  }	
+        mask={ 0 2 0 }
+    }
+
+}
+
+dynn_Bolton = {
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_black"
+	color2 = "asoiaf_black"
+	colored_emblem = {
+		texture = "asoiaf_flayed_man.dds"
+		color1 = "asoiaf_red"
+		color2 = "asoiaf_black"
+		color3 = "asoiaf_bone_light"
+		instance = { position = { 0.5 0.46 } scale = { 0.8 0.8 } }
+	}
+}
+house_Bolton = dynn_Bolton
+
+dynn_Manderly = { #Manderly
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_sea_green_medium"
+	color2 = "asoiaf_sea_green_medium"
+	colored_emblem = {
+		texture = "asoiaf_merman.dds"
+		color1 = "asoiaf_white"
+		instance = { position = { 0.5 0.47 } scale = { 0.7 0.7 } }
+	}
+}
+house_Manderly = dynn_Manderly
+
+dynn_Karstark = { #Karstark
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_black"
+	color2 = "asoiaf_white"
+	colored_emblem = {
+		texture = "asoiaf_sun_4.dds"
+		color1 = "asoiaf_white"
+		instance = { position = { 0.5 0.49 } scale = { 0.7 0.7 } }
+	}
+}
+house_Karstark = dynn_Karstark
+
+dynn_Mormont = { #Mormont
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_cream_yellow_undertone"
+	color2 = "asoiaf_green_warm_undertone"
+	colored_emblem = {
+		texture = "historical_plain.dds"
+		color1 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 1.34 } scale = { 1.0 1.0 } } #lower
+	}
+	colored_emblem = {
+		texture = "ce_block_03.dds"
+		color1 = "asoiaf_green_warm_undertone"
+		instance = { position = { 0.5 0.00001 } scale = { 1.0 1.0 } } #upper
+	}
+	colored_emblem = {
+		texture = "asoiaf_bear_1.dds"
+		color1 = "asoiaf_black"
+		instance = { position = { 0.5 0.485 } scale = { 0.7 0.7 } }
+	}
+}
+house_Mormont = dynn_Mormont
+
+dynn_Umber = { #Umber
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_red"
+	color2 = "asoiaf_red"
+	colored_emblem = {
+		texture = "asoiaf_shackles_crossed.dds"
+		color1 = "asoiaf_grey_light"
+		color2 = "asoiaf_black"
+		instance = { position = { 0.5 0.47 } scale = { 0.7 0.7 } }
+	}
+}
+house_Umber = dynn_Umber
+
+dynn_Forrester = { #Forrester
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_black"
+	color2 = "asoiaf_black"
+	colored_emblem = {
+		texture = "asoiaf_tree_dead_1.dds"
+		color1 = "asoiaf_white"
+		instance = { position = { 0.495 0.478 } scale = { 0.75 0.75 } }
+	}
+	colored_emblem = {
+		texture = "asoiaf_sword_silhouette_small.dds"
+		color1 = "asoiaf_black"
+		instance = { position = { 0.5 0.61 } scale = { 0.3 0.3 } }
+	}
+}
+house_Forrester = dynn_Forrester
+
+dynn_Cerwyn = { #Cerwyn
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_grey_light_warm"
+	color2 = "asoiaf_grey_light_warm"
+	colored_emblem = {
+		texture = "asoiaf_battleaxe.dds"
+		color1 = "asoiaf_steel_white"
+		color2 = "asoiaf_black"
+		instance = { position = { 0.5 0.65 } scale = { 0.95 0.95 } }
+	}
+}
+house_Cerwyn = dynn_Cerwyn
+
+dynn_Hornwood = { #Hornwood
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_brown_orange_undertone"
+	color2 = "asoiaf_brown_orange_undertone"
+	colored_emblem = {
+		texture = "asoiaf_moose_head.dds"
+		color1 = "asoiaf_black"
+		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 } }
+	}
+}
+house_Hornwood = dynn_Hornwood
+
+dynn_Reed = { #Reed
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_field_green_medium"
+	color2 = "asoiaf_black"
+	colored_emblem = {
+		texture = "asoiaf_lizard_lion.dds"
+		color1 = "asoiaf_black"
+		color2 = "asoiaf_field_green_light"
+		color3 = "asoiaf_field_green_warm"
+		instance = { position = { 0.5 0.49 } scale = { 0.68 0.68 } }
+	}
+}
+house_Reed = dynn_Reed
+
+dynn_Whitehill = {
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_blue_indigo_undertone"
+	color2 = "asoiaf_white"
+	colored_emblem = {
+		texture = "asoiaf_mountains_1.dds"
+		color1 = "asoiaf_white"
+		instance = { position = { 0.5 1.0 } scale = { 1.5 1.5 } }
+	}
+	colored_emblem = {
+		texture = "asoiaf_star_four_pointed.dds"
+		color1 = "asoiaf_white"
+		instance = { position = { 0.5 0.155 } scale = { 0.24 0.24 } }
+	}
+}
+house_Whitehill = dynn_Whitehill
+
+dynn_Glover = {
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_red"
+	color2 = rgb { 147 147 147 }
+	colored_emblem = {
+		texture = "asoiaf_gauntlet.dds"
+		color1 = rgb { 147 147 147 }
+		color2 = "asoiaf_black"
+		instance = { position = { 0.5 0.46 } scale = { 0.68 0.68 } }
+	}
+}
+house_Glover = dynn_Glover

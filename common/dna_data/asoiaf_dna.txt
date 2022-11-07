@@ -110,6 +110,7 @@
 			headgear={ "western_high_nobility" 0 "no_headgear" 0 }
 			legwear={ "western_common_legwear" 0 "all_legwear" 0 }
 			cloaks={ "western_royalty" 0 "no_cloak" 0 }
+			beards={ "no_beard" 255 "no_beard" 0 }
 	 	}
 	}
 	enabled = yes
@@ -222,7 +223,8 @@ visenya_dna = {
 			eye_accessory={ "normal_eyes" 61 "normal_eyes" 61 }
 			teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
 			eyelashes_accessory={ "asian_eyelashes" 182 "normal_eyelashes" 5 }
-			hairstyles={ "western_hairstyles_straight" 253 "all_hairstyles" 0 }
+			beards={ "western_beards_straight" 58 "no_beard" 0 }
+			hairstyles={ "western_hairstyles_straight" 58 "all_hairstyles" 0 }
 		}
 	}
 	enabled = yes
@@ -335,7 +337,8 @@ rhaenys_dna = {
 			eye_accessory={ "normal_eyes" 61 "normal_eyes" 61 }
 			teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
 			eyelashes_accessory={ "asian_eyelashes" 182 "normal_eyelashes" 5 }
-			hairstyles={ "western_hairstyles_wavy" 54 "all_hairstyles" 0 }
+			hairstyles={ "western_hairstyles_straight" 248 "all_hairstyles" 0 }
+			beards={ "western_beards_straight" 248 "no_beard" 0 }
 		}
 	}
 	enabled = yes

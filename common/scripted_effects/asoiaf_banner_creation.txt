@@ -1,0 +1,19 @@
+﻿banner_house_creation_effect = {
+	set_variable = banner_from_house
+	set_variable = startup_banner
+	create_artifact_wall_banner_effect = {
+		OWNER = scope:recipient
+		CREATOR = scope:recipient
+		TARGET = scope:recipient.house
+	}
+}
+
+banner_dynasty_creation_effect = {
+	set_variable = banner_from_dynasty
+	set_variable = startup_banner
+	create_artifact_wall_banner_effect = {
+		OWNER = scope:recipient
+		CREATOR = scope:recipient
+		TARGET = scope:recipient.dynasty
+	}
+}

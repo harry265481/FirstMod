@@ -1,0 +1,11 @@
+﻿l_english:
+ asoiaf_dragon_hatching.1.t:0 "Hatching the Dragon Egg"
+ asoiaf_dragon_hatching.1.confirm:0 "Go ahead with the attempt"
+ asoiaf_dragon_hatching_tooltip_confirm:0 "Go ahead with the hatching attempt, dangers and all"
+ asoiaf_dragon_hatching.1.desc:0 "Attempting to hatch a dragon egg is a dangerous endeavour, but if I am successful it will yield great rewards. I may be injured, I may be maimed, but I may also become of the most powerful people in the world and join the ranks of the legendary dragon-riders."
+ asoiaf_dragon_hatching.1.cancel:0 "On second thought..."
+ asoiaf_dragon_hatching_tooltip_cancel:0 "Perhaps I should reconsider this dangerous course of action"
+ 
+ asoiaf_dragon_hatching.2.t:0 "A New Egg!"
+ asoiaf_dragon_hatching.2.desc:0 "My dragon has laid an egg! I can now choose to keep this egg, or give it away."
+ asoiaf_dragon_hatching.2.confirm:0 "The dragon stable will grow..."

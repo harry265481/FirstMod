@@ -1,0 +1,22 @@
+﻿namespace = asoiaf_artifacts
+
+asoiaf_artifacts.1 = {
+	type = empty
+	hidden = yes
+	immediate = {
+		if = {
+			limit = {
+				exists = character:900000
+				character:900000 = { is_alive = yes }
+			}
+			character:900000 = { create_artifact_blackfyre_effect = { OWNER = this } }
+		}
+		if = {
+			limit = {
+				exists = character:900001
+				character:900001 = { is_alive = yes }
+			}
+			character:900001 = { create_artifact_dark_sister_effect = { OWNER = this } }
+		}
+	}
+}

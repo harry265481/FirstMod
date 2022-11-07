@@ -1,0 +1,329 @@
+﻿robert_warhammer_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		#prowess = 10
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+brightroar_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+oathkeeper_sword_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+widows_wail_sword_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+blackfyre_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+dark_sister_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+heartsbane_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+ice_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+jaime_sword_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+longclaw_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+ellaria_dagger_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+oberyn_spear_template = {
+	can_equip = {
+		always = yes
+	}
+
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+#CROWNS
+
+robert_I_crown_template = {
+	can_equip = {
+		OR = {
+			highest_held_title_tier >= tier_kingdom
+			is_independent_ruler = yes
+		}
+	}
+	
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+renly_crown_template = {
+	can_equip = {
+		OR = {
+			highest_held_title_tier >= tier_kingdom
+			is_independent_ruler = yes
+		}
+	}
+	
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+tommen_I_crown_template = {
+	can_equip = {
+		OR = {
+			highest_held_title_tier >= tier_kingdom
+			is_independent_ruler = yes
+		}
+	}
+	
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+margaery_crown_template = {
+	can_equip = {
+		OR = {
+			AND = {
+				exists = primary_spouse
+				primary_spouse = {
+					highest_held_title_tier >= tier_kingdom
+				}
+			}
+			highest_held_title_tier >= tier_kingdom
+			is_independent_ruler = yes
+		}
+	}
+	
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+aegon_I_crown_template = {
+	can_equip = {
+		OR = {
+			highest_held_title_tier >= tier_kingdom
+			is_independent_ruler = yes
+		}
+	}
+	
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+maekar_I_crown_template = {
+	can_equip = {
+		OR = {
+			highest_held_title_tier >= tier_kingdom
+			is_independent_ruler = yes
+		}
+	}
+	
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}
+
+hound_helmet_template = {
+	can_equip = {
+		always = yes
+	}
+	
+	# can this character benefit from the full modifiers of the artifact?
+	can_benefit = {
+		
+	}
+
+	# if a given character does not pass the "can_benefit" trigger then this modifier will be applied instead.
+	fallback = {}
+
+	unique = yes
+}

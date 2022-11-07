@@ -1,0 +1,317 @@
+﻿visual_traits_asoiaf_features = {
+	usage = game
+
+	valyrian_3 = {
+
+		dna_modifiers = {
+			color = {
+				gene = hair_color
+				# template = hair_color
+				#mode = add			#not supported for color genes
+				#mode = replace		#overwrite this gene with palette coordinates specified here
+				#mode = modify		#adds x and y to the dna-gene's values
+				mode = replace
+
+				x = 0.0
+				y = 0.0
+			}
+			#morph = {
+			#	#mode = add			#add this as an extra gene
+			#	#mode = replace		#overwrite this gene in the dna with the specified template and value
+			#	#mode = modify		#modify this gene in the dna. if the template matches the gene in the dna (or template is left empty), value will be added to the dna-gene's strength
+			#	mode = modify
+			#	
+			#	gene = complexion
+			#	template = complexion_1
+			#}
+		}
+
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_trait = valyrian_3
+			}
+		}
+
+			#dna_modifiers = {
+			#	color = {
+			#		gene = eye_color
+			#		# template = hair_color
+			#		#mode = add			#not supported for color genes
+			#		#mode = replace		#overwrite this gene with palette coordinates specified here
+			#		#mode = modify		#adds x and y to the dna-gene's values
+			#		mode = replace
+			#
+			#		x = 0.004
+			#		y = 0.0
+			#	}
+			#}
+
+			#weight = {
+			#	base = 0
+			#	modifier = {
+			#		add = 100
+			#		has_trait = valyrian_3
+			#	}
+			#}
+		dna_modifiers = {
+			morph = {
+				#mode = add			#add this as an extra gene
+				#mode = replace	#overwrite this gene in the dna with the specified template and value
+				#mode = modify		#modify this gene in the dna. if the template matches the gene in the dna (or template is left empty), value will be added to the dna-gene's strength
+				mode = replace
+				
+				gene = gene_body_hair
+				template = body_hair_sparse_low_stubble
+				value = 0.157
+			}
+		}
+	}
+	
+	valyrian_2 = {
+
+
+
+			#dna_modifiers = {
+			#	color = {
+			#		gene = eye_color
+			#		# template = hair_color
+			#		#mode = a	dd			#not supported for color genes
+			#		#mode = replace		#overwrite this gene with palette coordinates specified here
+			#		#mode = modify		#adds x and y to the dna-gene's values
+			#		mode = replace
+			#
+			#		x = 0.004
+			#		y = 0.0
+			#	}
+			#}
+
+			#weight = {
+			#	base = 0
+			#	modifier = {
+			#		add = 100
+			#		has_trait = valyrian_2
+			#	}
+			#}
+		dna_modifiers = {
+			morph = {
+				#mode = add			#add this as an extra gene
+				#mode = replace	#overwrite this gene in the dna with the specified template and value
+				#mode = modify		#modify this gene in the dna. if the template matches the gene in the dna (or template is left empty), value will be added to the dna-gene's strength
+				mode = replace
+				
+				gene = gene_body_hair
+				template = body_hair_sparse_low_stubble
+				value = 0.30
+			}
+		}
+	}
+
+	baratheon = {
+
+		dna_modifiers = {
+			color = {
+				gene = hair_color
+				# template = hair_color
+				#mode = add			#not supported for color genes
+				#mode = replace		#overwrite this gene with palette coordinates specified here
+				#mode = modify		#adds x and y to the dna-gene's values
+				mode = replace
+
+
+				x = 0.024
+				y = 0.965
+			}
+		}
+
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_trait = baratheon
+			}
+		}
+
+		#dna_modifiers = {
+		#	color = {
+		#		gene = eye_color
+		#		# template = hair_color
+		#		#mode = add			#not supported for color genes
+		#		#mode = replace		#overwrite this gene with palette coordinates specified here
+		#		#mode = modify		#adds x and y to the dna-gene's values
+		#		mode = replace
+		#
+		#		x = 0.992
+		#		y = 0.459
+		#		}
+		#	}
+
+		#	weight = {
+		#		base = 0
+		#		modifier = {
+		#			add = 100
+		#			has_trait = baratheon
+		#		}
+		#	}
+	}
+	
+	lannister = {
+
+		dna_modifiers = {
+			color = {
+				gene = hair_color
+				# template = hair_color
+				#mode = add			#not supported for color genes
+				#mode = replace		#overwrite this gene with palette coordinates specified here
+				#mode = modify		#adds x and y to the dna-gene's values
+				mode = replace
+
+
+				x = 0.408
+				y = 0.443
+			}
+		}
+
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_trait = lannister
+			}
+		}
+
+		#dna_modifiers = {
+		#	color = {
+		#		gene = eye_color
+		#		# template = hair_color
+		#		#mode = add			#not supported for color genes
+		#		#mode = replace		#overwrite this gene with palette coordinates specified here
+		#		#mode = modify		#adds x and y to the dna-gene's values
+		#		mode = replace
+
+		#		x = 0.596
+		#		y = 0.604
+		#	}
+		#}
+
+		#	weight = {
+		#		base = 0
+		#		modifier = {
+		#			add = 100
+		#			has_trait = lannister
+		#		}
+		#	}
+
+		dna_modifiers = {
+			morph = {
+				#mode = add			#add this as an extra gene
+				#mode = replace	#overwrite this gene in the dna with the specified template and value
+				#mode = modify		#modify this gene in the dna. if the template matches the gene in the dna (or template is left empty), value will be added to the dna-gene's strength
+				mode = replace
+				
+				gene = gene_body_hair
+				template = body_hair_sparse_low_stubble
+				value = 0.35
+			}
+		}
+	}
+}
+
+#Reduce Beauty Trait Intensity
+visual_traits_beauty = {
+	usage = game
+
+	beauty_1 = {
+		dna_modifiers = {
+			morph = {
+				#mode = add			#add this as an extra gene
+				#mode = replace	#overwrite this gene in the dna with the specified template and value
+				#mode = modify		#modify this gene in the dna. if the template matches the gene in the dna (or template is left empty), value will be added to the dna-gene's strength
+				mode = replace
+				
+				gene = complexion
+				template = complexion_1
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_trait = beauty_good_1
+			}
+			modifier = {
+				add = 100
+				has_trait = beauty_good_2
+			}
+			modifier = {
+				add = 100
+				has_trait = beauty_good_3
+			}
+		}
+	}
+
+	ugly_1 = {
+		dna_modifiers = {
+			morph = {
+				#mode = add			#add this as an extra gene
+				#mode = replace	#overwrite this gene in the dna with the specified template and value
+				#mode = modify		#modify this gene in the dna. if the template matches the gene in the dna (or template is left empty), value will be added to the dna-gene's strength
+				mode = replace
+				
+				gene = complexion
+				template = complexion_ugly_1
+				value = 1.0
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 100
+				has_trait = beauty_bad_1
+			}
+			modifier = {
+				add = 100
+				has_trait = beauty_bad_2
+			}
+			modifier = {
+				add = 100
+				has_trait = beauty_bad_3
+			}
+		}
+	}
+}
+
+#Reduces effect of prowess on muscles of character
+@muscle_multiply = 1
+@muscle_max = 1.0
+
+muscularity = {
+	muscular = {
+		ignore_outfit_tags = yes
+		dna_modifiers = {
+			morph = {
+				mode = modify
+				gene = gene_bs_body_shape
+				value = {
+					value = 0
+
+					if = { 
+						limit = { exists = scope:ruler_designer }
+						add = scope:prowess
+					}
+					else = {
+						add = prowess_for_portrait
+					}
+
+					multiply = 2.6
+
+					max = 1.0
+				}
+			}
+		}
+		weight = {
+			base = 100
+		}
+	}
+}

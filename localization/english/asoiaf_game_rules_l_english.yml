@@ -1,0 +1,46 @@
+﻿l_english:
+#Dynamic CoA
+ rule_asoiaf_dynamic_coa:0 "Dynamic Coat of Arms"
+ setting_asoiaf_dynamic_coa_universal:0 "Universal"
+ setting_asoiaf_dynamic_coa_westerosi:0 "Only Westerosi Houses"
+ setting_asoiaf_dynamic_coa_sub_kingdom:0 "Sub-Kingdom"
+ setting_asoiaf_dynamic_coa_sub_duchy:0 "Sub-Duchy"
+ setting_asoiaf_dynamic_coa_off:0 "Off"
+ 
+ setting_asoiaf_dynamic_coa_universal_desc:0 "Have House coat of arms apply to title shields for ALL characters."
+ setting_asoiaf_dynamic_coa_westerosi_desc:0 "Have House coat of arms apply to title shields for ONLY Westerosi Houses. (BROKEN—DON'T USE.)"
+ setting_asoiaf_dynamic_coa_sub_kingdom_desc:0 "Have House coat of arms apply to all titles below kingdom-tier."
+ setting_asoiaf_dynamic_coa_sub_duchy_desc:0 "Have House coat of arms apply to all titles below duchy-tier."
+ setting_asoiaf_dynamic_coa_off_desc:0 "NEVER have House coat of arms apply to title shields."
+ 
+ #ASOIAF Dynasties
+ rule_asoiaf_dynasties:0 "ASOIAF Dynasties"
+ setting_asoiaf_dynasties_off:0 "Off"
+ setting_asoiaf_dynasties_on:0 "On"
+ 
+ setting_asoiaf_dynasties_off_desc:0 "There will be NO interaction to adopt an ASOIAF dynasty."
+ setting_asoiaf_dynasties_on_desc:0 "There will be an interaction to adopt an ASOIAF dynasty (only useable on yourself if in multiplayer)."
+ 
+ #Contraceptives
+ rule_asoiaf_contraceptives:0 "Contraceptives"
+ setting_asoiaf_contraceptives_off:0 "Off"
+ setting_asoiaf_contraceptives_on:0 "On"
+ 
+ setting_asoiaf_contraceptives_off_desc:0 "You can NOT take contraceptives and force them on your children."
+ setting_asoiaf_contraceptives_on_desc:0 "You CAN take contraceptives and force them on your children, preventing the conception of children."
+ 
+ #Widowhood
+ rule_asoiaf_widowhood:0 "Widowhood"
+ setting_asoiaf_widowhood_off:0 "Off"
+ setting_asoiaf_widowhood_on:0 "On"
+ 
+ setting_asoiaf_widowhood_off_desc:0 "Upon the death of their spouse, characters will NOT get the 'Widow' trait."
+ setting_asoiaf_widowhood_on_desc:0 "Upon the death of their spouse, characters will get the 'Widow' trait, preventing them from remarrying for a time."
+ 
+ #Marriage Rejection
+ rule_asoiaf_marriage_rejection:0 "Marriage Rejection"
+ setting_asoiaf_marriage_rejection_off:0 "Off"
+ setting_asoiaf_marriage_rejection_on:0 "On"
+ 
+ setting_asoiaf_marriage_rejection_off_desc:0 "You can NOT use an interaction to declare that your character refuses marriage."
+ setting_asoiaf_marriage_rejection_on_desc:0 "You CAN use an interaction to declare that your character refuses marriage."

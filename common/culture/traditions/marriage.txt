@@ -1,0 +1,77 @@
+﻿tradition_valyrian_incest = {
+	category = ritual
+
+	layers = {
+		0 = diplo
+		1 = mena
+		4 = temple.dds
+	}
+	
+	can_pick = {
+		custom_tooltip = {
+			text = only_one_marriage_tradition_allowed
+			trigger_if = {
+				limit = {
+					OR = {
+						NOT = { exists = scope:replacing }
+						NOR = {
+							scope:replacing = flag:tradition_monogamous
+							scope:replacing = flag:tradition_concubines
+							scope:replacing = flag:tradition_polygamous
+						}
+					}
+				}
+				NOR = {
+					any_in_list = { list = traits this = flag:tradition_monogamous }
+					any_in_list = { list = traits this = flag:tradition_concubines }
+					any_in_list = { list = traits this = flag:tradition_polygamous }
+				}
+			}
+		}
+	}
+	can_pick_for_hybridization = {
+		custom_tooltip = {
+			text = only_one_marriage_tradition_allowed
+			NOT = { # Only blocks concubines to avoid duplicate warnings, but is blocked by monogamous
+				any_in_list = { list = traits this = flag:tradition_concubines }
+				any_in_list = { list = traits this = flag:tradition_polygamous }
+			}
+		}
+	}
+	
+	parameters = {
+		allow_incest = yes
+		allow_valyrian_incest = yes
+	}
+	
+	cost = {
+		prestige = {
+			add = {
+				value = tradition_double_base_cost
+				desc = BASE
+				format = "BASE_VALUE_FORMAT"
+			}
+			if = {
+				limit = {
+					NOT = {
+						scope:character.faith = {
+							OR = {
+								has_doctrine = doctrine_polygamy
+								has_doctrine = doctrine_concubines
+								has_doctrine = doctrine_monogamy
+							}
+						}
+					}
+				}
+				add = {
+					value = tradition_unfulfilled_criteria_penalty
+					desc = cheaper_tradition_from_faith
+				}
+			}
+			
+			multiply = tradition_replacement_cost_if_relevant
+		}
+	}
+	
+	ai_will_do = { value = 0 }
+}

@@ -1,0 +1,259 @@
+﻿l_english:
+ #Crownlands Dynasties
+ dynn_Targaryen_motto:0 "Fire and Blood"
+    dynn_Blackfyre_motto:0 "We Bear the Sword" #non-official
+    dynn_Bittersteel_motto:0 "Beneath the Gold" #non-official
+    dynn_Bloodraven_motto:0 "Deeds Unchanged" #non-official
+    dynn_Brightflame_motto:0 "The Flame Rises" #non-official
+    dynn_Truefyre_motto:0 "Our Flames Never Fade" #non-official
+ dynn_Velaryon_motto:0 "The Old, the True, the Brave"
+    dynn_Longwaters_motto:0 "Over the Tides" #non-official
+ dynn_Celtigar_motto:0 "Many Are One" #non-official
+ dynn_Bar_Emmon_motto:0 "Claim the Crest" #non-official
+ dynn_Blount_motto:0 "As Sharp as Our Blades" #non-official
+ dynn_Brune_motto:0 "Strong in Will" #non-official
+    dynn_BruneBH_motto:0 "Strong in Will" #non-official
+ dynn_Buckwell_motto:0 "Pride and Purpose"
+ dynn_Byrch_motto:0 "Ready at Arms!" #non-official
+ dynn_Bywater_motto:0 "Flowing Onwards" #non-official
+ dynn_Chelsted_motto:0 "Cross Us If You Dare" #non-official
+ dynn_Darklyn_motto:0 "Fame Through Valour" #non-official
+    dynn_Dargood_motto:0 "Fame Through Valour" #non-official
+    dynn_Darkwood_motto:0 "Fame Through Valour" #non-official
+    dynn_Darke_motto:0 "Fame Through Valour" #non-official
+ dynn_Cargyll_motto:0 "Devoted to Our Cause" #non-official
+ dynn_Edgerton_motto:0 "Of Flame and Strength" #non-official
+ dynn_Farring_motto:0 "May the Best Win" #non-official
+ dynn_Gaunt_motto:0 "They Will Bleed" #non-official
+ dynn_Hayford_motto:0 "Loyalty Binds Us" #non-official
+ dynn_Langward_motto:0 "The Heavens Guide Us" #non-official
+ dynn_Manning_motto:0 "Sharp and Eager" #non-official
+ dynn_Massey_motto:0 "Ever Moving" #non-official
+ dynn_Rosby_motto:0 "We Stand Ready" #non-official
+ dynn_Rykker_motto:0 "Raised and Ready" #non-official
+ dynn_Thorne_motto:0 "The Crack Will Rouse" #non-official
+ dynn_Wendwater_motto:0 "For All Seasons"
+ dynn_Hollard_motto:0 "Once Joined, Never Sundered" #non-official
+ dynn_Blackwater_motto:0 "As Good as Gold" #non-official
+ dynn_Slynt_motto:0 "We Live By the Blade" #non-official
+ dynn_Pyle_motto:0 "Steadfast and Ready" #non-official
+ dynn_Chyttering_motto:0 "In Bright Places" #non-official
+ dynn_Rollingford_motto:0 "Loyaly Above All" #non-official
+ dynn_Sunglass_motto:0 "Follow Their Light" #non-official
+ dynn_Stokeworth_motto:0 "Proud to be Faithful"
+ 
+ #Reach Dynasties
+ dynn_Tyrell_motto:0 "Growing Strong"
+ dynn_Appleton_motto:0 "We Bear Fruit" #non-official
+ dynn_Florent_motto:0 "Ever Watchful" #non-official
+ dynn_Ashford_motto:0 "Our Sun Shines Bright"
+ dynn_Osgrey_motto:0 "Our Pride Constant" #non-official
+ dynn_Ambrose_motto:0 "Never Resting"
+ dynn_Ball_motto:0 "Of the Fox" #non-official
+ dynn_Beesbury_motto:0 "Beware Our Sting"
+ dynn_Blackbar_motto:0 "Strong and Sturdy" #non-official
+ dynn_Bridges_motto:0 "Over Every Barrier" #non-official
+ dynn_Bulwer_motto:0 "Death Before Disgrace"
+ dynn_Caswell_motto:0 "The Arrow Strikes True" #non-official
+ dynn_Webber_motto:0 "Our Web is Strong" #non-official
+ dynn_Costayne_motto:0 "Of Rose and Chalice" #non-official
+ dynn_Graves_motto:0 "Watch Us Soar" #non-official
+ dynn_Cuy_motto:0 "Blooming Ever Brighter" #non-official
+ dynn_Hightower_motto:0 "We Light the Way"
+ dynn_Hutcheson_motto:0 "Toward the Sun We Ride" #non-official
+ dynn_Kidwell_motto:0 "In Time We Grow" #non-official
+ dynn_Cockshaw_motto:0 "We Serve" #non-official
+ dynn_Hunt_motto:0 "From Quiver to Beast" #non-official
+ dynn_Chester_motto:0 "Stalwart in Duty" #non-official
+ dynn_Dunn_motto:0 "Ever Higher" #non-official
+ dynn_Cordwayner_motto:0 "Here We Stand" #non-official
+ dynn_Crane_motto:0 "Hand of the Garden" #non-official
+ dynn_Lowther_motto:0 "We Leap High" #non-official
+ dynn_Lyberr_motto:0 "To New Hights" #non-official
+ dynn_Meadows_motto:0 "In Defence of Home" #non-official
+ dynn_Middlebury_motto:0 "Honour Through Virtue" #non-official
+ dynn_Gardener_motto:0 "Our Garden Grows" #non-official
+ dynn_Mullendore_motto:0 "Fluttering Onwards" #non-official
+ dynn_Norridge_motto:0 "The Flame Will Smoulder" #non-official
+ dynn_Oakheart_motto:0 "Our Roots Go Deep"
+ dynn_Oldflowers_motto:0 "By the Seed of the Garden" #non-official
+ dynn_Peake_motto:0 "We Stand Strong" #non-official
+ dynn_Redwyne_motto:0 "Ripe for Victory" #non-official
+ dynn_Rowan_motto:0 "Bright and Proud" #non-official
+ dynn_Tarly_motto:0 "First in Battle"
+ dynn_Fossoway_motto:0 "Taste of Glory"
+    dynn_FossowayNB_motto:0 "Taste of Glory" #non-official
+ dynn_Leygood_motto:0 "Forever Loyal" #non-official
+ dynn_Hastwyck_motto:0 "None so Dutiful"
+ 
+ #Stormlands Dynasties
+ dynn_Durrandon_motto:0 "Ours is the Fury"
+    dynn_Bolling_motto:0 "Yet More Preferred" #non-official
+ dynn_Baratheon_motto:0 "Ours is the Fury"
+    dynn_BaratheonDS_motto:0 "Ours is the Fury"
+    dynn_BaratheonKL_motto:0 "Ours is the Fury"
+ dynn_Buckler_motto:0 "Ready for What Comes" #non-official
+ dynn_Cafferen_motto:0 "Our Strength Carries Us" #non-official
+ dynn_Caron_motto:0 "No Song so Sweet"
+ dynn_Connington_motto:0 "To New Heights" #non-official
+ dynn_Dondarrion_motto:0 "Beware the Thunder" #non-official
+ dynn_Errol_motto:0 "One of a Kind" #non-official
+ dynn_Estermont_motto:0 "Through Words, Not Swords" #non-official
+ dynn_Fell_motto:0 "Across the Night" #non-official
+ dynn_Gower_motto:0 "Golden and True" #non-official
+ dynn_Grandison_motto:0 "Rouse Me Not"
+ dynn_Hasty_motto:0 "With Haste" #non-official
+ dynn_Herston_motto:0 "Call From the Heights" #non-official
+ dynn_Horpe_motto:0 "Flying Onwards" #non-official
+ dynn_Kellington_motto:0 "Our Knowledge is Absolute" #non-official
+ dynn_Lonmouth_motto:0 "The Choice is Yours"
+ dynn_Mertyns_motto:0 "We See You" #non-official
+ dynn_Morrigen_motto:0 "No Dread of Death" #non-official
+ dynn_Musgood_motto:0 "Ready to March" #non-official
+ dynn_Peasebury_motto:0 "One of Many" #non-official
+ dynn_Penrose_motto:0 "Set Down Our Deeds"
+ dynn_Rogers_motto:0 "Reach Us If You Can" #non-official
+ dynn_Seaworth_motto:0 "In Your Time of Need" #non-official
+ dynn_Selmy_motto:0 "We Provide" #non-official
+ dynn_Staedmon_motto:0 "The Dagger is Sharp" #non-official
+ dynn_Swann_motto:0 "No Foe But Injustice" #non-official
+ dynn_Swygert_motto:0 "Truth Conquers"
+ dynn_Tarth_motto:0 "In Darkness We Rise" #non-official
+ dynn_Toyne_motto:0 "Fly High, Fly Far"
+ dynn_Trant_motto:0 "So End Our Foes"
+ dynn_Tudbury_motto:0 "We Bear Strength" #non-official
+ dynn_Wagstaff_motto:0 "Ordered and Ready" #non-official
+ dynn_Wylde_motto:0 "Rain Falls on All" #non-official
+ dynn_Cole_motto:0 "Fortune Grant Revenge" #non-official
+ 
+ #Dorne Dynasties
+ dynn_Martell_motto:0 "Unbowed, Unbent, Unbroken"
+ dynn_Dayne_motto:0 "As Sure as Dawn" #non-official
+ dynn_Nymeros_motto:0 "By Spear and Sword" #non-official
+ dynn_Dalt_motto:0 "Beside Our Sweetness"
+ dynn_Yronwood_motto:0 "We Guard the Way"
+ dynn_Blackmont_motto:0 "Beware the Talons"
+ dynn_Allyrion_motto:0 "No Foe May Pass"
+ dynn_Jordayne_motto:0 "Let it be Written"
+ dynn_Manwoody_motto:0 "Only the Beginning" #non-official
+ dynn_Toland_motto:0 "The Spirit is Stronger" #non-official
+ dynn_Qorgyle_motto:0 "Who Strikes Shall Strike Again" #non-official
+ 
+ #Iron Islands Dynasties
+ dynn_Greyjoy_motto:0 "We Do Not Sow"
+ dynn_Greyiron_motto:0 "Let Him Cast Down" #non-official
+ dynn_Hoare_motto:0 "Tides of Dread" #non-official
+ dynn_Harlaw_motto:0 "Conquest is Our Harvest" #non-official
+ dynn_Drumm_motto:0 "The Fatal Hold" #non-official
+ dynn_Codd_motto:0 "Though All Men Do Despise Us"
+ dynn_Botley_motto:0 "Strength As One" #non-official
+ dynn_Farwynd_motto:0 "See Beyond" #non-official
+ dynn_Kenning_motto:0 "Despise the Storm" #non-official
+ dynn_Blacktyde_motto:0 "The Price is Paid" #non-official
+ dynn_Sunderly_motto:0 "Throught Death Given Life" #non-official
+ dynn_Goodbrother_motto:0 "Answer the Call" #non-official
+ dynn_Saltcliffe_motto:0 "The Unconquerable Foe" #non-official
+ 
+ #Westerlands Dynasties
+ dynn_Lannister_motto:0 "Hear Me Roar!"
+ dynn_Reyne_motto:0 "Before the Fall" #non-official
+ dynn_Algood_motto:0 "High and Proud" #non-official
+ dynn_Banefort_motto:0 "Veiled Strength" #non-official
+ dynn_Bettley_motto:0 "As Blue as the Sea" #non-official
+ dynn_Brax_motto:0 "Rare and Formidable" #non-official
+ dynn_Broom_motto:0 "Formidable in Duty" #non-official
+ dynn_Clegane_motto:0 "The Hunt is All" #non-official
+ dynn_Doggett_motto:0 "Flying High" #non-official
+ dynn_Drox_motto:0 "We Shoot True" #non-official
+ dynn_Estren_motto:0 "Divide and Rule" #non-official
+ dynn_Falwell_motto:0 "Though All Others Sneer" #non-official
+ dynn_Foote_motto:0 "Beware the Copper" #non-official
+ dynn_Hawthorne_motto:0 "Inseparable" #non-official
+ dynn_Lorch_motto:0 "Beware the Sting" #non-official
+ dynn_Lydden_motto:0 "Loyal and Brave" #non-official
+ dynn_Marbrand_motto:0 "Burning Bright"
+ dynn_Parren_motto:0 "We Stand Ready" #non-official
+ dynn_Payne_motto:0 "Count Your Honours" #non-official
+ dynn_Myatt_motto:0 "Ever Onwards" #non-official
+ dynn_KenningK_motto:0 "The Sun of the West" #non-official
+ dynn_Prester_motto:0 "Tireless"
+ dynn_Plumm_motto:0 "Come Try Me"
+ dynn_Serrett_motto:0 "I Have No Rival"
+ dynn_Swyft_motto:0 "Awake! Awake!"
+ dynn_Tarbeck_motto:0 "Know Us By Our Faith" #non-official
+ dynn_Westerling_motto:0 "Honour, Not Honours"
+ dynn_Crakehall_motto:0 "None So Fierce"
+ dynn_Lefford_motto:0 "None Shall Pass" #non-official
+ dynn_Sarwyck_motto:0 "Family is Hope, Protect it Always"
+ 
+ #North Dynasties
+ dynn_Stark_motto:0 "Winter is Coming"
+ dynn_Bolton_motto:0 "Our Blades are Sharp"
+ dynn_Manderly_motto:0 "To Distant Shores" #non-official
+ dynn_Karstark_motto:0 "The Sun of Winter"
+ dynn_Mormont_motto:0 "Here We Stand"
+ dynn_Umber_motto:0 "Never Chained" #non-official
+ dynn_Forrester_motto:0 "Iron From Ice"
+ dynn_Cerwyn_motto:0 "Honed and Ready"
+ dynn_Hornwood_motto:0 "Righteous in Wrath"
+ dynn_Reed_motto:0 "Within Our Sight" #non-official
+ dynn_Whitehill_motto:0 "Even Higher"
+ dynn_Glover_motto:0 "Trust Us to Hold" #non-official
+ 
+ #Vale Dynasties
+ dynn_Arryn_motto:0 "As High as Honour"
+ dynn_Baelish_motto:0 "Higher We Soar"
+ dynn_Corbray_motto:0 "Our Steel Is True" #non-official
+ dynn_Grafton_motto:0 "So Burns Our Faith" #non-official
+ dynn_Hardyng_motto:0 "Even and Ready"
+ dynn_Royce_motto:0 "We Remember"
+ dynn_Tollett_motto:0 "When All is Darkest"
+ dynn_Waynwood_motto:0 "Always Upright" #non-official
+ dynn_Egen_motto:0 "By Day Or Night"
+ dynn_Redfort_motto:0 "As Strong as Stone"
+ dynn_Upcliff_motto:0 "Who Tempts the Swell" #non-official
+ dynn_Donniger_motto:0 "Rising and Ready" #non-official
+ dynn_Lipps_motto:0 "Sealed With a Kiss" #non-official
+ 
+ #Riverlands Dynasties
+ dynn_Tully_motto:0 "Family, Duty, Honour"
+ dynn_Lothston_motto:0 "Always Vigilant" #non-official
+ dynn_Darry_motto:0 "Work On" #non-official
+ dynn_Frey_motto:0 "We Stand Together" #semi-canon
+ dynn_Mallister_motto:0 "Above the Rest"
+ dynn_Mooton_motto:0 "Wisdom and Strength"
+ dynn_Blackwood_motto:0 "Watching Eyes, Hidden Strength" #non-official
+ dynn_Bracken_motto:0 "No Bridle Can Tame" #non-official
+ dynn_Whent_motto:0 "Our Hour Will Come" #non-official
+ dynn_Strong_motto:0 "Strong Does It Run" #non-official
+ dynn_Harroway_motto:0 "Our Favour Burns Bright" #non-official
+ dynn_Mudd_motto:0 "The True Blood Rules" #non-official
+ dynn_Haigh_motto:0 "Sprung From Good Seed" #non-official
+ dynn_Fisher_motto:0 "As Both Fare" #non-official
+ 
+ #Ghiscari Dynasties
+ dynn_Dhazak_motto:0 "Our Land, Our History" #non-official
+ dynn_Galare_motto:0 "Ever Growing" #non-official
+ dynn_Ghazeen_motto:0 "Hear Our Voices" #non-official
+ dynn_Hazkar_motto:0 "Above All We Stand" #non-official
+ dynn_Kandaq_motto:0 "Eternal Shepherds" #non-official
+ dynn_Loraq_motto:0 "New Opportunities" #non-official
+ dynn_Merreq_motto:0 "Endure and Overcome" #non-official
+ dynn_Naqqan_motto:0 "By Land and Sea" #non-official
+ dynn_Pahl_motto:0 "Blood and Righteousness" #non-official
+ dynn_Quazzar_motto:0 "Take What is Owed" #non-official
+ dynn_Reznak_motto:0 "Now You See Us" #non-official
+ dynn_Rhazdar_motto:0 "Faith Carries Us" #non-official
+ dynn_Uhlez_motto:0 "Day or Night, We are Ready" #non-official
+ dynn_Yherizan_motto:0 "Inextinguishable Light" #non-official
+ dynn_Zhak_motto:0 "With Wisdom We Conquer" #non-official
+ dynn_Nakloz_motto:0 "Conquered by None" #non-official
+ dynn_Ullhor_motto:0 "By Law" #non-official
+ dynn_Ahlaq_motto:0 "People of the Land" #non-official
+ dynn_Eraz_motto:0 "Slow and Steady" #non-official
+ dynn_Faez_motto:0 "By the Sword, if Nothing Else" #non-official
+ dynn_Myraq_motto:0 "Prepared for All" #non-official
+ dynn_Qaggaz_motto:0 "Now You See Us" #non-official
+ dynn_Rhaezn_motto:0 "Now Our Enemies Rest" #non-official
+ dynn_Yunzak_motto:0 "Perseverance Conquers All" #non-official
+ dynn_Zherzyn_motto:0 "Strike Swiftly and True" #non-official

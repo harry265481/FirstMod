@@ -1,0 +1,66 @@
+﻿#Main Dynasties
+house_Greyjoy = {
+	name = "dynn_Greyjoy"
+	dynasty = dynn_Greyjoy
+	motto = "dynn_Greyjoy_motto"
+}
+house_Greyiron = {
+	name = "dynn_Greyiron"
+	dynasty = dynn_Greyiron
+	motto = "dynn_Greyiron_motto"
+}
+house_Hoare = {
+	name = "dynn_Hoare"
+	dynasty = dynn_Hoare
+	motto = "dynn_Hoare_motto"
+}
+house_Harlaw = {
+	name = "dynn_Harlaw"
+	dynasty = dynn_Harlaw
+	motto = "dynn_Harlaw_motto"
+}
+house_Drumm = {
+	name = "dynn_Drumm"
+	dynasty = dynn_Drumm
+	motto = "dynn_Drumm_motto"
+}
+house_Codd = {
+	name = "dynn_Codd"
+	dynasty = dynn_Codd
+	motto = "dynn_Codd_motto"
+}
+house_Botley = {
+	name = "dynn_Botley"
+	dynasty = dynn_Botley
+	motto = "dynn_Botley_motto"
+}
+house_Farwynd = {
+	name = "dynn_Farwynd"
+	dynasty = dynn_Farwynd
+	motto = "dynn_Farwynd_motto"
+}
+house_Kenning = {
+	name = "dynn_Kenning"
+	dynasty = dynn_Kenning
+	motto = "dynn_Kenning_motto"
+}
+house_Blacktyde = {
+	name = "dynn_Blacktyde"
+	dynasty = dynn_Blacktyde
+	motto = "dynn_Blacktyde_motto"
+}
+house_Sunderly = {
+	name = "dynn_Sunderly"
+	dynasty = dynn_Sunderly
+	motto = "dynn_Sunderly_motto"
+}
+house_Goodbrother = {
+	name = "dynn_Goodbrother"
+	dynasty = dynn_Goodbrother
+	motto = "dynn_Goodbrother_motto"
+}
+house_Saltcliffe = {
+	name = "dynn_Saltcliffe"
+	dynasty = dynn_Saltcliffe
+	motto = "dynn_Saltcliffe_motto"
+}

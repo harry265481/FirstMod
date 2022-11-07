@@ -26,6 +26,9 @@
 	mother = 900004
 	1039.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
 	}
 	1056.1.1 = {
 		add_spouse = 900001
@@ -73,18 +76,6 @@
 		}
 		add_gold = 3000
 	}
-	#	1066.9.16 = {
-	#		if = {
-	#			limit = {
-	#				NOT = { year = 1067 }
-	#				NOT = { has_landed_title = e_britannia }
-	#			}
-	#			if = {
-	#				limit = { is_ai = no }
-	#				trigger_event = { id = asoiaf.1 }
-	#			}
-	#		}
-	#	}
 	1103.1.1 = {
 		death = yes
 	}
@@ -113,6 +104,9 @@
 	mother = 900004
 	1037.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
 	}
 	1110.1.1 = {
 		death = yes
@@ -142,6 +136,9 @@
 	mother = 900004
 	1039.1.1 = {
 		birth = yes
+		effect = {
+			add_character_flag = has_scripted_appearance
+		}
 	}
 	1103.1.1 = {
 		death = yes
@@ -155,8 +152,13 @@
 	religion = "valyrian"
 	culture = "valyrian"
 	trait = valyrian_3
+	father = 900006
+	mother = 900007
 	1016.1.1 = {
 		birth = yes
+	}
+	1036.1.1 = {
+		add_spouse = 900004
 	}
 	1062.1.1 = {
 		death = yes
@@ -201,6 +203,42 @@
 		birth = yes
 	}
 	1104.1.1 = {
+		death = yes
+	}
+}
+
+900006 = {
+	name = "Daemion"
+	dna = aegon_conq_dna
+	dynasty = dynn_Targaryen
+	religion = "valyrian"
+	culture = "valyrian"
+	trait = valyrian_3
+
+	996.1.1 = {
+		birth = yes
+	}
+	1014.1.1 = {
+		add_spouse = 900007
+	}
+	1037.1.1 = {
+		death = yes
+	}
+}
+
+900007 = {
+	name = "Aerea"
+	dna = visenya_dna
+	female = yes
+	dynasty = dynn_Targaryen
+	religion = "valyrian"
+	culture = "valyrian"
+	trait = valyrian_3
+
+	994.1.1 = {
+		birth = yes
+	}
+	1041.1.1 = {
 		death = yes
 	}
 }

@@ -1,0 +1,140 @@
+﻿robert_warhammer_visuals = {
+	icon = "robert_warhammer.dds"
+	asset = ep1_western_hammer_01_a_portrait_entity
+}
+blackfyre_visuals = {
+	icon = "blackfyre.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+brightroar_visuals = {
+	icon = "brightroar.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+vs_crabspincer_visuals = {
+	icon = "vs_brightroar.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+dark_sister_visuals = {
+	icon = "dark_sister.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+heartsbane_visuals = {
+	icon = "heartsbane.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+ice_visuals = {
+	icon = "ice.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+oathkeeper_visuals = {
+	icon = "oathkeeper.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+widows_wail_visuals = {
+	icon = "widows_wail.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+vs_lady_forlorn_visuals = {
+	icon = "vs_lady_forlorn.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+vs_lamentation_visuals = {
+	icon = "vs_lamentation.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+jaime_sword_visuals = {
+	icon = "jaime_sword.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+longclaw_visuals = {
+	icon = "longclaw.dds" # icon = "vs_longclaw_snow.dds" # trigger for jon snow
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+ellaria_dagger_visuals = {
+	icon = "ellaria_dagger.dds"
+	asset = ep1_indian_dagger_01_a_portrait_entity
+}
+oberyn_spear_visuals = {
+	icon = "oberyn_spear.dds"
+	asset = ep1_mena_spear_01_a_portrait_entity
+}
+vs_nightfall_visuals = {
+	icon = "vs_nightfall.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+vs_orphan_maker_visuals = {
+	icon = "vs_orphan_maker.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+vs_poison_visuals = {
+	icon = "vs_poison.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+vs_red_rain_visuals = {
+	icon = "vs_red_rain.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+vs_strangers_mercy_visuals = {
+	icon = "vs_strangers_mercy.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+vs_truth_visuals = {
+	icon = "vs_truth.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+vs_vigilance_visuals = {
+	icon = "vs_vigilance.dds"
+	asset = ep1_western_sword_01_a_portrait_entity
+}
+
+#CROWNS
+
+aegon_I_crown_visuals = {
+	icon = "aegon_I_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+aenys_crown_visuals = {
+	icon = "aenys_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+jaehaerys_crown_visuals = {
+	icon = "jaehaerys_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+aegon_III_crown_visuals = {
+	icon = "aegon_III_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+baelors_crown_visuals = {
+	icon = "baelors_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+aegon_IV_crown_visuals = {
+	icon = "aegon_IV_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+
+robert_I_crown_visuals = {
+	icon = "robert_I_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+renly_crown_visuals = {
+	icon = "renly_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+tommen_I_crown_visuals = {
+	icon = "tommen_I_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+margaery_crown_visuals = {
+	icon = "margaery_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+maekar_I_crown_visuals = {
+	icon = "maekar_I_crown.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}
+hound_helmet_visuals = {
+	icon = "hound_helmet.dds"
+	asset = male_headgear_secular_dde_hre_imperial_01_artifact_entity
+}

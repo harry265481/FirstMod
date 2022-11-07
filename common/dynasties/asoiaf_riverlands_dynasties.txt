@@ -1,0 +1,83 @@
+﻿dynn_Tully = { #Tully
+	name = "dynn_Tully"
+	culture = "english"
+	motto = dynn_Tully_motto
+}
+
+dynn_Lothston = {
+	name = "dynn_Lothston"
+	culture = "english"
+	motto = dynn_Lothston_motto
+}
+
+dynn_Darry = {
+	name = "dynn_Darry"
+	culture = "english"
+	motto = dynn_Darry_motto
+}
+
+dynn_Frey = {
+	name = "dynn_Frey"
+	culture = "english"
+	motto = dynn_Frey_motto
+}
+
+dynn_Mallister = {
+	name = "dynn_Mallister"
+	culture = "english"
+	motto = dynn_Mallister_motto
+}
+
+dynn_Mooton = {
+	name = "dynn_Mooton"
+	culture = "english"
+	motto = dynn_Mooton_motto
+}
+
+dynn_Blackwood = {
+	name = "dynn_Blackwood"
+	culture = "english"
+	motto = dynn_Blackwood_motto
+}
+
+dynn_Bracken = {
+	name = "dynn_Bracken"
+	culture = "english"
+	motto = dynn_Bracken_motto
+}
+
+dynn_Whent = {
+	name = "dynn_Whent"
+	culture = "english"
+	motto = dynn_Whent_motto
+}
+
+dynn_Strong = {
+	name = "dynn_Strong"
+	culture = "english"
+	motto = dynn_Strong_motto
+}
+
+dynn_Harroway = {
+	name = "dynn_Harroway"
+	culture = "english"
+	motto = dynn_Harroway_motto
+}
+
+dynn_Mudd = {
+	name = "dynn_Mudd"
+	culture = "english"
+	motto = dynn_Mudd_motto
+}
+
+dynn_Haigh = {
+	name = "dynn_Haigh"
+	culture = "english"
+	motto = dynn_Haigh_motto
+}
+
+dynn_Fisher = {
+	name = "dynn_Fisher"
+	culture = "english"
+	motto = dynn_Fisher_motto
+}

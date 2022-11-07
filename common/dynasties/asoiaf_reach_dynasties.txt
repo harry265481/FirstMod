@@ -1,0 +1,75 @@
+﻿dynn_Tyrell = {
+	name = "dynn_Tyrell"
+	culture = "english"
+	motto = "dynn_Tyrell_motto"
+}
+dynn_Florent = {
+	name = "dynn_Florent"
+	culture = "english"
+	motto = "dynn_Florent_motto"
+}
+dynn_Osgrey = {
+	name = "dynn_Osgrey"
+	culture = "english"
+	motto = "dynn_Osgrey_motto"
+}
+dynn_Hightower = {
+	name = "dynn_Hightower"
+	culture = "english"
+	motto = "dynn_Hightower_motto"
+}
+dynn_Gardener = {
+	name = "dynn_Gardener"
+	culture = "english"
+	motto = "dynn_Gardener_motto"
+}
+dynn_Redwyne = {
+	name = "dynn_Redwyne"
+	culture = "english"
+	motto = "dynn_Redwyne_motto"
+}
+dynn_Rowan = {
+	name = "dynn_Rowan"
+	culture = "english"
+	motto = "dynn_Rowan_motto"
+}
+dynn_Tarly = {
+	name = "dynn_Tarly"
+	culture = "english"
+	motto = "dynn_Tarly_motto"
+}
+dynn_Fossoway = {
+	name = "dynn_Fossoway"
+	culture = "english"
+	motto = "dynn_Fossoway_motto"
+}
+dynn_Leygood = {
+	name = "dynn_Leygood"
+	culture = "english"
+	motto = "dynn_Leygood_motto"
+}
+dynn_Ashford = {
+	name = "dynn_Ashford"
+	culture = "english"
+	motto = "dynn_Ashford_motto"
+}
+dynn_Hastwyck = {
+	name = "dynn_Hastwyck"
+	culture = "english"
+	motto = "dynn_Hastwyck_motto"
+}
+dynn_Blackbar = {
+	name = "dynn_Blackbar"
+	culture = "english"
+	motto = "dynn_Blackbar_motto"
+}
+dynn_Cockshaw = {
+	name = "dynn_Cockshaw"
+	culture = "english"
+	motto = "dynn_Cockshaw_motto"
+}
+dynn_Graves = {
+	name = "dynn_Graves"
+	culture = "english"
+	motto = "dynn_Graves_motto"
+}

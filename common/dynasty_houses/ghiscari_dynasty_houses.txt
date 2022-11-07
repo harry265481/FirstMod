@@ -1,0 +1,157 @@
+﻿#Main Dynasties
+
+#Mereen
+house_Dhazak = {
+	name = "dynn_Dhazak"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Dhazak
+	motto = dynn_Dhazak_motto
+}
+house_Galare = {
+	name = "dynn_Galare"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Galare
+	motto = dynn_Galare_motto
+}
+house_Ghazeen = {
+	name = "dynn_Ghazeen"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Ghazeen
+	motto = dynn_Ghazeen_motto
+}
+house_Hazkar = {
+	name = "dynn_Hazkar"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Hazkar
+	motto = dynn_Hazkar_motto
+}
+house_Kandaq = {
+	name = "dynn_Kandaq"
+	prefix = "dynnp_mo"
+	dynasty = dynn_Kandaq
+	motto = dynn_Kandaq_motto
+}
+house_Loraq = {
+	name = "dynn_Loraq"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Loraq
+	motto = dynn_Loraq_motto
+}
+house_Merreq = {
+	name = "dynn_Merreq"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Merreq
+	motto = dynn_Merreq_motto
+}
+house_Naqqan = {
+	name = "dynn_Naqqan"
+	prefix = "dynnp_mo"
+	dynasty = dynn_Naqqan
+	motto = dynn_Naqqan_motto
+}
+house_Pahl = {
+	name = "dynn_Pahl"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Pahl
+	motto = dynn_Pahl_motto
+}
+house_Quazzar = {
+	name = "dynn_Quazzar"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Quazzar
+	motto = dynn_Quazzar_motto
+}
+house_Reznak = {
+	name = "dynn_Reznak"
+	prefix = "dynnp_mo"
+	dynasty = dynn_Reznak
+	motto = dynn_Reznak_motto
+}
+house_Rhazdar = {
+	name = "dynn_Rhazdar"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Rhazdar
+	motto = dynn_Rhazdar_motto
+}
+house_Uhlez = {
+	name = "dynn_Uhlez"
+	prefix = "dynnp_mo"
+	dynasty = dynn_Uhlez
+	motto = dynn_Uhlez_motto
+}
+house_Yherizan = {
+	name = "dynn_Yherizan"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Yherizan
+	motto = dynn_Yherizan_motto
+}
+house_Zhak = {
+	name = "dynn_Zhak"
+	prefix = "dynnp_mo"
+	dynasty = dynn_Zhak
+	motto = dynn_Zhak_motto
+}
+
+#Astapor
+house_Nakloz = {
+	name = "dynn_Nakloz"
+	prefix = "dynnp_mo"
+	dynasty = dynn_Nakloz
+	motto = dynn_Nakloz_motto
+}
+house_Ullhor = {
+	name = "dynn_Ullhor"
+	prefix = "dynnp_mo"
+	dynasty = dynn_Ullhor
+	motto = dynn_Ullhor_motto
+}
+
+#Yunkai
+house_Ahlaq = {
+	name = "dynn_Ahlaq"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Ahlaq
+	motto = dynn_Ahlaq_motto
+}
+house_Eraz = {
+	name = "dynn_Eraz"
+	prefix = "dynnp_mo"
+	dynasty = dynn_Eraz
+	motto = dynn_Eraz_motto
+}
+house_Faez = {
+	name = "dynn_Faez"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Faez
+	motto = dynn_Faez_motto
+}
+house_Myraq = {
+	name = "dynn_Myraq"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Myraq
+	motto = dynn_Myraq_motto
+}
+house_Qaggaz = {
+	name = "dynn_Qaggaz"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Qaggaz
+	motto = dynn_Qaggaz_motto
+}
+house_Rhaezn = {
+	name = "dynn_Rhaezn"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Rhaezn
+	motto = dynn_Rhaezn_motto
+}
+house_Yunzak = {
+	name = "dynn_Yunzak"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Yunzak
+	motto = dynn_Yunzak_motto
+}
+house_Zherzyn = {
+	name = "dynn_Zherzyn"
+	prefix = "dynnp_zo"
+	dynasty = dynn_Zherzyn
+	motto = dynn_Zherzyn_motto
+}

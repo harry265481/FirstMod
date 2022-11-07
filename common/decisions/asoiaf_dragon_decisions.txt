@@ -1,0 +1,115 @@
+﻿hatch_dragon_egg_decision = {
+	ai_check_interval = 1
+	
+	picture = "gfx/interface/illustrations/decisions/decision_dragon.dds"
+
+	desc = hatch_dragon_egg_decision_desc
+
+	selection_tooltip = hatch_dragon_egg_decision_tooltip
+	
+	ai_potential = {
+		always = yes
+	}
+	
+	ai_will_do = {
+		base = -50
+		
+		modifier = {
+			add = 35
+			scope:root = {
+				OR = {
+					has_trait = lunatic_1
+					has_trait = lunatic_genetic
+				}
+			}
+		}
+		modifier = {
+			add = 30
+			scope:root = {
+				dynasty = { has_dynasty_modifier = valyrian_house }
+			}
+		}
+		modifier = {
+			add = 20
+			scope:root = {
+				has_trait = ambitious
+			}
+		}
+		modifier = {
+			add = 20
+			scope:root = {
+				OR = {
+					has_trait = valyrian_3
+					has_trait = valyrian_2
+				}
+			}
+		}
+		modifier = {
+			add = 100
+			any_close_family_member = {
+				even_if_dead = yes
+				has_trait = dragon_rider
+			}
+		}
+		modifier = {
+			add = -60
+			scope:root = {
+				has_trait = content
+			}
+		}
+	}
+	
+	cost = {
+		prestige = { value = 100 }
+	}
+	
+	is_shown = {
+		has_trait = dragon_egg
+	}
+	
+	is_valid = {
+		NOT = { has_trait = dragon_rider }
+		NOT = { is_imprisoned = yes }
+		NOT = { has_trait = incapable }
+		age >= 10
+	}
+	
+	effect = {
+		trigger_event = asoiaf_dragon_hatching.1
+	}
+}
+
+#search for dragon egg
+
+#search_for_dragon_egg_decision = {
+#	ai_check_interval = 0 #for now
+#	picture = "gfx/interface/illustrations/decisions/decision_dragon.dds"
+#	desc = search_for_dragon_egg_decision_desc
+#	selection_tooltip = search_for_dragon_egg_decision_tooltip
+#	
+#	ai_potential = {
+#		always = no
+#	}
+#	
+#	ai_will_do = {
+#		base = 0
+#	}
+#	
+#	cost = {
+#		prestige = { value = 2000 }
+#		gold = { value = 10000 }
+#	}
+#	
+#	is_shown = {
+#		NOT = { has_trait = dragon_egg }
+#	}
+#	
+#	is_valid = {
+#		NOT = { is_imprisoned = yes }
+#		NOT = { has_trait = incapable }
+#	}
+#	
+#	effect = {
+#		add_trait = dragon_egg
+#	}
+#}

@@ -1,0 +1,71 @@
+﻿dynn_Arryn = {
+	name = "dynn_Arryn"
+	culture = "english"
+	motto = "dynn_Arryn_motto"
+}
+
+dynn_Baelish = {
+	name = "dynn_Baelish"
+	culture = "english"
+	motto = "dynn_Baelish_motto"
+}
+
+dynn_Corbray = {
+	name = "dynn_Corbray"
+	culture = "english"
+	motto = "dynn_Corbray_motto"
+}
+
+dynn_Egen = {
+	name = "dynn_Egen"
+	culture = "english"
+	motto = "dynn_Egen_motto"
+}
+
+dynn_Hardyng = {
+	name = "dynn_Hardyng"
+	culture = "english"
+	motto = "dynn_Hardyng_motto"
+}
+
+dynn_Royce = {
+	name = "dynn_Royce"
+	culture = "english"
+	motto = "dynn_Royce_motto"
+}
+
+dynn_Waynwood = {
+	name = "dynn_Waynwood"
+	culture = "english"
+	motto = "dynn_Waynwood_motto"
+}
+
+dynn_Grafton = {
+	name = "dynn_Grafton"
+	culture = "english"
+	motto = "dynn_Grafton_motto"
+}
+
+dynn_Redfort = {
+	name = "dynn_Redfort"
+	culture = "english"
+	motto = "dynn_Redfort_motto"
+}
+
+dynn_Upcliff = {
+	name = "dynn_Upcliff"
+	culture = "english"
+	motto = "dynn_Upcliff_motto"
+}
+
+dynn_Donniger = {
+	name = "dynn_Donniger"
+	culture = "english"
+	motto = "dynn_Donniger_motto"
+}
+
+dynn_Lipps = {
+	name = "dynn_Lipps"
+	culture = "english"
+	motto = "dynn_Lipps_motto"
+}

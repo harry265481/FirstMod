@@ -1,0 +1,60 @@
+﻿ice_reforge_decision = {
+	ai_check_interval = 0
+	
+	picture = "gfx/interface/illustrations/decisions/decision_dynasty_house.dds"
+
+	desc = ice_reforge_decision_desc
+
+	selection_tooltip = ice_reforge_decision_tooltip
+	
+	ai_potential = {
+		always = no
+	}
+	
+	ai_will_do = {
+		base = 0
+	}
+	
+	cost = {
+		#prestige = { value = 1000 }
+		#gold = { value = 1000 }
+	}
+	
+	is_shown = {
+		AND = {
+			any_character_artifact = {
+				has_variable = is_ice
+			}
+			NOT = { this.dynasty = dynasty:dynn_Stark }
+		}
+	}
+	
+	is_valid = {
+		NOT = { this.dynasty = dynasty:dynn_Stark }
+		NOT = { is_imprisoned = yes }
+		house.house_head = root #must be your House's House Head
+	}
+	
+	effect = {
+		every_character_artifact = {
+			limit = { has_variable = is_ice }
+			save_scope_as = this_artifact
+		}
+		destroy_artifact = scope:this_artifact
+		create_artifact_oathkeeper_effect = {
+			OWNER = scope:root
+		}
+		create_artifact_widows_wail_effect = {
+			OWNER = scope:root
+		}
+		house:house_Stark = {
+			every_house_member = {
+				add_opinion = {
+					modifier = hate_opinion
+					target = root
+					opinion = -200
+				}
+			}
+		}
+	}
+}

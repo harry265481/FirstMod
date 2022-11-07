@@ -1,0 +1,6 @@
+﻿allow_incest = {
+	dynasty = { has_variable = allow_incest }
+}
+allow_valyrian_incest = {
+	dynasty = { has_variable = allow_valyrian_incest }
+}

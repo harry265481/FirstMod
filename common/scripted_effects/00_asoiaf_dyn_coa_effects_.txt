@@ -1,0 +1,91 @@
+﻿#dynamically changes title flags to match holder's House CoA
+dynamic_coa_effect = {
+	if = {
+		limit = { #UNIVERSAL GAME RULE + WESTEROSI GAME RULE
+			OR = {
+				has_game_rule = asoiaf_dynamic_coa_universal
+				AND = {
+					has_game_rule = asoiaf_dynamic_coa_westerosi
+					dynasty = { has_dynasty_modifier = hails_from_westeros }
+				}
+				#AND = { #when reset_coa works, add this: applies dynamic_coa to all clan government titles even on SUB KINGDOM mode
+				#	has_game_rule = asoiaf_dynamic_coa_sub_kingdom
+				#	has_government = clan_government
+				#}
+				#has_government = clan_government #when reset_coa works, add this: applies dynamic_coa to all clan governments even on OFF mode
+			}
+		}
+		every_held_title = {
+			limit = {
+				holder = prev
+				NOR = {
+					#this = title:e_hre
+					is_holy_order = yes
+					is_mercenary_company = yes
+					is_head_of_faith = yes
+					this = title:b_vaticano
+				}
+			}
+			set_coa = prev.house
+		}
+	}
+	if = { #SUB KINGDOM GAME RULE
+		limit = {
+			has_game_rule = asoiaf_dynamic_coa_sub_kingdom
+		}
+		every_held_title = {
+			limit = {
+				holder = prev
+				NOR = {
+					is_holy_order = yes
+					is_mercenary_company = yes
+					is_head_of_faith = yes
+					this = title:b_vaticano
+					
+					tier >= tier_kingdom
+				}
+			}
+			set_coa = prev.house
+		}
+	}
+	if = { #SUB DUCHY GAME RULE
+		limit = {
+			has_game_rule = asoiaf_dynamic_coa_sub_duchy
+		}
+		every_held_title = {
+			limit = {
+				holder = prev
+				NOR = {
+					is_holy_order = yes
+					is_mercenary_company = yes
+					is_head_of_faith = yes
+					this = title:b_vaticano
+					
+					tier >= tier_duchy
+				}
+			}
+			set_coa = prev.house
+		}
+	}
+	if = { #WESTEROSI GAME RULE COA REVERSAL EFFECT
+		limit = {
+			AND = {
+				has_game_rule = asoiaf_dynamic_coa_westerosi
+				NOT = { dynasty = { has_dynasty_modifier = hails_from_westeros } }
+			}
+			#NOT = { has_government = clan_government } #when reset_coa works, add this: refreshes the CoA for clan governments with OFF mode on
+		}
+		every_held_title = {
+			limit = {
+				NOR = {
+					this = title:e_hre
+					is_holy_order = yes
+					is_mercenary_company = yes
+					is_head_of_faith = yes
+					this = title:b_vaticano
+				}
+			}
+			reset_coa = yes
+		}
+	}
+}

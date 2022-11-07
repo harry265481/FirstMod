@@ -1,0 +1,6 @@
+﻿l_english:
+ #refuse marriage interactions
+ refuse_marriage_interaction:0 "Refuse Marriages"
+ refuse_marriage_interaction_desc:0 "Refuse to be wed"
+ accept_marriage_interaction:0 "Accept Marriages"
+ accept_marriange_interaction_desc:0 "Consider marriage once again"

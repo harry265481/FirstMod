@@ -1,0 +1,211 @@
+robert_warhammer_modifier = {
+	prowess_no_portrait = 12
+	knight_effectiveness_mult = 0.05
+	enemy_hard_casualty_modifier = 0.01
+	monthly_prestige = 0.5
+	dynasty_opinion = 5
+	court_grandeur_baseline_add = 2
+	monthly_dynasty_prestige = 0.20
+}
+blackfyre_modifier = {
+	prowess_no_portrait = 15
+	knight_effectiveness_mult = 0.15
+	enemy_hard_casualty_modifier = 0.05
+	monthly_prestige = 2.0
+	short_reign_duration_mult = -0.40
+	court_grandeur_baseline_add = 5
+	dynasty_opinion = 10
+	monthly_dynasty_prestige = 0.50
+	vassal_opinion = 5
+}
+brightroar_modifier = {
+	prowess_no_portrait = 15
+	knight_effectiveness_mult = 0.1
+	enemy_hard_casualty_modifier = 0.03
+	monthly_prestige = 1.0
+	dynasty_opinion = 10
+	monthly_dynasty_prestige = 0.50
+	court_grandeur_baseline_add = 5
+}
+vs_crabspincer_modifier = {
+	prowess_no_portrait = 9
+}
+dark_sister_modifier = {
+	prowess_no_portrait = 15
+	knight_effectiveness_mult = 0.10
+	enemy_hard_casualty_modifier = 0.05
+	monthly_prestige = 1.0
+	dread_gain_mult = 0.4
+	court_grandeur_baseline_add = 5
+	dynasty_opinion = 10
+	monthly_dynasty_prestige = 0.50
+	dread_baseline_add = 5
+}
+heartsbane_modifier = {
+	prowess_no_portrait = 15
+	knight_effectiveness_mult = 0.1
+	enemy_hard_casualty_modifier = 0.03
+	monthly_prestige = 1.0
+	dynasty_opinion = 10
+	monthly_dynasty_prestige = 0.50
+	court_grandeur_baseline_add = 5
+}
+ice_modifier = {
+	prowess_no_portrait = 15
+	knight_effectiveness_mult = 0.1
+	enemy_hard_casualty_modifier = 0.03
+	monthly_prestige = 1.0
+	dynasty_opinion = 10
+	monthly_dynasty_prestige = 0.50
+	court_grandeur_baseline_add = 5
+}
+oathkeeper_modifier = {
+	prowess_no_portrait = 15
+	knight_effectiveness_mult = 0.1
+	enemy_hard_casualty_modifier = 0.03
+	monthly_prestige = 1.0
+	dynasty_opinion = 5
+	monthly_dynasty_prestige = 0.50
+	court_grandeur_baseline_add = 5
+}
+widows_wail_modifier = {
+	prowess_no_portrait = 15
+	knight_effectiveness_mult = 0.1
+	enemy_hard_casualty_modifier = 0.03
+	monthly_prestige = 1.0
+	dynasty_opinion = 5
+	monthly_dynasty_prestige = 0.50
+	court_grandeur_baseline_add = 5
+}
+vs_lady_forlorn_modifier = {
+	prowess_no_portrait = 9
+}
+vs_lamentation_modifier = {
+	prowess_no_portrait = 9
+}
+jaime_sword_modifier = {
+	prowess_no_portrait = 10
+	knight_effectiveness_mult = 0.05
+	enemy_hard_casualty_modifier = 0.01
+	monthly_prestige = 0.3
+	dynasty_opinion = 2
+	court_grandeur_baseline_add = 2
+	monthly_dynasty_prestige = 0.1
+}
+longclaw_modifier = {
+	prowess_no_portrait = 15
+	knight_effectiveness_mult = 0.1
+	enemy_hard_casualty_modifier = 0.03
+	monthly_prestige = 1.0
+	dynasty_opinion = 10
+	monthly_dynasty_prestige = 0.50
+	court_grandeur_baseline_add = 5
+}
+ellaria_dagger_modifier = {
+	prowess_no_portrait = 7
+	enemy_hard_casualty_modifier = 0.1
+	monthly_prestige = 0.3
+	dynasty_opinion = 2
+	court_grandeur_baseline_add = 2
+	monthly_dynasty_prestige = 0.1
+	hostile_scheme_power_mult = 0.2
+	
+}
+oberyn_spear_modifier = {
+	prowess_no_portrait = 10
+	enemy_hard_casualty_modifier = 0.1
+	monthly_prestige = 0.3
+	dynasty_opinion = 2
+	court_grandeur_baseline_add = 2
+	monthly_dynasty_prestige = 0.1
+}
+vs_nightfall_modifier = {
+	prowess_no_portrait = 9
+}
+vs_orphan_maker_modifier = {
+	prowess_no_portrait = 9
+}
+vs_poison_modifier = {
+	prowess_no_portrait = 9
+}
+vs_red_rain_modifier = {
+	prowess_no_portrait = 9
+}
+vs_strangers_mercy_modifier = {
+	prowess_no_portrait = 9
+}
+vs_truth_modifier = {
+	prowess_no_portrait = 9
+}
+vs_vigilance_modifier = {
+	prowess_no_portrait = 9
+}
+
+aegon_I_crown_modifier = {
+	monthly_prestige = 1.5
+	dynasty_opinion = 5
+	short_reign_duration_mult = -0.1
+	monthly_dynasty_prestige = 0.5
+	court_grandeur_baseline_add = 5
+}
+aenys_crown_modifier = {
+	prowess_no_portrait = 9
+}
+jaehaerys_crown_modifier = {
+	prowess_no_portrait = 9
+}
+aegon_III_crown_modifier = {
+	prowess_no_portrait = 9
+}
+baelors_crown_modifier = {
+	prowess_no_portrait = 9
+}
+aegon_IV_crown_modifier = {
+	prowess_no_portrait = 9
+}
+robert_I_crown_modifier = {
+	monthly_prestige = 1.0
+	dynasty_opinion = 5
+	short_reign_duration_mult = -0.1
+	monthly_dynasty_prestige = 0.3
+	court_grandeur_baseline_add = 5
+}
+renly_crown_modifier = {
+	monthly_prestige = 1.0
+	dynasty_opinion = 4
+	short_reign_duration_mult = -0.05
+	monthly_dynasty_prestige = 0.2
+	attraction_opinion = 15
+	court_grandeur_baseline_add = 4
+}
+tommen_I_crown_modifier = {
+	monthly_prestige = 1.0
+	monthly_piety = 0.5
+	dynasty_opinion = 5
+	same_faith_opinion = 1
+	courtier_opinion = 5
+	monthly_dynasty_prestige = 0.3
+	court_grandeur_baseline_add = 5
+}
+margaery_crown_modifier = {
+	monthly_prestige = 1.0
+	dynasty_opinion = 5
+	short_reign_duration_mult = -0.05
+	county_opinion_add = 5
+	monthly_dynasty_prestige = 0.3
+	court_grandeur_baseline_add = 5
+}
+maekar_I_crown_modifier = {
+	monthly_prestige = 1.0
+	dynasty_opinion = 5
+	short_reign_duration_mult = -0.05
+	dread_baseline_add = 5
+	monthly_dynasty_prestige = 0.3
+	court_grandeur_baseline_add = 5
+}
+hound_helmet_modifier = {
+	prowess_no_portrait = 5
+	dread_baseline_add = 5
+	dread_gain_mult = 0.05
+	dread_decay_mult = -0.05
+}

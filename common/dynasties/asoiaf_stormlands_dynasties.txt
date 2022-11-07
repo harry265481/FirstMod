@@ -1,0 +1,92 @@
+﻿dynn_Durrandon = { #Durrandon
+	name = "dynn_Durrandon"
+	culture = "english"
+	motto = dynn_Baratheon_motto
+}
+dynn_Baratheon = { #Baratheon
+	name = "dynn_Baratheon"
+	culture = "english"
+	motto = dynn_Baratheon_motto
+}
+dynn_Connington = {
+	name = "dynn_Connington"
+	culture = "english"
+	motto = dynn_Connington_motto
+}
+
+dynn_Dondarrion = {
+	name = "dynn_Dondarrion"
+	culture = "english"
+	motto = dynn_Dondarrion_motto
+}
+dynn_Estermont = {
+	name = "dynn_Estermont"
+	culture = "english"
+	motto = dynn_Estermont_motto
+}
+
+dynn_Seaworth = {
+	name = "dynn_Seaworth"
+	culture = "english"
+	motto = dynn_Seaworth_motto
+}
+
+dynn_Selmy = {
+	name = "dynn_Selmy"
+	culture = "english"
+	motto = dynn_Selmy_motto
+}
+
+dynn_Tarth = {
+	name = "dynn_Tarth"
+	culture = "english"
+	motto = dynn_Tarth_motto
+}
+
+dynn_Morrigen = {
+	name = "dynn_Morrigen"
+	culture = "english"
+	motto = dynn_Morrigen_motto
+}
+
+dynn_Swann = {
+	name = "dynn_Swann"
+	culture = "english"
+	motto = dynn_Swann_motto
+}
+
+dynn_Caron = {
+	name = "dynn_Caron"
+	culture = "english"
+	motto = dynn_Caron_motto
+}
+
+dynn_Wylde = {
+	name = "dynn_Wylde"
+	culture = "english"
+	motto = dynn_Wylde_motto
+}
+
+dynn_Penrose = {
+	name = "dynn_Penrose"
+	culture = "english"
+	motto = dynn_Penrose_motto
+}
+
+dynn_Cole = {
+	name = "dynn_Cole"
+	culture = "english"
+	motto = dynn_Cole_motto
+}
+
+dynn_Tudbury = {
+	name = "dynn_Tudbury"
+	culture = "english"
+	motto = dynn_Tudbury_motto
+}
+
+dynn_Lonmouth = {
+	name = "dynn_Lonmouth"
+	culture = "english"
+	motto = dynn_Lonmouth_motto
+}

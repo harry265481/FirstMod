@@ -1,7 +1,7 @@
 ﻿the_seven_religion = {
 	family = rf_andallic
-	graphical_faith = catholic_gfx
-	piety_icon_group = the_seven
+	graphical_faith = "catholic_gfx"
+	piety_icon_group = "fots"
 	doctrine_background_icon = 	core_tenet_banner_christian.dds
 
 	traits = {
@@ -193,9 +193,7 @@
 
 	faiths = {
 		the_seven = {
-			color = { 159 167 162 }
-			graphical_faith = catholic_gfx
-			piety_icon_group = the_seven
+			color = { 0.62 0.65 0.63 }
 			icon = the_seven
 			
 			holy_site = kent

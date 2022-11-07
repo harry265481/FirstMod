@@ -1,0 +1,73 @@
+﻿#Main Dynasties
+house_Arryn = {
+	name = "dynn_Arryn"
+	dynasty = dynn_Arryn
+	motto = "dynn_Arryn_motto"
+}
+house_Baelish = {
+	name = "dynn_Baelish"
+	dynasty = dynn_Baelish
+	motto = "dynn_Baelish_motto"
+}
+house_Corbray = {
+	name = "dynn_Corbray"
+	dynasty = dynn_Corbray
+	motto = "dynn_Corbray_motto"
+}
+house_Egen = {
+	name = "dynn_Egen"
+	dynasty = dynn_Egen
+	motto = "dynn_Egen_motto"
+}
+house_Hardyng = {
+	name = "dynn_Hardyng"
+	dynasty = dynn_Hardyng
+	motto = "dynn_Hardyng_motto"
+}
+house_Royce = {
+	name = "dynn_Royce"
+	dynasty = dynn_Royce
+	motto = "dynn_Royce_motto"
+}
+house_Waynwood = {
+	name = "dynn_Waynwood"
+	dynasty = dynn_Waynwood
+	motto = "dynn_Waynwood_motto"
+}
+house_Grafton = {
+	name = "dynn_Grafton"
+	dynasty = dynn_Grafton
+	motto = "dynn_Grafton_motto"
+}
+house_Redfort = {
+	name = "dynn_Redfort"
+	dynasty = dynn_Redfort
+	motto = "dynn_Redfort_motto"
+}
+house_Upcliff = {
+	name = "dynn_Upcliff"
+	dynasty = dynn_Upcliff
+	motto = "dynn_Upcliff_motto"
+}
+house_Donniger = {
+	name = "dynn_Donniger"
+	dynasty = dynn_Donniger
+	motto = "dynn_Donniger_motto"
+}
+house_Lipps = {
+	name = "dynn_Lipps"
+	dynasty = dynn_Lipps
+	motto = "dynn_Lipps_motto"
+}
+
+#Cadet Branches
+house_ArrynGT = {
+	name = "dynn_Arryn"
+	dynasty = dynn_Arryn
+	motto = "dynn_Arryn_motto"
+}
+house_RoyceGOTM = {
+	name = "dynn_Royce"
+	dynasty = dynn_Royce
+	motto = "dynn_Royce_motto"
+}

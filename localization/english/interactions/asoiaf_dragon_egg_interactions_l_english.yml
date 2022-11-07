@@ -1,0 +1,9 @@
+﻿l_english:
+ seize_dragon_egg_interaction:0 "Seize Dragon Egg"
+ seize_dragon_egg_interaction_desc:0 "Seize the [recipient.GetName]'s dragon egg."
+ 
+ give_dragon_egg_interaction:0 "Gift Dragon Egg"
+ give_dragon_egg_interaction_desc:0 "Gift your dragon egg to [recipient.GetName]."
+ 
+ ask_for_dragon_egg_interaction:0 "Ask for Dragon Egg"
+ ask_for_dragon_egg_interaction_desc:0 "Ask [recipient.GetName] for their dragon egg."

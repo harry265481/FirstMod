@@ -1,0 +1,108 @@
+colors = {
+	#vanilla colours (converted to ASOIAF)
+	asoiaf_red 			= hsv {		0.02 	0.8 	0.45 	} #732217ff
+	asoiaf_blue 		= hsv {		0.58 	0.8 	0.4 	} #143f66ff
+	asoiaf_yellow		= hsv {		0.1 	0.75 	0.75 	} #bf8630ff
+	asoiaf_green		= hsv {		0.35 	0.6 	0.30 	} #1f4d23ff
+	asoiaf_black		= hsv {		0.1 	0.25 	0.10 	} #1A1313ff
+	asoiaf_white		= hsv {		0.08 	0.02 	0.8 	} #CCCAC8ff
+	asoiaf_purple 		= hsv {		0.9 	0.7 	0.35 	} #591b40ff
+	asoiaf_orange 		= hsv {		0.064 	1 		0.6 	} #993b00ff
+	asoiaf_grey 		= hsv {		0.0 	0.0 	0.50 	} #808080ff (?)
+	asoiaf_brown 		= hsv360 {	021 	074 	045		}
+	asoiaf_blue_light	= hsv {		0.58 	0.70 	0.55 	} #2a5d8cff
+	asoiaf_green_light	= hsv {		0.35 	0.50 	0.40 	}
+	asoiaf_yellow_light = hsv {		0.1 	0.80 	1.0 	}
+	
+	#ASOIAF COLOURS
+	#Whites
+	asoiaf_white_dark				= rgb { 183 175 166 }
+	asoiaf_white_dark_warm 			= rgb { 180 177 157 }
+	asoiaf_bone_dark 				= rgb { 206 200 177 }
+	asoiaf_white_yellow_undertone 	= rgb { 213 197 158 }
+	asoiaf_bone_dark_warm 			= rgb { 211 197 171 }
+	asoiaf_bone_medium 				= rgb { 213 206 178 }
+	asoiaf_bone_medium_pale 		= rgb { 208 208 181 }
+	asoiaf_bone_light_warm 			= rgb { 227 220 192 }
+	asoiaf_steel_white 				= rgb { 209 208 201 }
+	asoiaf_white_blue_undertone		= rgb { 193 197 226 }
+	asoiaf_bone_light				= rgb { 227 218 201 }
+	
+	#Browns
+	asoiaf_burgundy_dark			= rgb { 57 29 34 }
+	asoiaf_brown_dark 				= rgb { 64 46 38 }
+	asoiaf_brown_medium				= rgb { 89 64 53 }
+	asoiaf_brown_light 				= rgb { 114 89 66 }
+	asoiaf_brown_orange_undertone 	= rgb { 143 88 51 }
+	
+	#Blacks/Greys
+	asoiaf_black_deep			= rgb { 0 0 0 }
+	asoiaf_black_alt			= rgb { 38 38 38 }
+	asoiaf_black_light 			= rgb { 38 48 57 }
+	asoiaf_grey_dark 			= rgb { 80 80 80 }
+	asoiaf_grey_medium			= rgb {	118 118 118 }
+	asoiaf_grey_medium_light 	= rgb { 125 125 125 }
+	asoiaf_grey_light_warm 		= rgb { 154 154 142 }
+	asoiaf_grey_light 			= rgb { 169 169 169 }
+	
+	#Purples
+	asoiaf_purple_medium 	= rgb { 104 49 89 }
+	asoiaf_violet			= rgb { 84 47 146 }
+	asoiaf_indigo 			= rgb { 47 46 106 }
+	asoiaf_lilac			= rgb { 121 112 137 }
+	
+	#Blues
+	asoiaf_blue_dark_deep	 	 = rgb { 25 23 60 }
+	asoiaf_blue_dark			 = rgb { 11 38 64 }
+	asoiaf_blue_indigo_undertone = rgb { 32 35 78 }
+	asoiaf_blue_medium 			 = rgb { 51 70 113 }
+	asoiaf_blue_grey			 = rgb { 120 129 141 }
+	
+	#Blue-Greens
+	asoiaf_sea_green_dark_deep	= rgb { 10 90 100 }
+	asoiaf_sea_green_dark 		= rgb { 39 94 90 }
+	asoiaf_sea_green_medium		= rgb { 60 128 101 }
+	asoiaf_sea_green_light 		= rgb { 27 142 136 }
+	
+	#Greens
+	asoiaf_green_blue_undertone = rgb { 0 87 70 }
+	asoiaf_green_cool_undertone = rgb { 36 79 59 }
+	asoiaf_green_warm_undertone = rgb { 38 74 29 }
+	asoiaf_field_green_warm 	= rgb { 104 110 65 }
+	asoiaf_field_green_dark		= rgb { 90 95 55 }
+	asoiaf_field_green_medium 	= rgb { 111 129 98 }
+	asoiaf_field_green_light 	= rgb { 123  144 111 }
+	asoiaf_green_bright 		= rgb { 98 133 84 }
+	
+	#Yellows/Golds
+	asoiaf_yellow_light_dull 		= rgb { 195 165 77 }
+	asoiaf_yellow_bright 			= rgb { 238 190 62 }
+	asoiaf_yellow_bright_special 	= rgb { 252 223 85 }
+	asoiaf_sand_warm				= rgb { 167 152 103 }
+	asoiaf_sand_pale 				= rgb { 166 154 117 }
+	asoiaf_sand_light 				= rgb { 194  173 109 }
+	asoiaf_cream_yellow_undertone 	= rgb { 218 218 160 }
+	
+	#Oranges
+	asoiaf_bronze_dark			= rgb {	133	83 33 } ##################
+	asoiaf_orange_medium 		= rgb { 161 85 33 }
+	asoiaf_orange_light 		= rgb { 204 105 36 }
+	asoiaf_orange_light_warm	= rgb { 203 110 29 }
+	asoiaf_orange_light_dull  	= rgb { 191 117 50 }
+	asoiaf_bronze_light			= rgb { 205 127 50 }
+	
+	#Reds
+	asoiaf_red_dark_purple_undertone	= rgb { 66 3 24 }
+	asoiaf_red_purple_undertone 		= rgb { 121 22 59 }
+	asoiaf_red_dark 					= rgb { 95 17 13 }
+	asoiaf_murrey_light					= rgb { 164 44 69 }
+	asoiaf_red_light					= rgb { 165 47 45 }
+	asoiaf_rose_dark					= rgb { 174 67 47 }
+	asoiaf_rose_medium_dark				= rgb { 184 71 69 }
+	asoiaf_rose_medium					= rgb { 179 125 125 }
+	asoiaf_rose_light    				= rgb { 217 146 146 }
+	asoiaf_pink							= rgb { 218 120 120 }
+	asoiaf_pink_pale					= rgb { 234 191 162 }
+}
+
+	

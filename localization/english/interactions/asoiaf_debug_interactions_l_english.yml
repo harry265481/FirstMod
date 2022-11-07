@@ -1,0 +1,8 @@
+﻿l_english:
+ #Debug
+ asoiaf_debug_allow_incest_for_dynasty_interaction:0 "Allow incest for dynasty"
+ 
+ asoiaf_debug_allow_valyrian_incest_for_dynasty_interaction:0 "Allow valyrian incest for dynasty"
+ 
+ asoiaf_debug_give_ironborn_old_way_interaction:0 "Allow ironborn raiding for House"
+ asoiaf_debug_remove_ironborn_old_way_interaction:0 "Remove ironborn raiding for House"

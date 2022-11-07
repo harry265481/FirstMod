@@ -1,0 +1,73 @@
+﻿#Main Houses
+house_Stark = {
+	name = "dynn_Stark"
+	dynasty = dynn_Stark
+	motto = "dynn_Stark_motto"
+}
+
+house_Bolton = {
+	name = "dynn_Bolton"
+	dynasty = dynn_Bolton
+	motto = "dynn_Bolton_motto"
+}
+
+house_Manderly = {
+	name = "dynn_Manderly"
+	dynasty = dynn_Manderly
+	motto = "dynn_Manderly_motto"
+}
+
+house_Mormont = {
+	name = "dynn_Mormont"
+	dynasty = dynn_Mormont
+	motto = "dynn_Mormont_motto"
+}
+
+house_Umber = {
+	name = "dynn_Umber"
+	dynasty = dynn_Umber
+	motto = "dynn_Umber_motto"
+}
+
+house_Forrester = {
+	name = "dynn_Forrester"
+	dynasty = dynn_Forrester
+	motto = "dynn_Forrester_motto"
+}
+
+house_Cerwyn = {
+	name = "dynn_Cerwyn"
+	dynasty = dynn_Cerwyn
+	motto = "dynn_Cerwyn_motto"
+}
+
+house_Hornwood = {
+	name = "dynn_Hornwood"
+	dynasty = dynn_Hornwood
+	motto = "dynn_Hornwood_motto"
+}
+
+house_Reed = {
+	name = "dynn_Reed"
+	dynasty = dynn_Reed
+	motto = "dynn_Reed_motto"
+}
+
+house_Whitehill = {
+	name = "dynn_Whitehill"
+	dynasty = dynn_Whitehill
+	motto = "dynn_Whitehill_motto"
+}
+
+house_Glover = {
+	name = "dynn_Glover"
+	dynasty = dynn_Glover
+	motto = "dynn_Glover_motto"
+}
+
+#Cadet branches
+house_Karstark = {
+	name = "dynn_Karstark"
+	dynasty = dynn_Stark
+	motto = "dynn_Karstark_motto"
+}

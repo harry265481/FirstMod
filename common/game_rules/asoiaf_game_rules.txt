@@ -1,0 +1,71 @@
+﻿asoiaf_dynasties = {
+	default = asoiaf_dynasties_on
+	
+	asoiaf_dynasties_off = {
+		
+	}
+	
+	asoiaf_dynasties_on = {
+		
+	}
+}
+
+asoiaf_dynamic_coa = {
+	default = asoiaf_dynamic_coa_off
+
+	asoiaf_dynamic_coa_universal = {
+		
+	}
+	
+	asoiaf_dynamic_coa_westerosi = {
+		
+	}
+	
+	asoiaf_dynamic_coa_sub_kingdom = {
+		
+	}
+	
+	asoiaf_dynamic_coa_sub_duchy = {
+		
+	}
+	
+	asoiaf_dynamic_coa_off = {
+		
+	}
+}
+
+asoiaf_contraceptives = {
+	default = asoiaf_contraceptives_off
+	
+	asoiaf_contraceptives_off = {
+		
+	}
+	
+	asoiaf_contraceptives_on = {
+		
+	}
+}
+
+asoiaf_widowhood = {
+	default = asoiaf_widowhood_off
+	
+	asoiaf_widowhood_off = {
+		
+	}
+	
+	asoiaf_widowhood_on = {
+		
+	}
+}
+
+asoiaf_marriage_rejection = {
+	default = asoiaf_marriage_rejection_off
+	
+	asoiaf_marriage_rejection_off = {
+		
+	}
+	
+	asoiaf_marriage_rejection_on = {
+		
+	}
+}

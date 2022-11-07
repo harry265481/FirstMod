@@ -1,0 +1,145 @@
+﻿adopt_house_interaction = {
+    category = interaction_category_friendly
+    desc = adopt_house_interaction_desc
+    interface_priority = 40
+    use_diplomatic_range = no
+	ignores_pending_interaction_block = yes
+	
+	auto_accept = yes
+	
+	is_shown = {
+		AND = {
+			scope:recipient = {
+				OR = {
+					NOT = {
+						dynasty = {
+							has_dynasty_modifier = hails_from_westeros
+						}
+					}
+					AND = {
+						dynasty = {
+							has_dynasty_modifier = hails_from_westeros
+						}
+						OR = {
+							OR = {
+								has_trait = bastard
+								has_trait = legitimized_bastard
+								has_trait = wild_oat
+							}
+							AND = {
+								dynasty = dynasty:dynn_Baratheon
+								OR = {
+									AND = {
+										mother.dynasty = dynasty:dynn_Lannister
+										father.dynasty = dynasty:dynn_Baratheon
+									}
+									AND = {
+										mother.dynasty = dynasty:dynn_Baratheon
+										father.dynasty = dynasty:dynn_Lannister
+									}
+								}
+								NOT = {
+									is_target_in_global_variable_list = {
+										name = baratheonkl_unavailable
+										target = flag:asoiaf_dynasty.3006.baratheonkl
+									}
+								}
+							}
+							AND = {
+								dynasty = dynasty:dynn_Baratheon
+								OR = {
+									AND = {
+										mother.dynasty = dynasty:dynn_Tyrell
+										father.dynasty = dynasty:dynn_Baratheon
+									}
+									AND = {
+										mother.dynasty = dynasty:dynn_Baratheon
+										father.dynasty = dynasty:dynn_Tyrell
+									}
+								}
+								NOT = {
+									is_target_in_global_variable_list = {
+										name = baratheonrenly_unavailable
+										target = flag:asoiaf_dynasty.3006.baratheonrenly
+									}
+								}
+							}
+							AND = {
+								dynasty = dynasty:dynn_Lannister
+								OR = {
+									AND = {
+										mother.dynasty = dynasty:dynn_Lannister
+										father.dynasty = dynasty:dynn_Darry
+									}
+									AND = {
+										mother.dynasty = dynasty:dynn_Darry
+										father.dynasty = dynasty:dynn_Lannister
+									}
+								}
+								NOT = {
+									is_target_in_global_variable_list = {
+										name = lannisterd_unavailable
+										target = flag:asoiaf_dynasty.4006.lannisterd
+									}
+								}
+							}
+							AND = {
+								dynasty = dynasty:dynn_Baratheon
+								OR = {
+									NOT = { faith = house.house_head.faith }
+									house:house_Baratheon.house_head = scope:recipient
+								}
+								NOT = {
+									is_target_in_global_variable_list = {
+										name = baratheonds_unavailable
+										target = flag:asoiaf_dynasty.3006.baratheonds
+									}
+								}
+							}
+							AND = {
+								dynasty = dynasty:dynn_Stark
+								NOT = {
+									is_target_in_global_variable_list = {
+										name = karstark_unavailable
+										target = flag:asoiaf_dynasty.8003.karstark
+									}
+								}
+							}
+							AND = {
+								dynasty = dynasty:dynn_Durrandon
+								NOT = {
+									is_target_in_global_variable_list = {
+										name = bolling_unavailable
+										target = flag:asoiaf_dynasty.3001.bolling
+									}
+								}
+							}
+							AND = {
+								dynasty = dynasty:dynn_Kenning
+								NOT = {
+									is_target_in_global_variable_list = {
+										name = kenningk_unavailable
+										target = flag:asoiaf_dynasty.4003.kenningk
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			OR = {
+				any_player = { count = 1 }
+				scope:recipient = scope:actor
+			}
+			has_game_rule = asoiaf_dynasties_on
+		}
+	}
+	
+	on_accept = {
+		scope:actor = {
+			trigger_event = asoiaf_dynasty.1
+		}
+    }
+	
+	ai_potential = { always = no }
+}

@@ -1,0 +1,62 @@
+﻿accept_marriage_interaction = {
+	category = interaction_category_friendly
+	
+	desc = accept_marriange_interaction_desc
+	interface_priority = 40
+	use_diplomatic_range = yes
+	
+	auto_accept = yes
+	
+	is_valid_showing_failures_only = {
+		scope:recipient = {
+			age >= 10
+		}
+	}
+	
+	on_accept = {
+		scope:recipient = {
+			remove_trait = asoiaf_refusing_marriage
+		}
+	}
+	ai_potential = { always = no }
+	is_shown = {
+		as_game_rule = asoiaf_marriage_rejection_on
+		scope:actor = {
+			has_trait = asoiaf_refusing_marriage
+		}
+		scope:recipient = scope:actor
+	}
+}
+
+refuse_marriage_interaction = {
+    category = interaction_category_friendly
+    
+    desc = refuse_marriage_interaction_desc
+    interface_priority = 40
+    use_diplomatic_range = yes
+	
+	auto_accept = yes
+	
+	is_valid_showing_failures_only = {
+		scope:recipient = {
+			age >= 10
+		}
+	}
+	
+	on_accept = {
+        scope:recipient = {
+			add_trait = asoiaf_refusing_marriage
+        }
+    }
+	ai_potential = { always = no }
+	is_shown = {
+		as_game_rule = asoiaf_marriage_rejection_on
+		scope:actor = {
+			NOR = {
+				has_trait = asoiaf_refusing_marriage
+				is_married = yes
+			}
+		}
+		scope:recipient = scope:actor
+	}
+}

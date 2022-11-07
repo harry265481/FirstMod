@@ -1,0 +1,13 @@
+﻿dynasty_bastard_founder_effect = {
+	if = {
+		limit = {
+			OR = {
+				has_trait = bastard
+				has_trait = legitimized_bastard
+			}
+		}
+		remove_trait = bastard
+		remove_trait = legitimized_bastard
+		add_trait = bastard_founder
+	}
+}

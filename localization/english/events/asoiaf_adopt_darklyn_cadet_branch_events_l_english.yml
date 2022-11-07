@@ -1,0 +1,11 @@
+﻿l_english:
+ asoiaf_darklyn_cadet_branch.1.t:0 "Choose Your Cadet Branch"
+ asoiaf_darklyn_cadet_branch.1.desc:0 "Choose one of the cadet branches to make your own."
+ asoiaf_darklyn_cadet_branch.1.dargood:0 "House Dargood"
+ asoiaf_darklyn_cadet_branch_tooltip_dargood:0 "Choose House Dargood"
+ asoiaf_darklyn_cadet_branch.2.darkwood:0 "House Darkwood"
+ asoiaf_darklyn_cadet_branch_tooltip_darkwood:0 "Choose House Darkwood"
+ asoiaf_darklyn_cadet_branch.3.darke:0 "House Darke"
+ asoiaf_darklyn_cadet_branch_tooltip_darke:0 "Choose House Darke"
+ asoiaf_darklyn_cadet_branch.4.cancel:0 "Cancel"
+ asoiaf_darklyn_cadet_branch_tooltip_cancel:0 "Exit the cadet branch selection window"

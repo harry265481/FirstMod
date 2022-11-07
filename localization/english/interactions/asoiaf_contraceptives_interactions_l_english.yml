@@ -1,0 +1,6 @@
+﻿l_english:
+ #birth control interactions
+ start_contraceptives_interaction:0 "Take Contraceptives"
+ start_contraceptives_interaction_desc:0 "Have [recipient.GetFirstNameNoTooltip] start taking contraceptives"
+ remove_contraceptives_interaction:0 "Stop Contraceptives"
+ remove_contraceptives_interaction_desc:0 "Have [recipient.GetFirstNameNoTooltip] stop taking contraceptives"

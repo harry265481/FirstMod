@@ -1,0 +1,65 @@
+﻿dynn_Stark = {
+	name = "dynn_Stark"
+	culture = "english"
+	motto = "dynn_Stark_motto"
+}
+
+dynn_Bolton = {
+	name = "dynn_Bolton"
+	culture = "english"
+	motto = "dynn_Bolton_motto"
+}
+
+dynn_Manderly = {
+	name = "dynn_Manderly"
+	culture = "english"
+	motto = "dynn_Manderly_motto"
+}
+
+dynn_Mormont = {
+	name = "dynn_Mormont"
+	culture = "english"
+	motto = "dynn_Mormont_motto"
+}
+
+dynn_Umber = {
+	name = "dynn_Umber"
+	culture = "english"
+	motto = "dynn_Umber_motto"
+}
+
+dynn_Forrester = {
+	name = "dynn_Forrester"
+	culture = "english"
+	motto = "dynn_Forrester_motto"
+}
+
+dynn_Cerwyn = {
+	name = "dynn_Cerwyn"
+	culture = "english"
+	motto = "dynn_Cerwyn_motto"
+}
+
+dynn_Hornwood = {
+	name = "dynn_Hornwood"
+	culture = "english"
+	motto = "dynn_Hornwood_motto"
+}
+
+dynn_Reed = {
+	name = "dynn_Reed"
+	culture = "english"
+	motto = "dynn_Reed_motto"
+}
+
+dynn_Whitehill = {
+	name = "dynn_Whitehill"
+	culture = "english"
+	motto = "dynn_Whitehill_motto"
+}
+
+dynn_Glover = {
+	name = "dynn_Glover"
+	culture = "english"
+	motto = "dynn_Glover_motto"
+}

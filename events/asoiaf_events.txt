@@ -1,0 +1,17 @@
+﻿namespace = asoiaf
+
+asoiaf.2 = { #dynamic CoA event for on_title_gain (OBSOLETE)
+	hidden = yes
+	type = character_event
+	immediate = {
+		dynamic_coa_effect = yes
+	}
+}
+
+asoiaf.3 = { #dynamic CoA event for on_game_start_after_lobby
+	hidden = yes
+	type = empty
+	immediate = {
+		every_living_character = { dynamic_coa_effect = yes }
+	}
+}

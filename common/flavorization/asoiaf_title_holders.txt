@@ -1,0 +1,188 @@
+﻿queen_mother = {
+	type = character
+	gender = female
+	special = queen_mother
+	tier = empire
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	priority = 75
+	top_liege = no
+}
+
+count_theocracy_male_christianity_religion = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 19
+	top_liege = no
+	governments = { theocracy_government }
+	religions = { christianity_religion dualism_religion }
+}
+count_theocracy_female_christianity_religion = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 19
+	top_liege = no
+	governments = { theocracy_government }
+	religions = { christianity_religion dualism_religion }
+}
+county_theocracy_christianity_religion = {
+	type = title
+	tier = county
+	top_liege = no
+	priority = 19
+	governments = { theocracy_government }
+	religions = { christianity_religion dualism_religion }
+}
+duke_theocracy_male_christianity_religion = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { theocracy_government }
+	religions = { christianity_religion dualism_religion }
+}
+duke_theocracy_female_christianity_religion = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 27
+	top_liege = no
+	governments = { theocracy_government }
+	religions = { christianity_religion dualism_religion }
+}
+duchy_theocracy_christianity_religion = {
+	type = title
+	tier = duchy
+	top_liege = no
+	priority = 28
+	governments = { theocracy_government }
+	religions = { christianity_religion dualism_religion }
+}
+
+### High Valyrian ###
+# Feudal
+baron_feudal_male_high_valyrian = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 7
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	top_liege = yes
+}
+baron_feudal_female_high_valyrian = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 7
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	top_liege = yes
+}
+barony_feudal_high_valyrian = {
+	type = title
+	tier = barony
+	priority = 7
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	top_liege = yes
+}
+
+count_feudal_male_high_valyrian = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 19
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	top_liege = yes
+}
+count_feudal_female_high_valyrian = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 19
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	top_liege = yes
+}
+county_feudal_high_valyrian = {
+	type = title
+	tier = county
+	priority = 19
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	top_liege = yes
+}
+
+duke_feudal_male_high_valyrian = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 27
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	top_liege = yes
+}
+duke_feudal_female_high_valyrian = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 27
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	top_liege = yes
+}
+duchy_feudal_high_valyrian = {
+	type = title
+	tier = duchy
+	priority = 28
+	governments = { feudal_government }
+	name_lists = { name_list_high_valyrian }
+	top_liege = yes
+}
+
+emperor_feudal_male_high_valyrian = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 150
+	governments = {feudal_government tribal_government }
+	name_lists = { name_list_high_valyrian }
+	#dynasty = { has_dynasty_modifier = hails_from_westeros }
+	top_liege = yes
+}
+emperor_feudal_female_high_valyrian = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 150
+	governments = {feudal_government tribal_government }
+	name_lists = { name_list_high_valyrian }
+	#dynasty = { has_dynasty_modifier = hails_from_westeros }
+	top_liege = yes
+}
+empire_feudal_high_valyrian = {
+	type = title
+	tier = empire
+	priority = 150
+	governments = { feudal_government tribal_government }
+	name_lists = { name_list_high_valyrian }
+	#dynasty = { has_dynasty_modifier = hails_from_westeros }
+	top_liege = yes
+}

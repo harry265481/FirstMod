@@ -1,0 +1,17 @@
+﻿l_english:
+ #Ice reforging
+ ice_reforge_decision:0 "Reforge Ice"
+ ice_reforge_decision_desc:0 "I bear the Valyrian sword Ice, the ancestral blade of House Stark. With it no longer in their posession I could hire a renowned blacksmith to reforge the absurdly large blade into two smaller ones that I could do with as I please. However, House Stark would not take kindly to my doing this..."
+ ice_reforge_decision_tooltip: "Reforge Ice into two Valyrian steel blades"
+ ice_reforge_decision_confirm:0 "Reforge the blade"
+ 
+ #Ironborn dynasty modifiers
+ adopt_the_old_way_decision: "Adopt the Old Way"
+ adopt_the_old_way_decision_desc: "Our traditions are what define us, but we have forsaken them. Let us return to the Old Way: the way of raiding, reaving, and plunder. We will once more be the masters of our own destiny, and take from others what is ours."
+ adopt_the_old_way_decision_tooltip: "Return to the Old Way"
+ adopt_the_old_way_decision_confirm: "We pay the iron price"
+
+ renounce_the_old_way_decision: "Renounce the Old Way"
+ renounce_the_old_way_decision_desc: "It has become untenable for us to maintain our cultural traditions of raiding. Such customs are not tolerated by power-hungry lieges who want us on our knees. For the sake of our realm and House we must abandon the Old Way... for now."
+ renounce_the_old_way_decision_tooltip: "Renounce the Old Way"
+ renounce_the_old_way_decision_confirm: "Perhaps gold tastes just as sweet as iron..."

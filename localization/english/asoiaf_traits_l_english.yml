@@ -1,0 +1,36 @@
+﻿l_english:
+
+#ASOIAF
+ trait_valyrian_3:0 "Valyrian"
+ trait_valyrian_3_desc:0 "Descent from the dragonlords of Old Valyria is plain, if unnerving."
+ trait_valyrian_3_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] bears the blood of Old Valyria."
+ trait_valyrian_2:0 "Low Valyrian"
+ trait_valyrian_2_desc:0 "Descent from the dragonlords of Old Valyria is plain, if weakening."
+ trait_valyrian_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] bears the blood of Old Valyria, though it has thinned."
+ trait_valyrian_1:0 "Dragonblooded"
+ trait_valyrian_1_desc:0 "Descent from the dragonlords of Old Valyria is known, but not apparent."
+ trait_valyrian_1_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] bears the blood of Old Valyria, though one might not guess it."
+
+ trait_baratheon:0 "Strong Seed"
+ trait_baratheon_desc:0 "Black of hair and blue of eye; a force to be reckoned with."
+ trait_baratheon_character_desc:0 "The blood of the Storm Kings flows through [ROOT.GetCharacter.GetFirstNameNoTooltip]'s veins."
+ 
+ trait_lannister:0 "Lion's Blood"
+ trait_lannister_desc:0 "Lannister blond hair and green eyes are apparent."
+ trait_lannister_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] bears the blood of the lions of Lannister."
+ 
+ trait_dragon_egg:0 "Dragon Egg"
+ trait_dragon_egg_desc:0 "This character bears a treasured dragon egg."
+ trait_dragon_egg_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] bears a treasured dragon egg."
+ 
+ trait_dragon_rider:0 "Dragon Rider"
+ trait_dragon_rider_desc:0 "This character has tamed a fearsome dragon."
+ trait_dragon_rider_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has tamed a fearsome dragon." 
+ 
+ trait_asoiaf_widowed:0 "Widowed"
+ trait_asoiaf_widowed_desc:0 "This character has been widowed and will need time to mourn before marriage."
+ trait_asoiaf_widowed_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] has been widowed and will need time to mourn before marriage."
+ 
+ trait_asoiaf_refusing_marriage:0 "Refusing Marriage"
+ trait_asoiaf_refusing_marriage_desc:0 "This character refuses to be wed."
+ trait_asoiaf_refusing_marriage_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] refuses to be wed."

@@ -1,0 +1,2 @@
+﻿seized_dragon_egg_opinion = -80
+gifted_dragon_egg_opinion = 100

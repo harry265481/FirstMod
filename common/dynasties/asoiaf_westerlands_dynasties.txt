@@ -1,0 +1,95 @@
+﻿dynn_Lannister = {
+	name = "dynn_Lannister"
+	culture = "english"
+	motto = "dynn_Lannister_motto"
+}
+
+dynn_Reyne = {
+	name = "dynn_Reyne"
+	culture = "english"
+	motto = "dynn_Reyne_motto"
+}
+
+dynn_Clegane = {
+	name = "dynn_Clegane"
+	culture = "english"
+	motto = "dynn_Clegane_motto"
+}
+
+dynn_Crakehall = {
+	name = "dynn_Crakehall"
+	culture = "english"
+	motto = "dynn_Crakehall_motto"
+}
+
+dynn_Lydden = {
+	name = "dynn_Lydden"
+	culture = "english"
+	motto = "dynn_Lydden_motto"
+}
+
+dynn_Kenning = {
+	name = "dynn_Kenning"
+	culture = "english"
+	motto = "dynn_Kenning_motto"
+}
+
+dynn_Prester = {
+	name = "dynn_Prester"
+	culture = "english"
+	motto = "dynn_Prester_motto"
+}
+
+dynn_Marbrand = {
+	name = "dynn_Marbrand"
+	culture = "english"
+	motto = "dynn_Marbrand_motto"
+}
+
+dynn_Plumm = {
+	name = "dynn_Plumm"
+	culture = "english"
+	motto = "dynn_Plumm_motto"
+}
+
+dynn_Serrett = {
+	name = "dynn_Serrett"
+	culture = "english"
+	motto = "dynn_Serrett_motto"
+}
+
+dynn_Swyft = {
+	name = "dynn_Swyft"
+	culture = "english"
+	motto = "dynn_Swyft_motto"
+}
+
+dynn_Tarbeck = {
+	name = "dynn_Tarbeck"
+	culture = "english"
+	motto = "dynn_Tarbeck_motto"
+}
+
+dynn_Westerling = {
+	name = "dynn_Westerling"
+	culture = "english"
+	motto = "dynn_Westerling_motto"
+}
+
+dynn_Lefford = {
+	name = "dynn_Lefford"
+	culture = "english"
+	motto = "dynn_Lefford_motto"
+}
+
+dynn_Sarwyck = {
+	name = "dynn_Sarwyck"
+	culture = "english"
+	motto = "dynn_Sarwyck_motto"
+}
+
+dynn_Broom = {
+	name = "dynn_Broom"
+	culture = "english"
+	motto = "dynn_Broom_motto"
+}

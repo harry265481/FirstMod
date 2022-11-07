@@ -1,0 +1,79 @@
+﻿#Main Dynasties
+house_Tully = { #Tully
+	name = "dynn_Tully"
+	dynasty = dynn_Tully
+	motto = dynn_Tully_motto
+}
+house_Lothston = {
+	name = "dynn_Lothston"
+	dynasty = dynn_Lothston
+	motto = dynn_Lothston_motto
+}
+house_Darry = {
+	name = "dynn_Darry"
+	dynasty = dynn_Darry
+	motto = dynn_Darry_motto
+}
+house_Frey = {
+	name = "dynn_Frey"
+	dynasty = dynn_Frey
+	motto = dynn_Frey_motto
+}
+house_Mallister = {
+	name = "dynn_Mallister"
+	dynasty = dynn_Mallister
+	motto = dynn_Mallister_motto
+}
+house_Mooton = {
+	name = "dynn_Mooton"
+	dynasty = dynn_Mooton
+	motto = dynn_Mooton_motto
+}
+house_Blackwood = {
+	name = "dynn_Blackwood"
+	dynasty = dynn_Blackwood
+	motto = dynn_Blackwood_motto
+}
+house_Bracken = {
+	name = "dynn_Bracken"
+	dynasty = dynn_Bracken
+	motto = dynn_Bracken_motto
+}
+house_Whent = {
+	name = "dynn_Whent"
+	dynasty = dynn_Whent
+	motto = dynn_Whent_motto
+}
+house_Strong = {
+	name = "dynn_Strong"
+	dynasty = dynn_Strong
+	motto = dynn_Strong_motto
+}
+house_Harroway = {
+	name = "dynn_Harroway"
+	dynasty = dynn_Harroway
+	motto = dynn_Harroway_motto
+}
+house_Mudd = {
+	name = "dynn_Mudd"
+	dynasty = dynn_Mudd
+	motto = dynn_Mudd_motto
+}
+house_Haigh = {
+	name = "dynn_Haigh"
+	dynasty = dynn_Haigh
+	motto = dynn_Haigh_motto
+}
+house_Fisher = {
+	name = "dynn_Fisher"
+	dynasty = dynn_Fisher
+	motto = dynn_Fisher_motto
+}
+
+#Cadet Branches
+house_Crossing = {
+	name = "dynn_Crossing"
+	prefix = "dynnp_of_the"
+	dynasty = dynn_Frey
+	motto = dynn_Frey_motto
+}

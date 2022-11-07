@@ -1,0 +1,93 @@
+﻿#Main Dynasties
+house_Lannister = {
+	name = "dynn_Lannister"
+	dynasty = dynn_Lannister
+	motto = "dynn_Lannister_motto"
+}
+house_Reyne = {
+	name = "dynn_Reyne"
+	dynasty = dynn_Reyne
+	motto = "dynn_Reyne_motto"
+}
+house_Clegane = {
+	name = "dynn_Clegane"
+	dynasty = dynn_Clegane
+	motto = "dynn_Clegane_motto"
+}
+house_Crakehall = {
+	name = "dynn_Crakehall"
+	dynasty = dynn_Crakehall
+	motto = "dynn_Crakehall_motto"
+}
+house_Lydden = {
+	name = "dynn_Lydden"
+	dynasty = dynn_Lydden
+	motto = "dynn_Lydden_motto"
+}
+house_KenningK = {
+	name = "dynn_Kenning"
+	dynasty = dynn_Kenning
+	motto = "dynn_KenningK_motto"
+}
+house_Prester = {
+	name = "dynn_Prester"
+	dynasty = dynn_Prester
+	motto = "dynn_Prester_motto"
+}
+house_Marbrand = {
+	name = "dynn_Marbrand"
+	dynasty = dynn_Marbrand
+	motto = "dynn_Marbrand_motto"
+}
+house_Plumm = {
+	name = "dynn_Plumm"
+	dynasty = dynn_Plumm
+	motto = "dynn_Plumm_motto"
+}
+house_Serrett = {
+	name = "dynn_Serrett"
+	dynasty = dynn_Serrett
+	motto = "dynn_Serrett_motto"
+}
+house_Swyft = {
+	name = "dynn_Swyft"
+	dynasty = dynn_Swyft
+	motto = "dynn_Swyft_motto"
+}
+house_Tarbeck = {
+	name = "dynn_Tarbeck"
+	dynasty = dynn_Tarbeck
+	motto = "dynn_Tarbeck_motto"
+}
+house_Westerling = {
+	name = "dynn_Westerling"
+	dynasty = dynn_Westerling
+	motto = "dynn_Westerling_motto"
+}
+house_Lefford = {
+	name = "dynn_Lefford"
+	dynasty = dynn_Lefford
+	motto = "dynn_Lefford_motto"
+}
+house_Sarwyck = {
+	name = "dynn_Sarwyck"
+	dynasty = dynn_Sarwyck
+	motto = "dynn_Sarwyck_motto"
+}
+house_Broom = {
+	name = "dynn_Broom"
+	dynasty = dynn_Broom
+	motto = "dynn_Broom_motto"
+}
+
+#Cadet Branches
+house_LannisterLP = {
+	name = "dynn_Lannister"
+	dynasty = dynn_Lannister
+	motto = "dynn_Lannister_motto"
+}
+house_LannisterD = {
+	name = "dynn_Lannister"
+	dynasty = dynn_Lannister
+	motto = "dynn_Lannister_motto"
+}

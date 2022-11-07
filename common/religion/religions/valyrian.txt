@@ -1,7 +1,7 @@
 ﻿valyrian_religion = {
 	family = rf_andallic
-	graphical_faith = catholic_gfx
-	piety_icon_group = valyrian
+	graphical_faith = "catholic_gfx"
+	piety_icon_group = "valyrian"
 	doctrine_background_icon = 	core_tenet_banner_christian.dds
 
 	traits = {
@@ -195,8 +195,7 @@
 	faiths = {
 		valyrian = {
 			color = { 159 167 162 }
-			graphical_faith = catholic_gfx
-			piety_icon_group = valyrian
+			graphical_faith = "catholic_gfx"
 			icon = valyrian
 			
 			holy_site = kent

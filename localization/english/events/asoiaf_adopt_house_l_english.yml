@@ -1,0 +1,373 @@
+﻿l_english:
+ asoiaf_dynasty.1.t:0 "Choose Your Region"
+ asoiaf_dynasty.1.desc:0 "Choose the region where your desired House is located."
+ 
+ asoiaf_dynasty.1.crownlands:0 "The Crownlands"
+ asoiaf_dynasty_tooltip_crownlands:0 "Choose a House from the Crownlands"
+ asoiaf_dynasty.1.riverlands:0 "The Riverlands"
+ asoiaf_dynasty_tooltip_riverlands:0 "Choose a House from the Riverlands"
+ asoiaf_dynasty.1.stormlands:0 "The Stormlands"
+ asoiaf_dynasty_tooltip_stormlands:0 "Choose a House from the Stormlands"
+ asoiaf_dynasty.1.westerlands:0 "The Westerlands"
+ asoiaf_dynasty_tooltip_westerlands:0 "Choose a House from the Westerlands"
+ asoiaf_dynasty.1.reach:0 "The Reach"
+ asoiaf_dynasty_tooltip_reach:0 "Choose a House from the Reach"
+ asoiaf_dynasty.1.vale:0 "The Vale"
+ asoiaf_dynasty_tooltip_vale:0 "Choose a House from the Vale"
+ asoiaf_dynasty.1.dorne:0 "Dorne"
+ asoiaf_dynasty_tooltip_dorne:0 "Choose a House from Dorne"
+ asoiaf_dynasty.1.north:0 "The North"
+ asoiaf_dynasty_tooltip_north:0 "Choose a House from the North"
+ asoiaf_dynasty.1.ironislands:0 "The Iron Islands"
+ asoiaf_dynasty_tooltip_ironislands:0 "Choose a House from the Iron Islands"
+ asoiaf_dynasty.1.ghiscar:0 "Ghiscar"
+ asoiaf_dynasty_tooltip_ghiscar:0 "Choose a House from Ghiscar"
+ asoiaf_dynasty.1.cancel:0 "Cancel"
+ asoiaf_dynasty_tooltip_cancel:0 "Exit the Westeros House select window"
+ 
+ 
+ #BACK BUTTONS
+ asoiaf_dynasty.2.region_select_back:0 "Back"
+ asoiaf_dynasty_tooltip_region_select_back:0 "Go back to the region selection window"
+ 
+ asoiaf_dynasty.2.house_select_back:0 "Back"
+ asoiaf_dynasty_tooltip_house_select_back:0 "Go back to the region's House selection window"
+ 
+ 
+ #CROWNLANDS
+ asoiaf_dynasty.1000.t:0 "Crownlander Houses"
+ asoiaf_dynasty.1000.desc:0 "Choose a House from the Crownlands."
+ 
+ asoiaf_dynasty.1001.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.1001.baremmon:0 "House Bar Emmon"
+ asoiaf_dynasty.1001.blackwater:0 "House Blackwater"
+ asoiaf_dynasty.1001.cargyll:0 "House Cargyll"
+ asoiaf_dynasty.1001.chelsted:0 "House Chelsted"
+ asoiaf_dynasty.1001.chyttering:0 "House Chyttering"
+ asoiaf_dynasty.1001.darklyn:0 "House Darklyn"
+ 
+ asoiaf_dynasty.1002.f_j:0 "F, G, H, I, J"
+ asoiaf_dynasty.1002.farring:0 "House Farring"
+ asoiaf_dynasty.1002.gaunt:0 "House Gaunt"
+ asoiaf_dynasty.1002.hayford:0 "House Hayford"
+ asoiaf_dynasty.1002.hollard:0 "House Hollard"
+ 
+ asoiaf_dynasty.1003.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.1003.langward:0 "House Langward"
+ asoiaf_dynasty.1003.massey:0 "House Massey"
+ 
+ asoiaf_dynasty.1004.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.1004.pyle:0 "House Pyle"
+ asoiaf_dynasty.1004.rollingford:0 "House Rollingford"
+ asoiaf_dynasty.1004.rosby:0 "House Rosby"
+ asoiaf_dynasty.1004.rykker:0 "House Rykker"
+ asoiaf_dynasty.1004.slynt:0 "House Slynt"
+ asoiaf_dynasty.1004.stokeworth:0 "House Stokeworth"
+ asoiaf_dynasty.1004.sunglass:0 "House Sunglass"
+ asoiaf_dynasty.1004.targaryen:0 "House Targaryen"
+ 
+ asoiaf_dynasty.1005.u_z:0 "U, V, W, X, Y, Z"
+ asoiaf_dynasty.1005.velaryon:0 "House Velaryon"
+ 
+ asoiaf_dynasty.1006.bastards:0 "Crownlander Bastard/Cadet Houses"
+ asoiaf_dynasty.1006.bittersteel:0 "House Bittersteel"
+ asoiaf_dynasty.1006.blackfyre:0 "House Blackfyre"
+ asoiaf_dynasty.1006.bloodraven:0 "House Bloodraven"
+ asoiaf_dynasty.1006.brightflame:0 "House Brightflame"
+ asoiaf_dynasty.1006.targaryenaegonII:0 "House Targaryen (Aegon II's Branch)"
+ asoiaf_dynasty.1006.targaryenmaekarI:0 "House Targaryen (Maekar I's Branch)"
+ asoiaf_dynasty.1006.targaryenrhaenyra:0 "House Targaryen (Rhaenyra's Branch)"
+ asoiaf_dynasty.1006.targaryendaemon:0 "House Targaryen (Daemon's Branch)"
+ asoiaf_dynasty.1006.truefyre:0 "House Truefyre"
+ asoiaf_dynasty.1006.dargood:0 "House Dargood"
+ asoiaf_dynasty.1006.darke:0 "House Darke"
+ asoiaf_dynasty.1006.darkwood:0 "House Darkwood"
+ 
+ 
+ #RIVERLANDS
+ asoiaf_dynasty.2000.t:0 "Riverman Houses"
+ asoiaf_dynasty.2000.desc:0 "Choose a House from the Riverlands."
+ 
+ asoiaf_dynasty.2001.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.2001.blackwood:0 "House Blackwood"
+ asoiaf_dynasty.2001.bracken:0 "House Bracken"
+ asoiaf_dynasty.2001.darry:0 "House Darry"
+ 
+ asoiaf_dynasty.2002.f_j:0 "F, G, H, I, J"
+ asoiaf_dynasty.2002.fisher:0 "House Fisher"
+ asoiaf_dynasty.2002.frey:0 "House Frey"
+ asoiaf_dynasty.2002.haigh:0 "House Haigh"
+ asoiaf_dynasty.2002.harroway:0 "House Harroway"
+ 
+ asoiaf_dynasty.2003.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.2003.lothston:0 "House Lothston"
+ asoiaf_dynasty.2003.mallister:0 "House Mallister"
+ asoiaf_dynasty.2003.mooton:0 "House Mooton"
+ asoiaf_dynasty.2003.mudd:0 "House Mudd"
+ 
+ asoiaf_dynasty.2004.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.2004.strong:0 "House Strong"
+ asoiaf_dynasty.2004.tully:0 "House Tully"
+ 
+ asoiaf_dynasty.2005.u_z:0 "U, V, W, X, Y, Z"
+ asoiaf_dynasty.2005.whent:0 "House Whent"
+ 
+ asoiaf_dynasty.2006.bastards:0 "Riverman Bastard/Cadet Houses"
+ asoiaf_dynasty.2006.crossing:0 "House (Frey) of the Crossing"
+ 
+ 
+ #STORMLANDS
+ asoiaf_dynasty.3000.t:0 "Stormlander Houses"
+ asoiaf_dynasty.3000.desc:0 "Choose a House from the Stormlands."
+
+ asoiaf_dynasty.3001.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.3001.baratheon:0 "House Baratheon"
+ asoiaf_dynasty.3001.bolling:0 "House Bolling"
+ asoiaf_dynasty.3001.caron:0 "House Caron"
+ asoiaf_dynasty.3001.cole:0 "House Cole"
+ asoiaf_dynasty.3001.connington:0 "House Connington"
+ asoiaf_dynasty.3001.dondarrion:0 "House Dondarrion"
+ asoiaf_dynasty.3001.durrandon:0 "House Durrandon"
+ asoiaf_dynasty.3001.estermont:0 "House Estermont"
+ 
+ asoiaf_dynasty.3002.f_j:0 "F, G, H, I, J"
+ 
+ asoiaf_dynasty.3003.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.3003.lonmouth:0 "House Lonmouth"
+ asoiaf_dynasty.3003.morrigen:0 "House Morrigen"
+ 
+ asoiaf_dynasty.3004.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.3004.penrose:0 "House Penrose"
+ asoiaf_dynasty.3004.seaworth:0 "House Seaworth"
+ asoiaf_dynasty.3004.selmy:0 "House Selmy"
+ asoiaf_dynasty.3004.swann:0 "House Swann"
+ asoiaf_dynasty.3004.tarth:0 "House Tarth"
+ asoiaf_dynasty.3004.tudbury:0 "House Tudbury"
+ 
+ asoiaf_dynasty.3005.u_z:0 "U, V, W, X, Y, Z"
+ asoiaf_dynasty.3005.wylde:0 "House Wylde"
+ 
+ asoiaf_dynasty.3006.bastards:0 "Stormlander Bastard/Cadet Houses"
+ asoiaf_dynasty.3006.baratheonds:0 "House Baratheon (of Dragonstone)"
+ asoiaf_dynasty.3006.baratheonkl:0 "House Baratheon (of King's Landing)"
+ asoiaf_dynasty.3006.baratheonrenly:0 "House Baratheon (Renly's Branch)"
+ 
+ 
+ #WESTERLANDS
+ asoiaf_dynasty.4000.t:0 "Westerman Houses"
+ asoiaf_dynasty.4000.desc:0 "Choose a House from the Westerlands."
+ 
+ asoiaf_dynasty.4001.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.4001.broom:0 "House Broom"
+ asoiaf_dynasty.4001.clegane:0 "House Clegane"
+ asoiaf_dynasty.4001.crakehall:0 "House Crakehall"
+ 
+ asoiaf_dynasty.4002.f_j:0 "F, G, H, I, J"
+
+ asoiaf_dynasty.4003.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.4003.kenning:0 "House Kenning"
+ asoiaf_dynasty.4003.lannister:0 "House Lannister"
+ asoiaf_dynasty.4003.lefford:0 "House Lefford"
+ asoiaf_dynasty.4003.lydden:0 "House Lydden"
+ asoiaf_dynasty.4003.marbrand:0 "House Marbrand"
+ 
+ asoiaf_dynasty.4004.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.4004.plumm:0 "House Plumm"
+ asoiaf_dynasty.4004.reyne:0 "House Reyne"
+ asoiaf_dynasty.4004.sarwyck:0 "House Sarwyck"
+ asoiaf_dynasty.4004.serrett:0 "House Serrett"
+ asoiaf_dynasty.4004.swyft:0 "House Swyft"
+ asoiaf_dynasty.4004.tarbeck:0 "House Tarbeck"
+ 
+ asoiaf_dynasty.4005.u_z:0 "U, V, W, X, Y, Z"
+ asoiaf_dynasty.4005.westerling:0 "House Westerling"
+ 
+ asoiaf_dynasty.4006.bastards:0 "Westerman Bastard/Cadet Houses"
+ asoiaf_dynasty.4006.lannisterd:0 "House Lannister (of Darry)"
+ asoiaf_dynasty.4006.lannisterlp:0 "House Lannister (of Lannisport)"
+ 
+ 
+ #REACH
+ asoiaf_dynasty.5000.t:0 "Reachman Houses"
+ asoiaf_dynasty.5000.desc:0 "Choose a House from the Reach."
+ 
+ asoiaf_dynasty.5001.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.5001.ashford:0 "House Ashford"
+ asoiaf_dynasty.5001.blackbar:0 "House Blackbar"
+ asoiaf_dynasty.5001.cockshaw:0 "House Cockshaw"
+ 
+ asoiaf_dynasty.5002.f_j:0 "F, G, H, I, J"
+ asoiaf_dynasty.5002.florent:0 "House Florent"
+ asoiaf_dynasty.5002.fossoway:0 "House Fossoway"
+ asoiaf_dynasty.5002.gardener:0 "House Gardener"
+ asoiaf_dynasty.5002.graves:0 "House Graves"
+ asoiaf_dynasty.5002.hastwyck:0 "House Hastwyck"
+ asoiaf_dynasty.5002.hightower:0 "House Hightower"
+ 
+ asoiaf_dynasty.5003.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.5003.leygood:0 "House Leygood"
+ asoiaf_dynasty.5003.osgrey:0 "House Osgrey"
+ 
+ asoiaf_dynasty.5004.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.5004.redwyne:0 "House Redwyne"
+ asoiaf_dynasty.5004.rowan:0 "House Rowan"
+ asoiaf_dynasty.5004.tarly:0 "House Tarly"
+ asoiaf_dynasty.5004.tyrell:0 "House Tyrell"
+ 
+ asoiaf_dynasty.5005.u_z:0 "U, V, W, X, Y, Z"
+ 
+ asoiaf_dynasty.5006.bastards:0 "Reachman Bastard/Cadet Houses"
+ asoiaf_dynasty.5006.fossowaynb:0 "House Fossoway (of New Barrel)"
+ asoiaf_dynasty.5006.oldflowers:0 "House Oldflowers"
+ 
+ 
+ #VALE
+ asoiaf_dynasty.6000.t:0 "Valeman Houses"
+ asoiaf_dynasty.6000.desc:0 "Choose a House from the Vale."
+ 
+ asoiaf_dynasty.6001.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.6001.arryn:0 "House Arryn"
+ asoiaf_dynasty.6001.baelish:0 "House Baelish"
+ asoiaf_dynasty.6001.corbray:0 "House Corbray"
+ asoiaf_dynasty.6001.donniger:0 "House Donniger"
+ asoiaf_dynasty.6001.egen:0 "House Egen"
+ 
+ asoiaf_dynasty.6002.f_j:0 "F, G, H, I, J"
+ asoiaf_dynasty.6002.grafton:0 "House Grafton"
+ asoiaf_dynasty.6002.hardyng:0 "House Hardyng"
+ 
+ asoiaf_dynasty.6003.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.6003.lipps:0 "House Lipps"
+ 
+ asoiaf_dynasty.6004.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.6004.redfort:0 "House Redfort"
+ asoiaf_dynasty.6004.royce:0 "House Royce"
+ 
+ asoiaf_dynasty.6005.u_z:0 "U, V, W, X, Y, Z"
+ asoiaf_dynasty.6005.upcliff:0 "House Upcliff"
+ asoiaf_dynasty.6005.waynwood:0 "House Waynwood"
+ 
+ asoiaf_dynasty.6006.bastards:0 "Vale Bastard/Cadet Houses"
+ asoiaf_dynasty.6006.arryngt:0 "House Arryn (of Gulltown)"
+ asoiaf_dynasty.6006.roycegotm:0 "House Royce (of the Gates of the Moon)"
+ 
+ 
+ #DORNE
+ asoiaf_dynasty.7000.t:0 "Dornish Houses"
+ asoiaf_dynasty.7000.desc:0 "Choose a House from Dorne."
+ 
+ asoiaf_dynasty.7001.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.7001.allyrion:0 "House Allyrion"
+ asoiaf_dynasty.7001.blackmont:0 "House Blackmont"
+ asoiaf_dynasty.7001.dalt:0 "House Dalt"
+ asoiaf_dynasty.7001.dayne:0 "House Dayne"
+ 
+ asoiaf_dynasty.7002.f_j:0 "F, G, H, I, J"
+ asoiaf_dynasty.7002.jordayne:0 "House Jordayne"
+ 
+ asoiaf_dynasty.7003.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.7003.manwoody:0 "House Manwoody"
+ asoiaf_dynasty.7003.martell:0 "House Martell"
+ asoiaf_dynasty.7003.nymeros:0 "House Nymeros"
+ 
+ asoiaf_dynasty.7004.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.7004.qorgyle:0 "House Qorgyle"
+ asoiaf_dynasty.7004.toland:0 "House Toland"
+
+ asoiaf_dynasty.7005.u_z:0 "U, V, W, X, Y, Z"
+ asoiaf_dynasty.7005.yronwood:0 "House Yronwood"
+ 
+ 
+ #NORTH
+ asoiaf_dynasty.8000.t:0 "Northman Houses"
+ asoiaf_dynasty.8000.desc:0 "Choose a House from the North."
+ 
+ asoiaf_dynasty.8001.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.8001.bolton:0 "House Bolton"
+ asoiaf_dynasty.8001.cerwyn:0 "House Cerwyn"
+ 
+ asoiaf_dynasty.8002.f_j:0 "F, G, H, I, J"
+ asoiaf_dynasty.8002.forrester:0 "House Forrester"
+ asoiaf_dynasty.8002.glover:0 "House Glover"
+ asoiaf_dynasty.8002.hornwood:0 "House Hornwood"
+ 
+ asoiaf_dynasty.8003.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.8003.karstark:0 "House Karstark"
+ asoiaf_dynasty.8003.manderly:0 "House Manderly"
+ asoiaf_dynasty.8003.mormont:0 "House Mormont"
+ 
+ asoiaf_dynasty.8004.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.8004.reed:0 "House Reed"
+ asoiaf_dynasty.8004.stark:0 "House Stark"
+ 
+ asoiaf_dynasty.8005.u_z:0 "U, V, W, X, Y, Z"
+ asoiaf_dynasty.8005.umber:0 "House Umber"
+ asoiaf_dynasty.8005.whitehill:0 "House Whitehill"
+ 
+ 
+ #IRON ISLES
+ asoiaf_dynasty.9000.t:0 "Ironborn Houses"
+ asoiaf_dynasty.9000.desc:0 "Choose a House from the Iron Islands."
+ 
+ asoiaf_dynasty.9001.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.9001.blacktyde:0 "House Blacktyde"
+ asoiaf_dynasty.9001.botley:0 "House Botley"
+ asoiaf_dynasty.9001.codd:0 "House Codd"
+ asoiaf_dynasty.9001.drumm:0 "House Drumm"
+ 
+ asoiaf_dynasty.9002.f_j:0 "F, G, H, I, J"
+ asoiaf_dynasty.9002.farwynd:0 "House Farwynd"
+ asoiaf_dynasty.9002.goodbrother:0 "House Goodbrother"
+ asoiaf_dynasty.9002.greyiron:0 "House Greyiron"
+ asoiaf_dynasty.9002.greyjoy:0 "House Greyjoy"
+ asoiaf_dynasty.9002.harlaw:0 "House Harlaw"
+ asoiaf_dynasty.9002.hoare:0 "House Hoare"
+ 
+ asoiaf_dynasty.9003.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.9003.kenning:0 "House Kenning"
+ 
+ asoiaf_dynasty.9004.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.9004.saltcliffe:0 "House Saltcliffe"
+ asoiaf_dynasty.9004.sunderly:0 "House Sunderly"
+ 
+ asoiaf_dynasty.9005.u_z:0 "U, V, W, X, Y, Z"
+ 
+ 
+ #GHISCAR
+ asoiaf_dynasty.9500.t:0 "Ghiscari Houses"
+ asoiaf_dynasty.9500.desc:0 "Choose a House from Ghiscar."
+ 
+ asoiaf_dynasty.9501.a_e:0 "A, B, C, D, E"
+ asoiaf_dynasty.9501.ahlaq:0 "House of Ahlaq"
+ asoiaf_dynasty.9501.dhazak:0 "House of Dhazak"
+ asoiaf_dynasty.9501.eraz:0 "House of Eraz"
+ 
+ asoiaf_dynasty.9502.f_j:0 "F, G, H, I, J"
+ asoiaf_dynasty.9502.faez:0 "House of Faez"
+ asoiaf_dynasty.9502.galare:0 "House of Galare"
+ asoiaf_dynasty.9502.ghazeen:0 "House of Ghazeen"
+ asoiaf_dynasty.9502.hazkar:0 "House of Hazkar"
+ 
+ asoiaf_dynasty.9503.k_o:0 "K, L, M, N, O"
+ asoiaf_dynasty.9503.kandaq:0 "House of Kandaq"
+ asoiaf_dynasty.9503.loraq:0 "House of Loraq"
+ asoiaf_dynasty.9503.merreq:0 "House of Merreq"
+ asoiaf_dynasty.9503.myraq:0 "House of Myraq"
+ asoiaf_dynasty.9503.nakloz:0 "House of Nakloz"
+ asoiaf_dynasty.9503.naqqan:0 "House of Naqqan"
+ 
+ asoiaf_dynasty.9504.p_t:0 "P, Q, R, S, T"
+ asoiaf_dynasty.9504.pahl:0 "House of Pahl"
+ asoiaf_dynasty.9504.qaggaz:0 "House of Qaggaz"
+ asoiaf_dynasty.9504.quazzar:0 "House of Quazzar"
+ asoiaf_dynasty.9504.reznak:0 "House of Reznak"
+ asoiaf_dynasty.9504.rhaezn:0 "House of Rhaezn"
+ asoiaf_dynasty.9504.rhazdar:0 "House of Rhazdar"
+ 
+ asoiaf_dynasty.9505.u_z:0 "U, V, W, X, Y, Z"
+ asoiaf_dynasty.9505.uhlez:0 "House of Uhlez"
+ asoiaf_dynasty.9505.ullhor:0 "House of Ullhor"
+ asoiaf_dynasty.9505.yherizan:0 "House of Yherizan"
+ asoiaf_dynasty.9505.yunzak:0 "House of Yunzak"
+ asoiaf_dynasty.9505.zhak:0 "House of Zhak"
+ asoiaf_dynasty.9505.zherzyn:0 "House of Zherzyn"

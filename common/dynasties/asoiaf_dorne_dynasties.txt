@@ -1,0 +1,55 @@
+﻿dynn_Martell = {
+	name = "dynn_Martell"
+	culture = "english"
+	motto = "dynn_Martell_motto"
+}
+dynn_Dayne = {
+	name = "dynn_Dayne"
+	culture = "english"
+	motto = "dynn_Dayne_motto"
+}
+dynn_Allyrion = {
+	name = "dynn_Allyrion"
+	culture = "english"
+	motto = "dynn_Allyrion_motto"
+}
+dynn_Blackmont = {
+	name = "dynn_Blackmont"
+	culture = "english"
+	motto = "dynn_Blackmont_motto"
+}
+dynn_Dalt = {
+	name = "dynn_Dalt"
+	culture = "english"
+	motto = "dynn_Dalt_motto"
+}
+dynn_Jordayne = {
+	name = "dynn_Jordayne"
+	culture = "english"
+	motto = "dynn_Jordayne_motto"
+}
+dynn_Manwoody = {
+	name = "dynn_Manwoody"
+	culture = "english"
+	motto = "dynn_Manwoody_motto"
+}
+dynn_Yronwood = {
+	name = "dynn_Yronwood"
+	culture = "english"
+	motto = "dynn_Yronwood_motto"
+}
+dynn_Nymeros = {
+	name = "dynn_Nymeros"
+	culture = "english"
+	motto = "dynn_Nymeros_motto"
+}
+dynn_Toland = {
+	name = "dynn_Toland"
+	culture = "english"
+	motto = "dynn_Toland_motto"
+}
+dynn_Qorgyle = {
+	name = "dynn_Qorgyle"
+	culture = "english"
+	motto = "dynn_Qorgyle_motto"
+}

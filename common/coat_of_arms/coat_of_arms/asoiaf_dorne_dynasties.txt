@@ -1,0 +1,171 @@
+dynn_Martell = { # Martell pre-Rhoynar invasion
+	pattern = "pattern_solid.dds"
+	color1 = "asoiaf_orange_light_warm"
+	color2 = "asoiaf_orange_light_warm"			
+	colored_emblem = {
+		texture = "asoiaf_spear.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_black"
+		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 }  }			
+	}
+}
+house_Martell = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_orange_light_warm"
+	color2 = "asoiaf_orange_light_warm"				
+	colored_emblem = {
+		texture = "asoiaf_sun_spear.dds"
+		color1 = "asoiaf_red"
+		color2 = "asoiaf_black"
+		color3 = "asoiaf_yellow"
+		instance = { position = { 0.5 0.475 } scale = { 0.85 0.85 }  }			
+	}
+}
+
+dynn_Nymeros = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_bone_medium"
+	color2 = "asoiaf_bone_medium"				
+	colored_emblem = {
+		texture = "asoiaf_sun_1.dds"
+		color1 = "asoiaf_red"
+		color2 = "asoiaf_black"
+		instance = { position = { 0.5 0.49 } scale = { 0.55 0.55 }  }			
+	}
+}
+house_Nymeros = dynn_Nymeros
+
+dynn_Dayne = { # Dayne
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_blue_medium"
+	color2 = "asoiaf_blue_medium"
+	colored_emblem = {
+		texture = "asoiaf_dayne_sigil_1.dds"
+		color1 = "asoiaf_grey_dark"
+		color2 = "asoiaf_white"
+		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 }  }			
+	}
+	#colored_emblem = {
+	#	texture = "asoiaf_dayne_sigil_2.dds"
+	#	color1 = "asoiaf_white"
+	#	instance = { position = { 0.5 0.48 } scale = { 0.8 0.8 }  }			
+	#}
+}
+house_Dayne = dynn_Dayne
+
+dynn_Allyrion = { # Allyrion
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_red"
+	color2 = "asoiaf_black"				
+	colored_emblem = {
+		texture = "ce_gironny_12.dds"
+		color1 = "asoiaf_red"
+		color2 = "asoiaf_black"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }			
+	}
+	colored_emblem = {
+		texture = "asoiaf_hand_2.dds"
+		color1 = "asoiaf_yellow"
+		instance = { position = { 0.5 0.48 } scale = { 1.05 1.05 }  }		
+	}
+	#colored_emblem = {
+	#	texture = "asoiaf_hand_1.dds"
+	#	color1 = "asoiaf_yellow"
+	#	instance = { position = { 0.5 0.485 } scale = { 0.725 0.725 }  }	
+	#}
+}
+house_Allyrion = dynn_Allyrion
+
+dynn_Blackmont = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_black"
+	color2 = "asoiaf_black_alt"				
+	colored_emblem = {
+		texture = "asoiaf_blackmont_sigil.dds"
+		color1 = "asoiaf_black_alt"
+		color2 = "asoiaf_white"
+		color3 = rgb { 209 171 145 }
+		instance = { position = { 0.53 0.4 } scale = { 1.6 1.6 }  }			
+	}
+}
+house_Blackmont = dynn_Blackmont
+
+dynn_Dalt = { # Dalt
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_purple"
+	color2 = "asoiaf_yellow_light"				
+	colored_emblem = {
+		texture = "asoiaf_lemon_field.dds"
+		color1 = "asoiaf_green"
+		color2 = "asoiaf_yellow_light"
+		instance = { position = { 0.5 0.5 } scale = { 1.5 1.5 }  }			
+	}
+}
+house_Dalt = dynn_Dalt
+
+dynn_Jordayne = {
+	pattern = "pattern_checkers_08.dds"	
+	color1 = "asoiaf_field_green_warm"
+	color2 = "asoiaf_bone_dark_warm"				
+	colored_emblem = {
+		texture = "asoiaf_quill_1.dds"
+		color1 = "asoiaf_yellow"
+		color2 = "asoiaf_black"
+		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 }  }			
+	}
+}
+house_Jordayne = dynn_Jordayne
+
+dynn_Manwoody = { # Manwoody
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_black"
+	color2 = "asoiaf_black"				
+	colored_emblem = {
+		texture = "asoiaf_skull_crowned.dds"
+		color1 = "asoiaf_bone_medium"
+		color2 = "asoiaf_yellow"
+		instance = { position = { 0.53 0.46 } scale = { 0.7 0.7 }  }			
+	}
+}
+house_Manwoody = dynn_Manwoody
+
+dynn_Yronwood = { # Yronwood
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_sand_warm"
+	color2 = "asoiaf_black"				
+	colored_emblem = {
+		texture = "historical_portcullis.dds"
+		color1 = "asoiaf_black"
+		color2 = "asoiaf_sand_warm"
+		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 }  }	
+	}
+}
+house_Yronwood = dynn_Yronwood
+
+dynn_Toland = { # Toland
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_yellow"
+	color2 = "asoiaf_green_light"				
+	colored_emblem = {
+		texture = "asoiaf_dragon_ouroboros.dds"
+		color1 = "asoiaf_green_light"
+		color2 = "asoiaf_black"
+		color3 = "asoiaf_white"
+		instance = { position = { 0.5 0.487 } scale = { 0.725 0.725 }  }
+	}
+}
+house_Toland = dynn_Toland
+
+dynn_Qorgyle = {
+	pattern = "pattern_solid.dds"	
+	color1 = "asoiaf_red"
+	color2 = "asoiaf_black"				
+	colored_emblem = {
+		texture = "asoiaf_scorpion.dds"
+		color1 = "asoiaf_black_deep"
+		instance = { position = { 0.5 0.29 } scale = { 0.4 0.4 }  }
+		instance = { position = { 0.71 0.62 } scale = { 0.4 0.4 }  }	
+		instance = { position = { 0.29 0.62 } scale = { 0.4 0.4 }  }		
+	}
+}
+house_Qorgyle = dynn_Qorgyle

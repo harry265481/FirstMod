@@ -1,0 +1,66 @@
+﻿renounce_the_old_way_decision = {
+	ai_check_interval = 0
+	picture =  "gfx/interface/illustrations/decisions/decision_realm.dds"
+	desc = renounce_the_old_way_decision_desc
+	selection_tooltip = renounce_the_old_way_decision_tooltip
+	
+	cooldown = { days = 1825 }
+	
+	is_shown = {
+		dynasty = { has_dynasty_modifier = ironborn_house }
+		exists = house
+		house = { has_house_modifier = ironborn_old_way }
+	}
+	
+	is_valid = {
+		is_house_head = yes
+	}
+	
+	effect = {
+		house = { remove_house_modifier = ironborn_old_way }
+		#add_dynasty_prestige = monumental_dynasty_prestige_loss
+	}
+	
+	ai_potential = {
+		always = no
+	}
+
+	ai_will_do = {
+		base = 0
+	}
+}
+adopt_the_old_way_decision = {
+	ai_check_interval = 0
+	picture = "gfx/interface/illustrations/decisions/fp1_decision_forge_jomsvikings.dds"
+	desc = adopt_the_old_way_decision_desc
+	selection_tooltip = adopt_the_old_way_decision_tooltip
+	
+	cooldown = { days = 1825 }
+	
+	is_shown = {
+		dynasty = { has_dynasty_modifier = ironborn_house }
+		exists = house
+		NOT = { house = { has_house_modifier = ironborn_old_way } }
+	}
+	
+	is_valid = {
+		is_house_head = yes
+	}
+	
+	effect = {
+		house = { add_house_modifier = ironborn_old_way }
+	}
+	
+	cost = {
+		prestige = 3000
+	}
+	
+	ai_potential = {
+		always = no
+	}
+
+	ai_will_do = {
+		base = 0
+	}
+}
+

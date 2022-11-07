@@ -1,0 +1,5 @@
+﻿l_english:
+ tradition_valyrian_incest_name:0 "Valyrian Incest"
+ tradition_valyrian_incest_desc:0 "We are the blood of Valyria. We must keep our blood pure by marrying brother to sister, niece to uncle, aunt to nephew, and if we must, mother to son and father to daughter"
+ culture_parameter_allow_incest:0 "Allows Unrestricted Marriage, regardless of faith"
+ culture_parameter_allow_valyrian_incest:0 ""

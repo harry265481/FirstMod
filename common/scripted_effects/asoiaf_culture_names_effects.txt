@@ -1,0 +1,8520 @@
+﻿valyrian_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Aelon
+			}
+			1 = {	
+				change_first_name = name_Aerys
+			}
+			1 = {	
+				change_first_name = name_Aegon
+			}
+			1 = {	
+				change_first_name = name_Aegor
+			}
+			1 = {	
+				change_first_name = name_Aelyx
+			}
+			1 = {	
+				change_first_name = name_Aemon
+			}
+			1 = {	
+				change_first_name = name_Aemond
+			}
+			1 = {	
+				change_first_name = name_Aenar
+			}
+			1 = {	
+				change_first_name = name_Aenys
+			}
+			1 = {	
+				change_first_name = name_Aerion
+			}
+			1 = {	
+				change_first_name = name_Aeryn
+			}
+			1 = {	
+				change_first_name = name_Aelor
+			}
+			1 = {	
+				change_first_name = name_Aurion
+			}
+			1 = {	
+				change_first_name = name_Aethon
+			}
+			1 = {	
+				change_first_name = name_Aenyx
+			}
+			1 = {	
+				change_first_name = name_Aurane
+			}
+			1 = {	
+				change_first_name = name_Baelor
+			}
+			1 = {	
+				change_first_name = name_Baelon
+			}
+			1 = {	
+				change_first_name = name_Baethon
+			}
+			1 = {	
+				change_first_name = name_Baenar
+			}
+			1 = {	
+				change_first_name = name_Baeryn
+			}
+			1 = {	
+				change_first_name = name_Balaeron
+			}
+			1 = {	
+				change_first_name = name_Balerion
+			}
+			1 = {	
+				change_first_name = name_Daegar
+			}
+			1 = {	
+				change_first_name = name_Daemon
+			}
+			1 = {	
+				change_first_name = name_Daeron
+			}
+			1 = {	
+				change_first_name = name_Daemion
+			}
+			1 = {	
+				change_first_name = name_Daenar
+			}
+			1 = {	
+				change_first_name = name_Corlys
+			}
+			1 = {	
+				change_first_name = name_Gaemon
+			}
+			1 = {	
+				change_first_name = name_Haegon
+			}
+			1 = {	
+				change_first_name = name_Haerys
+			}
+			1 = {	
+				change_first_name = name_Jaekar
+			}
+			1 = {	
+				change_first_name = name_Jaehaerys
+			}
+			1 = {	
+				change_first_name = name_Jacaerys
+			}
+			1 = {	
+				change_first_name = name_Jaenar
+			}
+			1 = {	
+				change_first_name = name_Jaenyx
+			}
+			1 = {	
+				change_first_name = name_Lucerys
+			}
+			1 = {	
+				change_first_name = name_Laenor
+			}
+			1 = {	
+				change_first_name = name_Laerion
+			}
+			1 = {	
+				change_first_name = name_Maelys
+			}
+			1 = {	
+				change_first_name = name_Maegon
+			}
+			1 = {	
+				change_first_name = name_Maegor
+			}
+			1 = {	
+				change_first_name = name_Maekar
+			}
+			1 = {	
+				change_first_name = name_Maerys
+			}
+			1 = {	
+				change_first_name = name_Matarys
+			}
+			1 = {	
+				change_first_name = name_Maelor
+			}
+			1 = {	
+				change_first_name = name_Monford
+			}
+			1 = {	
+				change_first_name = name_Monterys
+			}
+			1 = {	
+				change_first_name = name_Naelor
+			}
+			1 = {	
+				change_first_name = name_Naemon
+			}
+			1 = {	
+				change_first_name = name_Orys
+			}
+			1 = {	
+				change_first_name = name_Rhaegar
+			}
+			1 = {	
+				change_first_name = name_Rhaegel
+			}
+			1 = {	
+				change_first_name = name_Rhogar
+			}
+			1 = {	
+				change_first_name = name_Rhaenar
+			}
+			1 = {	
+				change_first_name = name_Taegon
+			}
+			1 = {	
+				change_first_name = name_Valarr
+			}
+			1 = {	
+				change_first_name = name_Viserys
+			}
+			1 = {	
+				change_first_name = name_Vaeron
+			}
+			1 = {	
+				change_first_name = name_Vaekar
+			}
+			1 = {	
+				change_first_name = name_Vaermon
+			}
+			1 = {	
+				change_first_name = name_Vaemond
+			}
+			1 = {	
+				change_first_name = name_Vaegon
+			}
+			1 = {	
+				change_first_name = name_Valerion
+			}
+			1 = {	
+				change_first_name = name_Valyx
+			}
+		}
+	}
+	else = {
+		random_list = {
+			1 = {
+				change_first_name = name_Allyria
+			}
+			1 = {	
+				change_first_name = name_Alearys
+			}
+			1 = {	
+				change_first_name = name_Aelinor
+			}
+			1 = {	
+				change_first_name = name_Alysanne
+			}
+			1 = {	
+				change_first_name = name_Aerea
+			}
+			1 = {	
+				change_first_name = name_Alyssa
+			}
+			1 = {	
+				change_first_name = name_Aelora
+			}
+			1 = {	
+				change_first_name = name_Baela
+			}
+			1 = {	
+				change_first_name = name_Baenys
+			}
+			1 = {	
+				change_first_name = name_Baena
+			}
+			1 = {	
+				change_first_name = name_Cyaena
+			}
+			1 = {	
+				change_first_name = name_Cymella
+			}
+			1 = {	
+				change_first_name = name_Calla
+			}
+			1 = {	
+				change_first_name = name_Daella
+			}
+			1 = {	
+				change_first_name = name_Daena
+			}
+			1 = {	
+				change_first_name = name_Daeoril
+			}
+			1 = {	
+				change_first_name = name_Daenerys
+			}
+			1 = {	
+				change_first_name = name_Daenys
+			}
+			1 = {	
+				change_first_name = name_Daenaera
+			}
+			1 = {	
+				change_first_name = name_Daenora
+			}
+			1 = {	
+				change_first_name = name_Daenyra
+			}
+			1 = {	
+				change_first_name = name_Daelora
+			}
+			1 = {	
+				change_first_name = name_Elaena
+			}
+			1 = {	
+				change_first_name = name_Gael
+			}
+			1 = {	
+				change_first_name = name_Helaena
+			}
+			1 = {	
+				change_first_name = name_Haera
+			}
+			1 = {	
+				change_first_name = name_Jaehaera
+			}
+			1 = {	
+				change_first_name = name_Jaenara
+			}
+			1 = {	
+				change_first_name = name_Leaysa
+			}
+			1 = {	
+				change_first_name = name_Laena
+			}
+			1 = {	
+				change_first_name = name_Lianna
+			}
+			1 = {	
+				change_first_name = name_Larissa
+			}
+			1 = {	
+				change_first_name = name_Maera
+			}
+			1 = {	
+				change_first_name = name_Maega
+			}
+			1 = {	
+				change_first_name = name_Maegelle
+			}
+			1 = {	
+				change_first_name = name_Maenyra
+			}
+			1 = {	
+				change_first_name = name_Naerys
+			}
+			1 = {	
+				change_first_name = name_Rhae
+			}
+			1 = {	
+				change_first_name = name_Rhaelle
+			}
+			1 = {	
+				change_first_name = name_Rhaena
+			}
+			1 = {	
+				change_first_name = name_Rhaeys
+			}
+			1 = {	
+				change_first_name = name_Rhaenyra
+			}
+			1 = {	
+				change_first_name = name_Rhaelinor
+			}
+			1 = {	
+				change_first_name = name_Rhaenys
+			}
+			1 = {	
+				change_first_name = name_Rhaera
+			}
+			1 = {	
+				change_first_name = name_Rhaella
+			}
+			1 = {	
+				change_first_name = name_Rhaerea
+			}
+			1 = {	
+				change_first_name = name_Saenrys
+			}
+			1 = {	
+				change_first_name = name_Syaella
+			}
+			1 = {	
+				change_first_name = name_Shaera
+			}
+			1 = {	
+				change_first_name = name_Saera
+			}
+			1 = {	
+				change_first_name = name_Shaena
+			}
+			1 = {
+				change_first_name = name_Shiera
+			}
+			1 = {	
+				change_first_name = name_Visenya
+			}
+			1 = {	
+				change_first_name = name_Vaera
+			}
+			1 = {	
+				change_first_name = name_Vaella
+			}
+			1 = {	
+				change_first_name = name_Viserra
+			}
+			1 = {	
+				change_first_name = name_Vaena
+			}
+			1 = {	
+				change_first_name = name_Valaena
+			}
+		}
+	}
+}
+
+northern_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Alaric
+			}
+			1 = {	
+				change_first_name = name_Alton
+			}
+			1 = {	
+				change_first_name = name_Alyn
+			}
+			1 = {	
+				change_first_name = name_Arnolf
+			}
+			1 = {	
+				change_first_name = name_Arthor
+			}
+			1 = {	
+				change_first_name = name_Artos
+			}
+			1 = {	
+				change_first_name = name_Barthogan
+			}
+			1 = {	
+				change_first_name = name_Belthasar
+			}
+			1 = {	
+				change_first_name = name_Benfred
+			}
+			1 = {	
+				change_first_name = name_Benjen
+			}
+			1 = {	
+				change_first_name = name_Benjicot
+			}
+			1 = {	
+				change_first_name = name_Bennard
+			}
+			1 = {	
+				change_first_name = name_Benton
+			}
+			1 = {	
+				change_first_name = name_Beren
+			}
+			1 = {	
+				change_first_name = name_Beron
+			}
+			1 = {	
+				change_first_name = name_Bowen
+			}
+			1 = {	
+				change_first_name = name_Brandon
+			}
+			1 = {	
+				change_first_name = name_Byam
+			}
+			1 = {	
+				change_first_name = name_Cley
+			}
+			1 = {	
+				change_first_name = name_Cregan
+			}
+			1 = {	
+				change_first_name = name_Cregard
+			}
+			1 = {	
+				change_first_name = name_Damon
+			}
+			1 = {	
+				change_first_name = name_Daryn
+			}
+			1 = {	
+				change_first_name = name_Denys
+			}
+			1 = {	
+				change_first_name = name_Desmond
+			}
+			1 = {	
+				change_first_name = name_Desmyn
+			}
+			1 = {	
+				change_first_name = name_Devyn
+			}
+			1 = {	
+				change_first_name = name_Domeric
+			}
+			1 = {	
+				change_first_name = name_Donnel
+			}
+			1 = {	
+				change_first_name = name_Donnor
+			}
+			1 = {	
+				change_first_name = name_Dorren
+			}
+			1 = {	
+				change_first_name = name_Duncan
+			}
+			1 = {	
+				change_first_name = name_Eddard
+			}
+			1 = {	
+				change_first_name = name_Edderion
+			}
+			1 = {	
+				change_first_name = name_Edric
+			}
+			1 = {	
+				change_first_name = name_Edwyle
+			}
+			1 = {	
+				change_first_name = name_Edwyn
+			}
+			1 = {	
+				change_first_name = name_Ellard
+			}
+			1 = {	
+				change_first_name = name_Elric
+			}
+			1 = {	
+				change_first_name = name_Errold
+			}
+			1 = {	
+				change_first_name = name_Ethan
+			}
+			1 = {	
+				change_first_name = name_Eyron
+			}
+			1 = {	
+				change_first_name = name_Galbart
+			}
+			1 = {	
+				change_first_name = name_Gawen
+			}
+			1 = {	
+				change_first_name = name_Hallis
+			}
+			1 = {	
+				change_first_name = name_Halys
+			}
+			1 = {	
+				change_first_name = name_Harlon
+			}
+			1 = {	
+				change_first_name = name_Harmond
+			}
+			1 = {	
+				change_first_name = name_Harrion
+			}
+			1 = {	
+				change_first_name = name_Harwin
+			}
+			1 = {	
+				change_first_name = name_Harwood
+			}
+			1 = {	
+				change_first_name = name_Harys
+			}
+			1 = {	
+				change_first_name = name_Helman
+			}
+			1 = {	
+				change_first_name = name_Henly
+			}
+			1 = {	
+				change_first_name = name_Hoarfrost
+			}
+			1 = {	
+				change_first_name = name_Hother
+			}
+			1 = {	
+				change_first_name = name_Jeor
+			}
+			1 = {	
+				change_first_name = name_Jon
+			}
+			1 = {	
+				change_first_name = name_Jonnel
+			}
+			1 = {	
+				change_first_name = name_Jonos
+			}
+			1 = {	
+				change_first_name = name_Jorah
+			}
+			1 = {	
+				change_first_name = name_Jormyn
+			}
+			1 = {	
+				change_first_name = name_Joron
+			}
+			1 = {	
+				change_first_name = name_Jory
+			}
+			1 = {	
+				change_first_name = name_Joseth
+			}
+			1 = {	
+				change_first_name = name_Jossart
+			}
+			1 = {	
+				change_first_name = name_Karlon
+			}
+			1 = {	
+				change_first_name = name_Kyle
+			}
+			1 = {	
+				change_first_name = name_Larence
+			}
+			1 = {	
+				change_first_name = name_Leobald
+			}
+			1 = {	
+				change_first_name = name_Lonnel
+			}
+			1 = {	
+				change_first_name = name_Lothor
+			}
+			1 = {	
+				change_first_name = name_Mallador
+			}
+			1 = {	
+				change_first_name = name_Maric
+			}
+			1 = {	
+				change_first_name = name_Mark
+			}
+			1 = {	
+				change_first_name = name_Marlon
+			}
+			1 = {	
+				change_first_name = name_Martyn
+			}
+			1 = {	
+				change_first_name = name_Maynard
+			}
+			1 = {	
+				change_first_name = name_Medger
+			}
+			1 = {	
+				change_first_name = name_Medrick
+			}
+			1 = {	
+				change_first_name = name_Morgan
+			}
+			1 = {	
+				change_first_name = name_Mors
+			}
+			1 = {	
+				change_first_name = name_Norren
+			}
+			1 = {	
+				change_first_name = name_Ondrew
+			}
+			1 = {	
+				change_first_name = name_Osric
+			}
+			1 = {	
+				change_first_name = name_Owen
+			}
+			1 = {	
+				change_first_name = name_Ramsay
+			}
+			1 = {	
+				change_first_name = name_Reynard
+			}
+			1 = {	
+				change_first_name = name_Rickard
+			}
+			1 = {	
+				change_first_name = name_Rickon
+			}
+			1 = {	
+				change_first_name = name_Robard
+			}
+			1 = {	
+				change_first_name = name_Robb
+			}
+			1 = {	
+				change_first_name = name_Robett
+			}
+			1 = {	
+				change_first_name = name_Robin
+			}
+			1 = {	
+				change_first_name = name_Roderick
+			}
+			1 = {	
+				change_first_name = name_Rodrik
+			}
+			1 = {	
+				change_first_name = name_Rodwell
+			}
+			1 = {	
+				change_first_name = name_Ronnel
+			}
+			1 = {	
+				change_first_name = name_Rogar
+			}
+			1 = {	
+				change_first_name = name_Roger
+			}
+			1 = {	
+				change_first_name = name_Roose
+			}
+			1 = {	
+				change_first_name = name_Royce
+			}
+			1 = {	
+				change_first_name = name_Stevyn
+			}
+			1 = {	
+				change_first_name = name_Theo
+			}
+			1 = {	
+				change_first_name = name_Theodar
+			}
+			1 = {	
+				change_first_name = name_Theomore
+			}
+			1 = {	
+				change_first_name = name_Theon
+			}
+			1 = {	
+				change_first_name = name_Theonald
+			}
+			1 = {	
+				change_first_name = name_Timotty
+			}
+			1 = {	
+				change_first_name = name_Torghen
+			}
+			1 = {	
+				change_first_name = name_Torren
+			}
+			1 = {	
+				change_first_name = name_Torrhen
+			}
+			1 = {	
+				change_first_name = name_Vayon
+			}
+			1 = {	
+				change_first_name = name_Walder
+			}
+			1 = {	
+				change_first_name = name_Walton
+			}
+			1 = {	
+				change_first_name = name_Warrick
+			}
+			1 = {	
+				change_first_name = name_Wendel
+			}
+			1 = {	
+				change_first_name = name_Willam
+			}
+			1 = {	
+				change_first_name = name_Wydron
+			}
+			1 = {	
+				change_first_name = name_Wylis
+			}
+			1 = {	
+				change_first_name = name_Wyman
+			}
+			1 = {	
+				change_first_name = name_Wynton
+			}
+		}
+	}
+	else = {
+		random_list = {
+			1 = {	
+				change_first_name = name_Alanna
+			}
+			1 = {	
+				change_first_name = name_Alarra
+			}
+			1 = {	
+				change_first_name = name_Aliona
+			}
+			1 = {	
+				change_first_name = name_Alys
+			}
+			1 = {	
+				change_first_name = name_Alysane
+			}
+			1 = {	
+				change_first_name = name_Alysanne
+			}
+			1 = {	
+				change_first_name = name_Aregelle
+			}
+			1 = {	
+				change_first_name = name_Arra
+			}
+			1 = {	
+				change_first_name = name_Arrana
+			}
+			1 = {	
+				change_first_name = name_Arsa
+			}
+			1 = {	
+				change_first_name = name_Arya
+			}
+			1 = {	
+				change_first_name = name_Barba
+			}
+			1 = {	
+				change_first_name = name_Barbrey
+			}
+			1 = {	
+				change_first_name = name_Berena
+			}
+			1 = {	
+				change_first_name = name_Beth
+			}
+			1 = {	
+				change_first_name = name_Bethany
+			}
+			1 = {	
+				change_first_name = name_Branda
+			}
+			1 = {	
+				change_first_name = name_Branna
+			}
+			1 = {	
+				change_first_name = name_Carella
+			}
+			1 = {	
+				change_first_name = name_Cylla
+			}
+			1 = {	
+				change_first_name = name_Cyrelle
+			}
+			1 = {	
+				change_first_name = name_Dacey
+			}
+			1 = {	
+				change_first_name = name_Dalonne
+			}
+			1 = {	
+				change_first_name = name_Donella
+			}
+			1 = {	
+				change_first_name = name_Eddara
+			}
+			1 = {	
+				change_first_name = name_Erena
+			}
+			1 = {	
+				change_first_name = name_Gilliane
+			}
+			1 = {	
+				change_first_name = name_Jarana
+			}
+			1 = {	
+				change_first_name = name_Jessamyn
+			}
+			1 = {	
+				change_first_name = name_Jeyne
+			}
+			1 = {	
+				change_first_name = name_Jocelyn
+			}
+			1 = {	
+				change_first_name = name_Joncella
+			}
+			1 = {	
+				change_first_name = name_Jonelle
+			}
+			1 = {	
+				change_first_name = name_Joranna
+			}
+			1 = {	
+				change_first_name = name_Jorelle
+			}
+			1 = {	
+				change_first_name = name_Kerena
+			}
+			1 = {	
+				change_first_name = name_Kyra
+			}
+			1 = {	
+				change_first_name = name_Leona
+			}
+			1 = {	
+				change_first_name = name_Lyanna
+			}
+			1 = {	
+				change_first_name = name_Lyanne
+			}
+			1 = {	
+				change_first_name = name_Lyarra
+			}
+			1 = {	
+				change_first_name = name_Lyessa
+			}
+			1 = {	
+				change_first_name = name_Lynara
+			}
+			1 = {	
+				change_first_name = name_Lyra
+			}
+			1 = {	
+				change_first_name = name_Lysa
+			}
+			1 = {	
+				change_first_name = name_Lysara
+			}
+			1 = {	
+				change_first_name = name_Maege
+			}
+			1 = {	
+				change_first_name = name_Malerra
+			}
+			1 = {	
+				change_first_name = name_Mara
+			}
+			1 = {	
+				change_first_name = name_Margaret
+			}
+			1 = {	
+				change_first_name = name_Mariah
+			}
+			1 = {	
+				change_first_name = name_Mariya
+			}
+			1 = {	
+				change_first_name = name_Marna
+			}
+			1 = {	
+				change_first_name = name_Melene
+			}
+			1 = {	
+				change_first_name = name_Mylarra
+			}
+			1 = {	
+				change_first_name = name_Mina
+			}
+			1 = {	
+				change_first_name = name_Myriame
+			}
+			1 = {	
+				change_first_name = name_Olaria
+			}
+			1 = {	
+				change_first_name = name_Orenna
+			}
+			1 = {	
+				change_first_name = name_Owella
+			}
+			1 = {	
+				change_first_name = name_Raya
+			}
+			1 = {	
+				change_first_name = name_Robyn
+			}
+			1 = {	
+				change_first_name = name_Ryessa
+			}
+			1 = {	
+				change_first_name = name_Sabetha
+			}
+			1 = {	
+				change_first_name = name_Sansa
+			}
+			1 = {	
+				change_first_name = name_Sara
+			}
+			1 = {	
+				change_first_name = name_Sarra
+			}
+			1 = {	
+				change_first_name = name_Serena
+			}
+			1 = {	
+				change_first_name = name_Sheryse
+			}
+			1 = {	
+				change_first_name = name_Shyra
+			}
+			1 = {	
+				change_first_name = name_Sybelle
+			}
+			1 = {	
+				change_first_name = name_Sylene
+			}
+			1 = {	
+				change_first_name = name_Syrona
+			}
+			1 = {	
+				change_first_name = name_Tyalla
+			}
+			1 = {	
+				change_first_name = name_Tyrene
+			}
+			1 = {	
+				change_first_name = name_Wylla
+			}
+			1 = {	
+				change_first_name = name_Wynafryd
+			}
+		}
+	}
+}
+
+riverman_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Addam
+			}
+			1 = {	
+				change_first_name = name_Alesander
+			}
+			1 = {	
+				change_first_name = name_Alton
+			}
+			1 = {	
+				change_first_name = name_Alvyn
+			}
+			1 = {	
+				change_first_name = name_Alyn
+			}
+			1 = {	
+				change_first_name = name_Ambrose
+			}
+			1 = {	
+				change_first_name = name_Amos
+			}
+			1 = {	
+				change_first_name = name_Andrey
+			}
+			1 = {	
+				change_first_name = name_Androw
+			}
+			1 = {	
+				change_first_name = name_Anson
+			}
+			1 = {	
+				change_first_name = name_Arwood
+			}
+			1 = {	
+				change_first_name = name_Axel
+			}
+			1 = {	
+				change_first_name = name_Benedict
+			}
+			1 = {	
+				change_first_name = name_Benfrey
+			}
+			1 = {	
+				change_first_name = name_Benjicot
+			}
+			1 = {	
+				change_first_name = name_Bennifer
+			}
+			1 = {	
+				change_first_name = name_Bradamar
+			}
+			1 = {	
+				change_first_name = name_Brus
+			}
+			1 = {	
+				change_first_name = name_Bryan
+			}
+			1 = {	
+				change_first_name = name_Bryar
+			}
+			1 = {	
+				change_first_name = name_Brynden
+			}
+			1 = {	
+				change_first_name = name_Bywin
+			}
+			1 = {	
+				change_first_name = name_Clarence
+			}
+			1 = {	
+				change_first_name = name_Clement
+			}
+			1 = {	
+				change_first_name = name_Cleos
+			}
+			1 = {	
+				change_first_name = name_Colmar
+			}
+			1 = {	
+				change_first_name = name_Dafyn
+			}
+			1 = {	
+				change_first_name = name_Damon
+			}
+			1 = {	
+				change_first_name = name_Danwell
+			}
+			1 = {	
+				change_first_name = name_Darnold
+			}
+			1 = {	
+				change_first_name = name_Davos
+			}
+			1 = {	
+				change_first_name = name_Denys
+			}
+			1 = {	
+				change_first_name = name_Deremond
+			}
+			1 = {	
+				change_first_name = name_Derrick
+			}
+			1 = {	
+				change_first_name = name_Desmond
+			}
+			1 = {	
+				change_first_name = name_Dickon
+			}
+			1 = {	
+				change_first_name = name_Donnel
+			}
+			1 = {	
+				change_first_name = name_Duncan
+			}
+			1 = {	
+				change_first_name = name_Edmund
+			}
+			1 = {	
+				change_first_name = name_Edmure
+			}
+			1 = {	
+				change_first_name = name_Edmyn
+			}
+			1 = {	
+				change_first_name = name_Edwyn
+			}
+			1 = {	
+				change_first_name = name_Ellery
+			}
+			1 = {	
+				change_first_name = name_Elmar
+			}
+			1 = {	
+				change_first_name = name_Elmo
+			}
+			1 = {	
+				change_first_name = name_Elston
+			}
+			1 = {	
+				change_first_name = name_Elwood
+			}
+			1 = {	
+				change_first_name = name_Emmon
+			}
+			1 = {	
+				change_first_name = name_Florian
+			}
+			1 = {	
+				change_first_name = name_Forrest
+			}
+			1 = {	
+				change_first_name = name_Franklyn
+			}
+			1 = {	
+				change_first_name = name_Garibald
+			}
+			1 = {	
+				change_first_name = name_Garrett
+			}
+			1 = {	
+				change_first_name = name_Garse
+			}
+			1 = {	
+				change_first_name = name_Garth
+			}
+			1 = {	
+				change_first_name = name_Gaston
+			}
+			1 = {	
+				change_first_name = name_Gerald
+			}
+			1 = {	
+				change_first_name = name_Geremy
+			}
+			1 = {	
+				change_first_name = name_Glendon
+			}
+			1 = {	
+				change_first_name = name_Grover
+			}
+			1 = {	
+				change_first_name = name_Guy
+			}
+			1 = {	
+				change_first_name = name_Gyles
+			}
+			1 = {	
+				change_first_name = name_Halder
+			}
+			1 = {	
+				change_first_name = name_Halmon
+			}
+			1 = {	
+				change_first_name = name_Harbert
+			}
+			1 = {	
+				change_first_name = name_Harwin
+			}
+			1 = {	
+				change_first_name = name_Harstyn
+			}
+			1 = {	
+				change_first_name = name_Harys
+			}
+			1 = {	
+				change_first_name = name_Hendry
+			}
+			1 = {	
+				change_first_name = name_Horas
+			}
+			1 = {	
+				change_first_name = name_Hosteen
+			}
+			1 = {	
+				change_first_name = name_Hoster
+			}
+			1 = {	
+				change_first_name = name_Hugo
+			}
+			1 = {	
+				change_first_name = name_Humfrey
+			}
+			1 = {	
+				change_first_name = name_Igon
+			}
+			1 = {	
+				change_first_name = name_Jaime
+			}
+			1 = {	
+				change_first_name = name_Jammos
+			}
+			1 = {	
+				change_first_name = name_Jared
+			}
+			1 = {	
+				change_first_name = name_Jaremy
+			}
+			1 = {	
+				change_first_name = name_Jason
+			}
+			1 = {	
+				change_first_name = name_Jeffory
+			}
+			1 = {	
+				change_first_name = name_Jon
+			}
+			1 = {	
+				change_first_name = name_Jonah
+			}
+			1 = {	
+				change_first_name = name_Jonos
+			}
+			1 = {	
+				change_first_name = name_Jonothor
+			}
+			1 = {	
+				change_first_name = name_Jorah
+			}
+			1 = {	
+				change_first_name = name_Jordan
+			}
+			1 = {	
+				change_first_name = name_Joscelyn
+			}
+			1 = {	
+				change_first_name = name_Joseth
+			}
+			1 = {	
+				change_first_name = name_Jostyn
+			}
+			1 = {	
+				change_first_name = name_Josua
+			}
+			1 = {	
+				change_first_name = name_Karyl
+			}
+			1 = {	
+				change_first_name = name_Kennoth
+			}
+			1 = {	
+				change_first_name = name_Kenric
+			}
+			1 = {	
+				change_first_name = name_Kermit
+			}
+			1 = {	
+				change_first_name = name_Kirth
+			}
+			1 = {	
+				change_first_name = name_Kyle
+			}
+			1 = {	
+				change_first_name = name_Larys
+			}
+			1 = {	
+				change_first_name = name_Leslyn
+			}
+			1 = {	
+				change_first_name = name_Lewys
+			}
+			1 = {	
+				change_first_name = name_Lothar
+			}
+			1 = {	
+				change_first_name = name_Lucamore
+			}
+			1 = {	
+				change_first_name = name_Lucas
+			}
+			1 = {	
+				change_first_name = name_Luceon
+			}
+			1 = {	
+				change_first_name = name_Lucias
+			}
+			1 = {	
+				change_first_name = name_Lucos
+			}
+			1 = {	
+				change_first_name = name_Luthor
+			}
+			1 = {	
+				change_first_name = name_Lyle
+			}
+			1 = {	
+				change_first_name = name_Lyman
+			}
+			1 = {	
+				change_first_name = name_Lymond
+			}
+			1 = {	
+				change_first_name = name_Lyonel
+			}
+			1 = {	
+				change_first_name = name_Malwyn
+			}
+			1 = {	
+				change_first_name = name_Manfred
+			}
+			1 = {	
+				change_first_name = name_Manfryd
+			}
+			1 = {	
+				change_first_name = name_Marq
+			}
+			1 = {	
+				change_first_name = name_Martyn
+			}
+			1 = {	
+				change_first_name = name_Mathis
+			}
+			1 = {	
+				change_first_name = name_Medgar
+			}
+			1 = {	
+				change_first_name = name_Melwys
+			}
+			1 = {	
+				change_first_name = name_Merrett
+			}
+			1 = {	
+				change_first_name = name_Morgan
+			}
+			1 = {	
+				change_first_name = name_Mychel
+			}
+			1 = {	
+				change_first_name = name_Myles
+			}
+			1 = {	
+				change_first_name = name_Norbert
+			}
+			1 = {	
+				change_first_name = name_Olyvar
+			}
+			1 = {	
+				change_first_name = name_Olyver
+			}
+			1 = {	
+				change_first_name = name_Orland
+			}
+			1 = {	
+				change_first_name = name_Ormond
+			}
+			1 = {	
+				change_first_name = name_Oscar
+			}
+			1 = {	
+				change_first_name = name_Osmund
+			}
+			1 = {	
+				change_first_name = name_Oswald
+			}
+			1 = {	
+				change_first_name = name_Othan
+			}
+			1 = {	
+				change_first_name = name_Otho
+			}
+			1 = {	
+				change_first_name = name_Owen
+			}
+			1 = {	
+				change_first_name = name_Patrek
+			}
+			1 = {	
+				change_first_name = name_Perwyn
+			}
+			1 = {	
+				change_first_name = name_Petyr
+			}
+			1 = {	
+				change_first_name = name_Prentys
+			}
+			1 = {	
+				change_first_name = name_Quentyn
+			}
+			1 = {	
+				change_first_name = name_Quincy
+			}
+			1 = {	
+				change_first_name = name_Raylon
+			}
+			1 = {	
+				change_first_name = name_Raymond
+			}
+			1 = {	
+				change_first_name = name_Raymun
+			}
+			1 = {	
+				change_first_name = name_Raymund
+			}
+			1 = {	
+				change_first_name = name_Richard
+			}
+			1 = {	
+				change_first_name = name_Robb
+			}
+			1 = {	
+				change_first_name = name_Robert
+			}
+			1 = {	
+				change_first_name = name_Robin
+			}
+			1 = {	
+				change_first_name = name_Roderick
+			}
+			1 = {	
+				change_first_name = name_Roger
+			}
+			1 = {	
+				change_first_name = name_Roland
+			}
+			1 = {	
+				change_first_name = name_Ronald
+			}
+			1 = {	
+				change_first_name = name_Ronel
+			}
+			1 = {	
+				change_first_name = name_Ronnel
+			}
+			1 = {	
+				change_first_name = name_Royce
+			}
+			1 = {	
+				change_first_name = name_Ryger
+			}
+			1 = {	
+				change_first_name = name_Ryman
+			}
+			1 = {	
+				change_first_name = name_Samwell
+			}
+			1 = {	
+				change_first_name = name_Sandor
+			}
+			1 = {	
+				change_first_name = name_Simon
+			}
+			1 = {	
+				change_first_name = name_Stanton
+			}
+			1 = {	
+				change_first_name = name_Steffon
+			}
+			1 = {	
+				change_first_name = name_Stevron
+			}
+			1 = {	
+				change_first_name = name_Symond
+			}
+			1 = {	
+				change_first_name = name_Theo
+			}
+			1 = {	
+				change_first_name = name_Theomar
+			}
+			1 = {	
+				change_first_name = name_Thoren
+			}
+			1 = {	
+				change_first_name = name_Tion
+			}
+			1 = {	
+				change_first_name = name_Tommard
+			}
+			1 = {	
+				change_first_name = name_Tommen
+			}
+			1 = {	
+				change_first_name = name_Tristan
+			}
+			1 = {	
+				change_first_name = name_Tristifer
+			}
+			1 = {	
+				change_first_name = name_Tyler
+			}
+			1 = {	
+				change_first_name = name_Tytos
+			}
+			1 = {	
+				change_first_name = name_Tywin
+			}
+			1 = {	
+				change_first_name = name_Utherydes
+			}
+			1 = {
+				modifier = {
+					house = house:house_Frey
+					add = 40
+				}
+				change_first_name = name_Walder
+			}
+			1 = {
+				modifier = {
+					house = house:house_Frey
+					add = 30
+				}
+				change_first_name = name_Waldron
+			}
+			1 = {	
+				change_first_name = name_Walter
+			}
+			1 = {	
+				change_first_name = name_Walton
+			}
+			1 = {	
+				change_first_name = name_Waltyr
+			}
+			1 = {	
+				change_first_name = name_Walys
+			}
+			1 = {	
+				change_first_name = name_Wendel
+			}
+			1 = {	
+				change_first_name = name_Whalen
+			}
+			1 = {	
+				change_first_name = name_Wilbert
+			}
+			1 = {	
+				change_first_name = name_Willam
+			}
+			1 = {	
+				change_first_name = name_Willamen
+			}
+			1 = {	
+				change_first_name = name_Willem
+			}
+			1 = {	
+				change_first_name = name_William
+			}
+			1 = {	
+				change_first_name = name_Willis
+			}
+			1 = {	
+				change_first_name = name_Wyllis
+			}
+			1 = {	
+				change_first_name = name_Zachery
+			}
+		}
+	}
+	else = {
+		random_list = {
+			1 = {	
+				change_first_name = name_Agnes
+			}
+			1 = {	
+				change_first_name = name_Alarra
+			}
+			1 = {	
+				change_first_name = name_Aleona
+			}
+			1 = {	
+				change_first_name = name_Alessa
+			}
+			1 = {	
+				change_first_name = name_Alynne
+			}
+			1 = {	
+				change_first_name = name_Alys
+			}
+			1 = {	
+				change_first_name = name_Alysanne
+			}
+			1 = {	
+				change_first_name = name_Alyssa
+			}
+			1 = {	
+				change_first_name = name_Alyx
+			}
+			1 = {	
+				change_first_name = name_Amerei
+			}
+			1 = {	
+				change_first_name = name_Ammara
+			}
+			1 = {	
+				change_first_name = name_Amyra
+			}
+			1 = {	
+				change_first_name = name_Andacey
+			}
+			1 = {	
+				change_first_name = name_Andorea
+			}
+			1 = {	
+				change_first_name = name_Andrya
+			}
+			1 = {	
+				change_first_name = name_Anwyn
+			}
+			1 = {	
+				change_first_name = name_Arona
+			}
+			1 = {	
+				change_first_name = name_Arwaya
+			}
+			1 = {	
+				change_first_name = name_Arwyn
+			}
+			1 = {	
+				change_first_name = name_Barba
+			}
+			1 = {	
+				change_first_name = name_Barbara
+			}
+			1 = {	
+				change_first_name = name_Beatrice
+			}
+			1 = {	
+				change_first_name = name_Belarra
+			}
+			1 = {	
+				change_first_name = name_Belle
+			}
+			1 = {	
+				change_first_name = name_Bellena
+			}
+			1 = {	
+				change_first_name = name_Bess
+			}
+			1 = {	
+				change_first_name = name_Betha
+			}
+			1 = {	
+				change_first_name = name_Bethany
+			}
+			1 = {	
+				change_first_name = name_Calera
+			}
+			1 = {	
+				change_first_name = name_Carellen
+			}
+			1 = {	
+				change_first_name = name_Catelyn
+			}
+			1 = {	
+				change_first_name = name_Celia
+			}
+			1 = {	
+				change_first_name = name_Cersei
+			}
+			1 = {	
+				change_first_name = name_Ceryne
+			}
+			1 = {	
+				change_first_name = name_Crynna
+			}
+			1 = {	
+				change_first_name = name_Cynthea
+			}
+			1 = {	
+				change_first_name = name_Dalla
+			}
+			1 = {	
+				change_first_name = name_Damina
+			}
+			1 = {	
+				change_first_name = name_Danelle
+			}
+			1 = {	
+				change_first_name = name_Darla
+			}
+			1 = {	
+				change_first_name = name_Delanei
+			}
+			1 = {	
+				change_first_name = name_Delanna
+			}
+			1 = {	
+				change_first_name = name_Della
+			}
+			1 = {	
+				change_first_name = name_Derwa
+			}
+			1 = {	
+				change_first_name = name_Dianessa
+			}
+			1 = {	
+				change_first_name = name_Doryssa
+			}
+			1 = {	
+				change_first_name = name_Edmaria
+			}
+			1 = {	
+				change_first_name = name_Eldacey
+			}
+			1 = {	
+				change_first_name = name_Eleanor
+			}
+			1 = {	
+				change_first_name = name_Eleyne
+			}
+			1 = {	
+				change_first_name = name_Elerra
+			}
+			1 = {	
+				change_first_name = name_Ellenei
+			}
+			1 = {	
+				change_first_name = name_Elona
+			}
+			1 = {	
+				change_first_name = name_Elonne
+			}
+			1 = {	
+				change_first_name = name_Elyana
+			}
+			1 = {	
+				change_first_name = name_Emberlei
+			}
+			1 = {	
+				change_first_name = name_Emphyria
+			}
+			1 = {	
+				change_first_name = name_Esmene
+			}
+			1 = {	
+				change_first_name = name_Freya
+			}
+			1 = {	
+				change_first_name = name_Halanna
+			}
+			1 = {	
+				change_first_name = name_Hanna
+			}
+			1 = {	
+				change_first_name = name_Helya
+			}
+			1 = {	
+				change_first_name = name_Hostella
+			}
+			1 = {	
+				change_first_name = name_Idera
+			}
+			1 = {	
+				change_first_name = name_Ilyse
+			}
+			1 = {	
+				change_first_name = name_Janei
+			}
+			1 = {	
+				change_first_name = name_Janeya
+			}
+			1 = {	
+				change_first_name = name_Jannia
+			}
+			1 = {	
+				change_first_name = name_Jayne
+			}
+			1 = {	
+				change_first_name = name_Jenna
+			}
+			1 = {	
+				change_first_name = name_Jeyne
+			}
+			1 = {	
+				change_first_name = name_Jirelle
+			}
+			1 = {	
+				change_first_name = name_Jonquil
+			}
+			1 = {	
+				change_first_name = name_Joanna
+			}
+			1 = {	
+				change_first_name = name_Jonara
+			}
+			1 = {	
+				change_first_name = name_Josella
+			}
+			1 = {	
+				change_first_name = name_Joyeuse
+			}
+			1 = {	
+				change_first_name = name_Jyanna
+			}
+			1 = {	
+				change_first_name = name_Kelarra
+			}
+			1 = {	
+				change_first_name = name_Kyra
+			}
+			1 = {	
+				change_first_name = name_Lansia
+			}
+			1 = {	
+				change_first_name = name_Leana
+			}
+			1 = {	
+				change_first_name = name_Liane
+			}
+			1 = {	
+				change_first_name = name_Lysa
+			}
+			1 = {	
+				change_first_name = name_Lythene
+			}
+			1 = {	
+				change_first_name = name_Marianne
+			}
+			1 = {	
+				change_first_name = name_Marissa
+			}
+			1 = {	
+				change_first_name = name_Mariya
+			}
+			1 = {	
+				change_first_name = name_Melantha
+			}
+			1 = {	
+				change_first_name = name_Melene
+			}
+			1 = {	
+				change_first_name = name_Mellara
+			}
+			1 = {	
+				change_first_name = name_Melissa
+			}
+			1 = {	
+				change_first_name = name_Melony
+			}
+			1 = {	
+				change_first_name = name_Meredyth
+			}
+			1 = {	
+				change_first_name = name_Merianne
+			}
+			1 = {	
+				change_first_name = name_Minisa
+			}
+			1 = {	
+				change_first_name = name_Molianne
+			}
+			1 = {	
+				change_first_name = name_Morya
+			}
+			1 = {	
+				change_first_name = name_Neria
+			}
+			1 = {	
+				change_first_name = name_Neyela
+			}
+			1 = {	
+				change_first_name = name_Orissa
+			}
+			1 = {	
+				change_first_name = name_Perra
+			}
+			1 = {	
+				change_first_name = name_Perriane
+			}
+			1 = {	
+				change_first_name = name_Rhialta
+			}
+			1 = {	
+				change_first_name = name_Riona
+			}
+			1 = {	
+				change_first_name = name_Ronessa
+			}
+			1 = {	
+				change_first_name = name_Rosamund
+			}
+			1 = {	
+				change_first_name = name_Roslin
+			}
+			1 = {	
+				change_first_name = name_Ryella
+			}
+			1 = {	
+				change_first_name = name_Sabitha
+			}
+			1 = {	
+				change_first_name = name_Sallei
+			}
+			1 = {	
+				change_first_name = name_Saranna
+			}
+			1 = {	
+				change_first_name = name_Sarra
+			}
+			1 = {	
+				change_first_name = name_Sarya
+			}
+			1 = {	
+				change_first_name = name_Serra
+			}
+			1 = {	
+				change_first_name = name_Sharra
+			}
+			1 = {	
+				change_first_name = name_Shella
+			}
+			1 = {	
+				change_first_name = name_Shiera
+			}
+			1 = {	
+				change_first_name = name_Shirei
+			}
+			1 = {	
+				change_first_name = name_Sylwa
+			}
+			1 = {	
+				change_first_name = name_Syrella
+			}
+			1 = {	
+				change_first_name = name_Tinessa
+			}
+			1 = {	
+				change_first_name = name_Tyressa
+			}
+			1 = {	
+				change_first_name = name_Tysane
+			}
+			1 = {	
+				change_first_name = name_Tyta
+			}
+			1 = {
+				modifier = {
+					house = house:house_Frey
+					add = 40
+				}
+				change_first_name = name_Walda
+			}
+			1 = {
+				modifier = {
+					house = house:house_Frey
+					add = 40
+				}
+				change_first_name = name_Waldra
+			}
+			1 = {	
+				change_first_name = name_Wenella
+			}
+			1 = {	
+				change_first_name = name_Wynafrei
+			}
+			1 = {	
+				change_first_name = name_Zia
+			}
+			1 = {	
+				change_first_name = name_Zhoe
+			}
+		}
+	}
+}
+
+ironborn_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+			NOT = { house = house:house_KenningK }
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Adrack
+			}
+			1 = {
+				change_first_name = name_Aeron
+			}
+			1 = {	
+				change_first_name = name_Aggar
+			}
+			1 = {
+				change_first_name = name_Agil
+			}
+			1 = {
+				change_first_name = name_Aladale
+			}
+			1 = {
+				change_first_name = name_Alester
+			}
+			1 = {
+				change_first_name = name_Alvyn
+			}
+			1 = {
+				change_first_name = name_Alyn
+			}
+			1 = {	
+				change_first_name = name_Ambrode
+			}
+			1 = {	
+				change_first_name = name_Andrik
+			}
+			1 = {	
+				change_first_name = name_Alton
+			}
+			1 = {	
+				change_first_name = name_Arthur
+			}
+			1 = {
+				change_first_name = name_Baelor
+			}
+			1 = {
+				change_first_name = name_Balder
+			}
+			1 = {	
+				change_first_name = name_Balon
+			}
+			1 = {	
+				change_first_name = name_Bennarion
+			}
+			1 = {	
+				change_first_name = name_Beron
+			}
+			1 = {
+				change_first_name = name_Boremund
+			}
+			1 = {
+				change_first_name = name_Burton
+			}
+			1 = {
+				change_first_name = name_Cadwyl
+			}
+			1 = {
+				change_first_name = name_Cotter
+			}
+			1 = {
+				change_first_name = name_Cragorn
+			}
+			1 = {
+				change_first_name = name_Cromm
+			}
+			1 = {
+				change_first_name = name_Craghorn
+			}
+			1 = {
+				change_first_name = name_Daegon
+			}
+			1 = {
+				change_first_name = name_Dagmer
+			}
+			1 = {
+				change_first_name = name_Dagon
+			}
+			1 = {
+				change_first_name = name_Dale
+			}
+			1 = {
+				change_first_name = name_Dan
+			}
+			1 = {
+				change_first_name = name_Denys
+			}
+			1 = {
+				change_first_name = name_Donel
+			}
+			1 = {
+				change_first_name = name_Donnor
+			}
+			1 = {
+				change_first_name = name_Drennan
+			}
+			1 = {
+				change_first_name = name_Dunstan
+			}
+			1 = {
+				change_first_name = name_Dykk
+			}
+			1 = {
+				change_first_name = name_Dalton
+			}
+			1 = {
+				change_first_name = name_Eerl
+			}
+			1 = {
+				change_first_name = name_Eldiss
+			}
+			1 = {
+				change_first_name = name_Eldred
+			}
+			1 = {
+				change_first_name = name_Emmond
+			}
+			1 = {
+				change_first_name = name_Endehar
+			}
+			1 = {
+				change_first_name = name_Erik
+			}
+			1 = {
+				change_first_name = name_Erne
+			}
+			1 = {
+				change_first_name = name_Euron
+			}
+			1 = {
+				change_first_name = name_Erich
+			}
+			1 = {
+				change_first_name = name_Falki
+			}
+			1 = {
+				change_first_name = name_Faste
+			}
+			1 = {
+				change_first_name = name_Fralegg
+			}
+			1 = {
+				change_first_name = name_Fergon
+			}
+			1 = {
+				change_first_name = name_Gelmarr
+			}
+			1 = {
+				change_first_name = name_Germund
+			}
+			1 = {
+				change_first_name = name_Gevin
+			}
+			1 = {
+				change_first_name = name_Gormond
+			}
+			1 = {
+				change_first_name = name_Gorold
+			}
+			1 = {
+				change_first_name = name_Godric
+			}
+			1 = {
+				change_first_name = name_Gran
+			}
+			1 = {
+				change_first_name = name_Greydon
+			}
+			1 = {
+				change_first_name = name_Gylbert
+			}
+			1 = {
+				change_first_name = name_Gyles
+			}
+			1 = {
+				change_first_name = name_Gynir
+			}
+			1 = {
+				change_first_name = name_Goren
+			}
+			1 = {
+				change_first_name = name_Gunnar
+			}
+			1 = {
+				change_first_name = name_Gorm
+			}
+			1 = {
+				change_first_name = name_Gunthor
+			}
+			1 = {
+				change_first_name = name_Grimm
+			}
+			1 = {
+				change_first_name = name_Hagen
+			}
+			1 = {
+				change_first_name = name_Hakon
+			}
+			1 = {
+				change_first_name = name_Harl
+			}
+			1 = {
+				change_first_name = name_Harlon
+			}
+			1 = {
+				change_first_name = name_Harmund
+			}
+			1 = {
+				change_first_name = name_Harrag
+			}
+			1 = {
+				change_first_name = name_Harras
+			}
+			1 = {
+				change_first_name = name_Harren
+			}
+			1 = {
+				change_first_name = name_Harwyn
+			}
+			1 = {
+				change_first_name = name_Hilmar
+			}
+			1 = {
+				change_first_name = name_Hotho
+			}
+			1 = {
+				change_first_name = name_Harrock
+			}
+			1 = {
+				change_first_name = name_Horgan
+			}
+			1 = {
+				change_first_name = name_Hagon
+			}
+			1 = {
+				change_first_name = name_Harlan
+			}
+			1 = {
+				change_first_name = name_Harron
+			}
+			1 = {
+				change_first_name = name_Harrald
+			}
+			1 = {
+				change_first_name = name_Hake
+			}
+			1 = {
+				change_first_name = name_Hrolf
+			}
+			1 = {
+				change_first_name = name_Jon
+			}
+			1 = {
+				change_first_name = name_Joseran
+			}
+			1 = {
+				change_first_name = name_Joron
+			}
+			1 = {
+				change_first_name = name_Kemmett
+			}
+			1 = {
+				change_first_name = name_Kenned
+			}
+			1 = {
+				change_first_name = name_Konrad
+			}
+			1 = {
+				change_first_name = name_Kromm
+			}
+			1 = {
+				change_first_name = name_Lenwood
+			}
+			1 = {
+				change_first_name = name_Lorren
+			}
+			1 = {
+				change_first_name = name_Lucas
+			}
+			1 = {	
+				change_first_name = name_Lucimore
+			}
+			1 = {
+				change_first_name = name_Loron
+			}
+			1 = {
+				change_first_name = name_Lodos
+			}
+			1 = {
+				change_first_name = name_Manfryd
+			}
+			1 = {
+				change_first_name = name_Maron
+			}
+			1 = {
+				change_first_name = name_Mats
+			}
+			1 = {
+				change_first_name = name_Meldred
+			}
+			1 = {
+				change_first_name = name_Norjen
+			}
+			1 = {
+				change_first_name = name_Norne
+			}
+			1 = {
+				change_first_name = name_Nute
+			}
+			1 = {
+				change_first_name = name_Odd
+			}
+			1 = {
+				change_first_name = name_Othgar
+			}
+			1 = {
+				change_first_name = name_Ottar
+			}
+			1 = {
+				change_first_name = name_Ormm
+			}
+			1 = {
+				change_first_name = name_Pate
+			}
+			1 = {
+				change_first_name = name_Qalen
+			}
+			1 = {	
+				change_first_name = name_Qarl
+			}
+			1 = {	
+				change_first_name = name_Qhored
+			}
+			1 = {
+				change_first_name = name_Quellon
+			}
+			1 = {
+				change_first_name = name_Quenton
+			}
+			1 = {	
+				change_first_name = name_Qhorwyn
+			}
+			1 = {	
+				change_first_name = name_Qhorin
+			}
+			1 = {	
+				change_first_name = name_Ragnor
+			}
+			1 = {
+				change_first_name = name_Ralf
+			}
+			1 = {
+				change_first_name = name_Rance
+			}
+			1 = {
+				change_first_name = name_Ragnal
+			}
+			1 = {
+				change_first_name = name_Robin
+			}
+			1 = {
+				change_first_name = name_Rodrik
+			}
+			1 = {
+				change_first_name = name_Roggon
+			}
+			1 = {
+				change_first_name = name_Rolfe
+			}
+			1 = {
+				change_first_name = name_Romny
+			}
+			1 = {	
+				change_first_name = name_Rook
+			}
+			1 = {
+				change_first_name = name_Roryn
+			}
+			1 = {
+				change_first_name = name_Rus
+			}
+			1 = {
+				change_first_name = name_Rymolf
+			}
+			1 = {
+				change_first_name = name_Rognar
+			}
+			1 = {
+				change_first_name = name_Ravos
+			}
+			1 = {
+				change_first_name = name_Regnar
+			}
+			1 = {
+				change_first_name = name_Sargon
+			}
+			1 = {
+				change_first_name = name_Sawane
+			}
+			1 = {
+				change_first_name = name_Sigfry
+			}
+			1 = {
+				change_first_name = name_Sigfryd
+			}
+			1 = {
+				change_first_name = name_Sigrin
+			}
+			1 = {
+				change_first_name = name_Skyte
+			}
+			1 = {
+				change_first_name = name_Steffar
+			}
+			1 = {
+				change_first_name = name_Steffarion
+			}
+			1 = {
+				change_first_name = name_Stygg
+			}
+			1 = {
+				change_first_name = name_Sylas
+			}
+			1 = {
+				change_first_name = name_Symond
+			}
+			1 = {
+				change_first_name = name_Tarle
+			}
+			1 = {
+				change_first_name = name_Theomore
+			}
+			1 = {
+				change_first_name = name_Theon
+			}
+			1 = {
+				change_first_name = name_Thormor
+			}
+			1 = {
+				change_first_name = name_Todric
+			}
+			1 = {
+				change_first_name = name_Toke
+			}
+			1 = {
+				change_first_name = name_Tom
+			}
+			1 = {
+				change_first_name = name_Torbund
+			}
+			1 = {
+				change_first_name = name_Toron
+			}
+			1 = {
+				change_first_name = name_Torgon
+			}
+			1 = {
+				change_first_name = name_Torwold
+			}
+			1 = {	
+				change_first_name = name_Tristifer
+			}
+			1 = {	
+				change_first_name = name_Triston
+			}
+			1 = {	
+				change_first_name = name_Tymor
+			}
+			1 = {	
+				change_first_name = name_Torwyn
+			}
+			1 = {	
+				change_first_name = name_Ulf
+			}
+			1 = {	
+				change_first_name = name_Uller
+			}
+			1 = {	
+				change_first_name = name_Urek
+			}
+			1 = {	
+				change_first_name = name_Urragon
+			}
+			1 = {	
+				change_first_name = name_Urras
+			}
+			1 = {	
+				change_first_name = name_Urrigon
+			}
+			1 = {	
+				change_first_name = name_Urron
+			}
+			1 = {	
+				change_first_name = name_Urzen
+			}
+			1 = {	
+				change_first_name = name_Urrathon
+			}
+			1 = {	
+				change_first_name = name_Vickon
+			}
+			1 = {	
+				change_first_name = name_Victarion
+			}
+			1 = {	
+				change_first_name = name_Veron
+			}
+			1 = {
+				change_first_name = name_Waldon
+			}
+			1 = {
+				change_first_name = name_Werlag
+			}
+			1 = {
+				change_first_name = name_Wex
+			}
+			1 = {
+				change_first_name = name_Will
+			}
+			1 = {
+				change_first_name = name_Wulfe
+			}
+			1 = {
+				change_first_name = name_Wulfgar
+			}
+			1 = {
+				change_first_name = name_Ygon
+			}
+			1 = {
+				change_first_name = name_Yohn
+			}
+		}
+	}
+	else = {
+		limit = {
+			NOT = { house = house:house_KenningK }
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Agmuna
+			}
+			1 = {
+				change_first_name = name_Agnis
+			}
+			1 = {	
+				change_first_name = name_Alannys
+			}
+			1 = {
+				change_first_name = name_Aly
+			}
+			1 = {
+				change_first_name = name_Ana
+			}
+			1 = {
+				change_first_name = name_Asa
+			}
+			1 = {
+				change_first_name = name_Asgrima
+			}
+			1 = {
+				change_first_name = name_Asha
+			}
+			1 = {
+				change_first_name = name_Asharra
+			}
+			1 = {
+				change_first_name = name_Arana
+			}
+			1 = {
+				change_first_name = name_Arsa
+			}
+			1 = {
+				change_first_name = name_Arwyn
+			}
+			1 = {
+				change_first_name = name_Arya
+			}
+			1 = {
+				change_first_name = name_Barbrey
+			}
+			1 = {
+				change_first_name = name_Barana
+			}
+			1 = {
+				change_first_name = name_Barrya
+			}
+			1 = {
+				change_first_name = name_Barsa
+			}
+			1 = {
+				change_first_name = name_Beinerra
+			}
+			1 = {
+				change_first_name = name_Beony
+			}
+			1 = {
+				change_first_name = name_Bhurta
+			}
+			1 = {
+				change_first_name = name_Brella
+			}
+			1 = {
+				change_first_name = name_Cromma
+			}
+			1 = {
+				change_first_name = name_Cholvi
+			}
+			1 = {
+				change_first_name = name_Corah
+			}
+			1 = {
+				change_first_name = name_Ceyri
+			}
+			1 = {
+				change_first_name = name_Dags
+			}
+			1 = {
+				change_first_name = name_Dorna
+			}
+			1 = {
+				change_first_name = name_Eddara
+			}
+			1 = {
+				change_first_name = name_Efla
+			}
+			1 = {
+				change_first_name = name_Ela
+			}
+			1 = {
+				change_first_name = name_Erana
+			}
+			1 = {
+				change_first_name = name_Ernmunda
+			}
+			1 = {
+				change_first_name = name_Errika
+			}
+			1 = {
+				change_first_name = name_Errya
+			}
+			1 = {
+				change_first_name = name_Ersa
+			}
+			1 = {
+				change_first_name = name_Esgred
+			}
+			1 = {
+				change_first_name = name_Falia
+			}
+			1 = {
+				change_first_name = name_Falyse
+			}
+			1 = {
+				change_first_name = name_Farra
+			}
+			1 = {
+				change_first_name = name_Ferny
+			}
+			1 = {
+				change_first_name = name_Frenya
+			}
+			1 = {
+				change_first_name = name_Frynne
+			}
+			1 = {
+				change_first_name = name_Gella
+			}
+			1 = {
+				change_first_name = name_Gerika
+			}
+			1 = {
+				change_first_name = name_Ghaela
+			}
+			1 = {
+				change_first_name = name_Ghauda
+			}
+			1 = {
+				change_first_name = name_Ghulmi
+			}
+			1 = {
+				change_first_name = name_Gretchel
+			}
+			1 = {
+				change_first_name = name_Gremma
+			}
+			1 = {
+				change_first_name = name_Gritha
+			}
+			1 = {
+				change_first_name = name_Grisel
+			}
+			1 = {
+				change_first_name = name_Grisella
+			}
+			1 = {
+				change_first_name = name_Gwin
+			}
+			1 = {
+				change_first_name = name_Gwynesse
+			}
+			1 = {
+				change_first_name = name_Gwyneth
+			}
+			1 = {
+				change_first_name = name_Gysella
+			}
+			1 = {
+				change_first_name = name_Hagnaeh
+			}
+			1 = {	
+				change_first_name = name_Harma
+			}
+			1 = {	
+				change_first_name = name_Harra
+			}
+			1 = {
+				change_first_name = name_Hegga
+			}
+			1 = {
+				change_first_name = name_Helgarda
+			}
+			1 = {
+				change_first_name = name_Helya
+			}
+			1 = {
+				change_first_name = name_Herrika
+			}
+			1 = {
+				change_first_name = name_Irica
+			}
+			1 = {
+				change_first_name = name_Jeyne
+			}
+			1 = {
+				change_first_name = name_Jhena
+			}
+			1 = {
+				change_first_name = name_Jolfa
+			}
+			1 = {
+				change_first_name = name_Johsi
+			}
+			1 = {
+				change_first_name = name_Jomara
+			}
+			1 = {
+				change_first_name = name_Jonella
+			}
+			1 = {
+				change_first_name = name_Jonna
+			}
+			1 = {	
+				change_first_name = name_Jonnela
+			}
+			1 = {	
+				change_first_name = name_Jorelle
+			}
+			1 = {
+				change_first_name = name_Kella
+			}
+			1 = {
+				change_first_name = name_Larya
+			}
+			1 = {
+				change_first_name = name_Larsa
+			}
+			1 = {
+				change_first_name = name_Larana
+			}
+			1 = {
+				change_first_name = name_Laransa
+			}
+			1 = {
+				change_first_name = name_Lyssa
+			}
+			1 = {
+				change_first_name = name_Lil
+			}
+			1 = {
+				change_first_name = name_Mabs
+			}
+			1 = {	
+				change_first_name = name_Malora
+			}
+			1 = {
+				change_first_name = name_Margadra
+			}
+			1 = {	
+				change_first_name = name_Margot
+			}
+			1 = {	
+				change_first_name = name_Megga
+			}
+			1 = {	
+				change_first_name = name_Meredyth
+			}
+			1 = {	
+				change_first_name = name_Mhaegan
+			}
+			1 = {	
+				change_first_name = name_Mhaegen
+			}
+			1 = {
+				change_first_name = name_Millga
+			}
+			1 = {	
+				change_first_name = name_Moelle
+			}
+			1 = {	
+				change_first_name = name_Morna
+			}
+			1 = {	
+				change_first_name = name_Munda
+			}
+			1 = {	
+				change_first_name = name_Myrielle
+			}
+			1 = {
+				change_first_name = name_Narrya
+			}
+			1 = {
+				change_first_name = name_Narrsa
+			}
+			1 = {
+				change_first_name = name_Narrana
+			}
+			1 = {
+				change_first_name = name_Noshi
+			}
+			1 = {
+				change_first_name = name_Nanna
+			}
+			1 = {
+				change_first_name = name_Orrsa
+			}
+			1 = {
+				change_first_name = name_Orrana
+			}
+			1 = {
+				change_first_name = name_Orya
+			}
+			1 = {
+				change_first_name = name_Oshara
+			}
+			1 = {
+				change_first_name = name_Ora
+			}
+			1 = {
+				change_first_name = name_Olma
+			}
+			1 = {
+				change_first_name = name_Raddera
+			}
+			1 = {
+				change_first_name = name_Ransa
+			}
+			1 = {
+				change_first_name = name_Raly
+			}
+			1 = {	
+				change_first_name = name_Ravella
+			}
+			1 = {
+				change_first_name = name_Rhonda
+			}
+			1 = {
+				change_first_name = name_Riga
+			}
+			1 = {
+				change_first_name = name_Roelle
+			}
+			1 = {
+				change_first_name = name_Rokah
+			}
+			1 = {
+				change_first_name = name_Ryella
+			}
+			1 = {
+				change_first_name = name_Ryka
+			}
+			1 = {
+				change_first_name = name_Ryloka
+			}
+			1 = {
+				change_first_name = name_Selyse
+			}
+			1 = {
+				change_first_name = name_Shierle
+			}
+			1 = {
+				change_first_name = name_Skati
+			}
+			1 = {
+				change_first_name = name_Skeyga
+			}
+			1 = {
+				change_first_name = name_Skoni
+			}
+			1 = {
+				change_first_name = name_Snela
+			}
+			1 = {
+				change_first_name = name_Syri
+			}
+			1 = {
+				change_first_name = name_Suna
+			}
+			1 = {
+				change_first_name = name_Soyni
+			}
+			1 = {
+				change_first_name = name_Syansa
+			}
+			1 = {
+				change_first_name = name_Syga
+			}
+			1 = {
+				change_first_name = name_Syganna
+			}
+			1 = {
+				change_first_name = name_Sygara
+			}
+			1 = {
+				change_first_name = name_Sygarda
+			}
+			1 = {
+				change_first_name = name_Talla
+			}
+			1 = {
+				change_first_name = name_Toraka
+			}
+			1 = {
+				change_first_name = name_Tyosa
+			}
+			1 = {
+				change_first_name = name_Tekkeda
+			}
+			1 = {
+				change_first_name = name_Tarya
+			}
+			1 = {
+				change_first_name = name_Tansa
+			}
+			1 = {
+				change_first_name = name_Thalvi
+			}
+			1 = {
+				change_first_name = name_Thoki
+			}
+			1 = {
+				change_first_name = name_Thesa
+			}
+			1 = {
+				change_first_name = name_Tralmi
+			}
+			1 = {
+				change_first_name = name_Trabi
+			}
+			1 = {
+				change_first_name = name_Turri
+			}
+			1 = {
+				change_first_name = name_Ulfara
+			}
+			1 = {
+				change_first_name = name_Utmara
+			}
+			1 = {
+				change_first_name = name_Valy
+			}
+			1 = {
+				change_first_name = name_Varana
+			}
+			1 = {	
+				change_first_name = name_Victaria
+			}
+			1 = {
+				change_first_name = name_Wynafrei
+			}
+			1 = {
+				change_first_name = name_Wynafryd
+			}
+			1 = {
+				change_first_name = name_Yara
+			}
+			1 = {
+				change_first_name = name_Yasha
+			}
+			1 = {
+				change_first_name = name_Ynys
+			}
+			1 = {
+				change_first_name = name_Ysilla
+			}
+			1 = {
+				change_first_name = name_Zansa
+			}
+			1 = {
+				change_first_name = name_Zosha
+			}
+			1 = {
+				change_first_name = name_Zia
+			}
+		}
+	}
+}
+
+valeman_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Adrian
+			}
+			1 = {	
+				change_first_name = name_Allard
+			}
+			1 = {	
+				change_first_name = name_Albar
+			}
+			1 = {
+				change_first_name = name_Alec
+			}
+			1 = {	
+				change_first_name = name_Alester
+			}
+			1 = {	
+				change_first_name = name_Almyn
+			}
+			1 = {	
+				change_first_name = name_Alyn
+			}
+			1 = {	
+				change_first_name = name_Andar
+			}
+			1 = {	
+				change_first_name = name_Andrew
+			}
+			1 = {	
+				change_first_name = name_Arlan
+			}
+			1 = {	
+				change_first_name = name_Arlon
+			}
+			1 = {	
+				change_first_name = name_Armond
+			}
+			1 = {	
+				change_first_name = name_Arnel
+			}
+			1 = {
+				change_first_name = name_Arnold
+			}
+			1 = {	
+				change_first_name = name_Arran
+			}
+			1 = {	
+				change_first_name = name_Artys
+			}
+			1 = {	
+				change_first_name = name_Banor
+			}
+			1 = {	
+				change_first_name = name_Benedar
+			}
+			1 = {	
+				change_first_name = name_Benedict
+			}
+			1 = {	
+				change_first_name = name_Benfrey
+			}
+			1 = {	
+				change_first_name = name_Beomar
+			}
+			1 = {	
+				change_first_name = name_Bryan
+			}
+			1 = {	
+				change_first_name = name_Bryen
+			}
+			1 = {	
+				change_first_name = name_Bryon
+			}
+			1 = {	
+				change_first_name = name_Colin
+			}
+			1 = {	
+				change_first_name = name_Conrad
+			}
+			1 = {	
+				change_first_name = name_Cortnay
+			}
+			1 = {	
+				change_first_name = name_Corwyn
+			}
+			1 = {
+				change_first_name = name_Creighton
+			}
+			1 = {	
+				change_first_name = name_Damon
+			}
+			1 = {	
+				change_first_name = name_Darnold
+			}
+			1 = {	
+				change_first_name = name_Dennard
+			}
+			1 = {	
+				change_first_name = name_Dermett
+			}
+			1 = {	
+				change_first_name = name_Desmond
+			}
+			1 = {	
+				change_first_name = name_Denys
+			}
+			1 = {	
+				change_first_name = name_Donnel
+			}
+			1 = {	
+				change_first_name = name_Dunstan
+			}
+			1 = {	
+				change_first_name = name_Eddison
+			}
+			1 = {	
+				change_first_name = name_Edmore
+			}
+			1 = {	
+				change_first_name = name_Edmund
+			}
+			1 = {	
+				change_first_name = name_Edryn
+			}
+			1 = {	
+				change_first_name = name_Elbert
+			}
+			1 = {
+				change_first_name = name_Elbyn
+			}
+			1 = {	
+				change_first_name = name_Eldred
+			}
+			1 = {	
+				change_first_name = name_Eldric
+			}
+			1 = {
+				change_first_name = name_Elron
+			}
+			1 = {
+				change_first_name = name_Elwood
+			}
+			1 = {	
+				change_first_name = name_Elys
+			}
+			1 = {	
+				change_first_name = name_Endrew
+			}
+			1 = {	
+				change_first_name = name_Eon
+			}
+			1 = {	
+				change_first_name = name_Eustace
+			}
+			1 = {	
+				change_first_name = name_Gawen
+			}
+			1 = {	
+				change_first_name = name_Gerold
+			}
+			1 = {	
+				change_first_name = name_Gilwood
+			}
+			1 = {	
+				change_first_name = name_Guncer
+			}
+			1 = {	
+				change_first_name = name_Gunthor
+			}
+			1 = {	
+				change_first_name = name_Gwayne
+			}
+			1 = {	
+				change_first_name = name_Gyles
+			}
+			1 = {	
+				change_first_name = name_Harlan
+			}
+			1 = {	
+				change_first_name = name_Harrold
+			}
+			1 = {	
+				change_first_name = name_Horton
+			}
+			1 = {
+				change_first_name = name_Hubert
+			}
+			1 = {
+				change_first_name = name_Hugh
+			}
+			1 = {
+				change_first_name = name_Hugo
+			}
+			1 = {	
+				change_first_name = name_Humfrey
+			}
+			1 = {	
+				change_first_name = name_Isembard
+			}
+			1 = {
+				change_first_name = name_Kennard
+			}
+			1 = {	
+				change_first_name = name_Kyle
+			}
+			1 = {	
+				change_first_name = name_Luceon
+			}
+			1 = {	
+				change_first_name = name_Jaime
+			}
+			1 = {	
+				change_first_name = name_Jasper
+			}
+			1 = {	
+				change_first_name = name_Jaymar
+			}
+			1 = {	
+				change_first_name = name_Jaymond
+			}
+			1 = {	
+				change_first_name = name_Joffrey
+			}
+			1 = {	
+				change_first_name = name_Jon
+			}
+			1 = {	
+				change_first_name = name_Jonos
+			}
+			1 = {	
+				change_first_name = name_Jorence
+			}
+			1 = {	
+				change_first_name = name_Josten
+			}
+			1 = {	
+				change_first_name = name_Leowyn
+			}
+			1 = {	
+				change_first_name = name_Lucas
+			}
+			1 = {	
+				change_first_name = name_Lucos
+			}
+			1 = {	
+				change_first_name = name_Lymond
+			}
+			1 = {	
+				change_first_name = name_Lyn
+			}
+			1 = {
+				change_first_name = name_Lyonel
+			}
+			1 = {	
+				change_first_name = name_Maladon
+			}
+			1 = {	
+				change_first_name = name_Mandon
+			}
+			1 = {	
+				change_first_name = name_Marq
+			}
+			1 = {	
+				change_first_name = name_Marwyn
+			}
+			1 = {	
+				change_first_name = name_Mathos
+			}
+			1 = {
+				change_first_name = name_Merton
+			}
+			1 = {	
+				change_first_name = name_Morton
+			}
+			1 = {	
+				change_first_name = name_Mychel
+			}
+			1 = {	
+				change_first_name = name_Nestor
+			}
+			1 = {	
+				change_first_name = name_Ober
+			}
+			1 = {	
+				change_first_name = name_Olwyn
+			}
+			1 = {	
+				change_first_name = name_Orson
+			}
+			1 = {	
+				change_first_name = name_Orton
+			}
+			1 = {	
+				change_first_name = name_Osric
+			}
+			1 = {	
+				change_first_name = name_Osgood
+			}
+			1 = {
+				change_first_name = name_Osmund
+			}
+			1 = {	
+				change_first_name = name_Ossifer
+			}
+			1 = {	
+				change_first_name = name_Oswell
+			}
+			1 = {	
+				change_first_name = name_Oswin
+			}
+			1 = {	
+				change_first_name = name_Otho
+			}
+			1 = {
+				change_first_name = name_Owen
+			}
+			1 = {	
+				change_first_name = name_Pearse
+			}
+			1 = {
+				change_first_name = name_Peron
+			}
+			1 = {
+				change_first_name = name_Petyr
+			}
+			1 = {	
+				change_first_name = name_Qarl
+			}
+			1 = {	
+				change_first_name = name_Quenton
+			}
+			1 = {	
+				change_first_name = name_Qyle
+			}
+			1 = {	
+				change_first_name = name_Randyll
+			}
+			1 = {	
+				change_first_name = name_Raymar
+			}
+			1 = {	
+				change_first_name = name_Renly
+			}
+			1 = {	
+				change_first_name = name_Robar
+			}
+			1 = {	
+				change_first_name = name_Robert
+			}
+			1 = {	
+				change_first_name = name_Robin
+			}
+			1 = {	
+				change_first_name = name_Rodrik
+			}
+			1 = {
+				change_first_name = name_Roland
+			}
+			1 = {
+				change_first_name = name_Ronnel
+			}
+			1 = {	
+				change_first_name = name_Rymond
+			}
+			1 = {	
+				change_first_name = name_Samwell
+			}
+			1 = {	
+				change_first_name = name_Symond
+			}
+			1 = {	
+				change_first_name = name_Terrance
+			}
+			1 = {	
+				change_first_name = name_Triston
+			}
+			1 = {	
+				change_first_name = name_Uther
+			}
+			1 = {	
+				change_first_name = name_Uthor
+			}
+			1 = {	
+				change_first_name = name_Vardis
+			}
+			1 = {	
+				change_first_name = name_Victor
+			}
+			1 = {	
+				change_first_name = name_Wallace
+			}
+			1 = {	
+				change_first_name = name_Waltyr
+			}
+			1 = {	
+				change_first_name = name_Waymar
+			}
+			1 = {	
+				change_first_name = name_Willam
+			}
+			1 = {	
+				change_first_name = name_Wyllem
+			}
+			1 = {	
+				change_first_name = name_Yohn
+			}
+			1 = {	
+				change_first_name = name_Yorbert
+			}
+			1 = {	
+				change_first_name = name_Yorwyck
+			}
+		}
+	}
+	else = {
+		random_list = {
+			1 = {
+				change_first_name = name_Aemma
+			}
+			1 = {
+				change_first_name = name_Alanna
+			}
+			1 = {	
+				change_first_name = name_Alayne
+			}
+			1 = {
+				change_first_name = name_Alianne
+			}
+			1 = {
+				change_first_name = name_Alina
+			}
+			1 = {
+				change_first_name = name_Allana
+			}
+			1 = {
+				change_first_name = name_Allyne
+			}
+			1 = {	
+				change_first_name = name_Alora
+			}
+			1 = {
+				change_first_name = name_Alys
+			}
+			1 = {
+				change_first_name = name_Alyssa
+			}
+			1 = {
+				change_first_name = name_Amanda
+			}
+			1 = {	
+				change_first_name = name_Anya
+			}
+			1 = {
+				change_first_name = name_Arelle
+			}
+			1 = {	
+				change_first_name = name_Arwen
+			}
+			1 = {
+				change_first_name = name_Aryse
+			}
+			1 = {
+				change_first_name = name_Bellara
+			}
+			1 = {
+				change_first_name = name_Beriona
+			}
+			1 = {
+				change_first_name = name_Berra
+			}
+			1 = {	
+				change_first_name = name_Brianne
+			}
+			1 = {
+				change_first_name = name_Cariah
+			}
+			1 = {	
+				change_first_name = name_Carina
+			}
+			1 = {
+				change_first_name = name_Carissa
+			}
+			1 = {
+				change_first_name = name_Carolei
+			}
+			1 = {
+				change_first_name = name_Cersei
+			}
+			1 = {
+				change_first_name = name_Cynthea
+			}
+			1 = {
+				change_first_name = name_Damana
+			}
+			1 = {	
+				change_first_name = name_Dandia
+			}
+			1 = {
+				change_first_name = name_Deana
+			}
+			1 = {
+				change_first_name = name_Della
+			}
+			1 = {
+				change_first_name = name_Demerei
+			}
+			1 = {
+				change_first_name = name_Eddyne
+			}
+			1 = {
+				change_first_name = name_Edmera
+			}
+			1 = {
+				change_first_name = name_Edmyne
+			}
+			1 = {
+				change_first_name = name_Edrise
+			}
+			1 = {
+				change_first_name = name_Elanei
+			}
+			1 = {	
+				change_first_name = name_Eldrane
+			}
+			1 = {	
+				change_first_name = name_Elene
+			}
+			1 = {	
+				change_first_name = name_Elesa
+			}
+			1 = {
+				change_first_name = name_Elina
+			}
+			1 = {	
+				change_first_name = name_Ellyn
+			}
+			1 = {	
+				change_first_name = name_Elyra
+			}
+			1 = {	
+				change_first_name = name_Falora
+			}
+			1 = {
+				change_first_name = name_Fiona
+			}
+			1 = {
+				change_first_name = name_Grenna
+			}
+			1 = {
+				change_first_name = name_Gwenda
+			}
+			1 = {
+				change_first_name = name_Gwenna
+			}
+			1 = {
+				change_first_name = name_Idona
+			}
+			1 = {	
+				change_first_name = name_Isabel
+			}
+			1 = {
+				change_first_name = name_Jacene
+			}
+			1 = {
+				change_first_name = name_Janyce
+			}
+			1 = {	
+				change_first_name = name_Janyra
+			}
+			1 = {	
+				change_first_name = name_Jennis
+			}
+			1 = {	
+				change_first_name = name_Jessamyn
+			}
+			1 = {	
+				change_first_name = name_Jeyne
+			}
+			1 = {	
+				change_first_name = name_Jyana
+			}
+			1 = {	
+				change_first_name = name_Kalyra
+			}
+			1 = {
+				change_first_name = name_Karella
+			}
+			1 = {	
+				change_first_name = name_Karene
+			}
+			1 = {	
+				change_first_name = name_Kelarra
+			}
+			1 = {
+				change_first_name = name_Kerelle
+			}
+			1 = {
+				change_first_name = name_Lanalla
+			}
+			1 = {	
+				change_first_name = name_Leonella
+			}
+			1 = {
+				change_first_name = name_Liona
+			}
+			1 = {
+				change_first_name = name_Lorra
+			}
+			1 = {	
+				change_first_name = name_Lyorena
+			}
+			1 = {
+				change_first_name = name_Lyseria
+			}
+			1 = {
+				change_first_name = name_Mara
+			}
+			1 = {
+				change_first_name = name_Marelle
+			}
+			1 = {
+				change_first_name = name_Marissa
+			}
+			1 = {	
+				change_first_name = name_Marsella
+			}
+			1 = {
+				change_first_name = name_Mena
+			}
+			1 = {	
+				change_first_name = name_Moryssa
+			}
+			1 = {	
+				change_first_name = name_Mya
+			}
+			1 = {
+				change_first_name = name_Mynalla
+			}
+			1 = {
+				change_first_name = name_Myranda
+			}
+			1 = {
+				change_first_name = name_Nynia
+			}
+			1 = {
+				change_first_name = name_Obyra
+			}
+			1 = {
+				change_first_name = name_Olana
+			}
+			1 = {
+				change_first_name = name_Oryne
+			}
+			1 = {
+				change_first_name = name_Osmerei
+			}
+			1 = {
+				change_first_name = name_Parella
+			}
+			1 = {	
+				change_first_name = name_Parra
+			}
+			1 = {
+				change_first_name = name_Perianne
+			}
+			1 = {	
+				change_first_name = name_Perra
+			}
+			1 = {	
+				change_first_name = name_Polianne
+			}
+			1 = {	
+				change_first_name = name_Qyrene
+			}
+			1 = {	
+				change_first_name = name_Rhea
+			}
+			1 = {	
+				change_first_name = name_Rolessa
+			}
+			1 = {
+				change_first_name = name_Ronella
+			}
+			1 = {	
+				change_first_name = name_Rowena
+			}
+			1 = {	
+				change_first_name = name_Ryella
+			}
+			1 = {	
+				change_first_name = name_Salanne
+			}
+			1 = {	
+				change_first_name = name_Sanora
+			}
+			1 = {
+				change_first_name = name_Sharei
+			}
+			1 = {
+				change_first_name = name_Sharra
+			}
+			1 = {
+				change_first_name = name_Sherlyse
+			}
+			1 = {
+				change_first_name = name_Sylana
+			}
+			1 = {
+				change_first_name = name_Syrona
+			}
+			1 = {
+				change_first_name = name_Tarissa
+			}
+			1 = {
+				change_first_name = name_Teora
+			}
+			1 = {
+				change_first_name = name_Theona
+			}
+			1 = {
+				change_first_name = name_Ursula
+			}
+			1 = {
+				change_first_name = name_Wylera
+			}
+			1 = {
+				change_first_name = name_Yolanda
+			}
+			1 = {
+				change_first_name = name_Yorena
+			}
+			1 = {
+				change_first_name = name_Ysilla
+			}
+		}
+	}
+}
+
+crownlander_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+			NOT = { dynasty = dynasty:dynn_Velaryon }
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Addam
+			}
+			1 = {	
+				change_first_name = name_Addison
+			}
+			1 = {	
+				change_first_name = name_Adrian
+			}
+			1 = {
+				change_first_name = name_Aegon
+			}
+			1 = {	
+				change_first_name = name_Albin
+			}
+			1 = {	
+				change_first_name = name_Allard
+			}
+			1 = {	
+				change_first_name = name_Alliser
+			}
+			1 = {	
+				change_first_name = name_Alton
+			}
+			1 = {	
+				change_first_name = name_Alyn
+			}
+			1 = {	
+				change_first_name = name_Arthor
+			}
+			1 = {	
+				change_first_name = name_Arryk
+			}
+			1 = {	
+				change_first_name = name_Baelor
+			}
+			1 = {	
+				change_first_name = name_Balman
+			}
+			1 = {
+				change_first_name = name_Balon
+			}
+			1 = {	
+				change_first_name = name_Belard
+			}
+			1 = {	
+				change_first_name = name_Bennard
+			}
+			1 = {	
+				change_first_name = name_Bernarr
+			}
+			1 = {	
+				change_first_name = name_Bolen
+			}
+			1 = {	
+				change_first_name = name_Bonifer
+			}
+			1 = {	
+				change_first_name = name_Boros
+			}
+			1 = {	
+				change_first_name = name_Bryen
+			}
+			1 = {	
+				change_first_name = name_Byron
+			}
+			1 = {	
+				change_first_name = name_Buford
+			}
+			1 = {	
+				change_first_name = name_Clarence
+			}
+			1 = {	
+				change_first_name = name_Clayton
+			}
+			1 = {	
+				change_first_name = name_Clement
+			}
+			1 = {	
+				change_first_name = name_Daeron
+			}
+			1 = {	
+				change_first_name = name_Dale
+			}
+			1 = {
+				change_first_name = name_Damond
+			}
+			1 = {	
+				change_first_name = name_Danos
+			}
+			1 = {	
+				change_first_name = name_Daryn
+			}
+			1 = {	
+				change_first_name = name_Davos
+			}
+			1 = {	
+				change_first_name = name_Denys
+			}
+			1 = {	
+				change_first_name = name_Devan
+			}
+			1 = {	
+				change_first_name = name_Donnel
+			}
+			1 = {	
+				change_first_name = name_Dontos
+			}
+			1 = {	
+				change_first_name = name_Duncan
+			}
+			1 = {	
+				change_first_name = name_Duram
+			}
+			1 = {	
+				change_first_name = name_Durance
+			}
+			1 = {	
+				change_first_name = name_Edric
+			}
+			1 = {	
+				change_first_name = name_Edwyn
+			}
+			1 = {	
+				change_first_name = name_Ellard
+			}
+			1 = {
+				change_first_name = name_Elwood
+			}
+			1 = {	
+				change_first_name = name_Elyas
+			}
+			1 = {	
+				change_first_name = name_Enfren
+			}
+			1 = {
+				change_first_name = name_Erryk
+			}
+			1 = {
+				change_first_name = name_Eustace
+			}
+			1 = {	
+				change_first_name = name_Gilbert
+			}
+			1 = {	
+				change_first_name = name_Godry
+			}
+			1 = {	
+				change_first_name = name_Gormon
+			}
+			1 = {	
+				change_first_name = name_Gregor
+			}
+			1 = {	
+				change_first_name = name_Gwayne
+			}
+			1 = {	
+				change_first_name = name_Gulian
+			}
+			1 = {	
+				change_first_name = name_Guncer
+			}
+			1 = {	
+				change_first_name = name_Gunthor
+			}
+			1 = {	
+				change_first_name = name_Gyles
+			}
+			1 = {	
+				change_first_name = name_Haric
+			}
+			1 = {	
+				change_first_name = name_Harmon
+			}
+			1 = {	
+				change_first_name = name_Harrold
+			}
+			1 = {	
+				change_first_name = name_Harys
+			}
+			1 = {	
+				change_first_name = name_Herman
+			}
+			1 = {
+				change_first_name = name_Holtyn
+			}
+			1 = {
+				change_first_name = name_Howard
+			}
+			1 = {
+				change_first_name = name_Hubard
+			}
+			1 = {	
+				change_first_name = name_Humfrey
+			}
+			1 = {	
+				change_first_name = name_Hyle
+			}
+			1 = {
+				change_first_name = name_Irwen
+			}
+			1 = {	
+				change_first_name = name_Jacelyn
+			}
+			1 = {	
+				change_first_name = name_Jaime
+			}
+			1 = {	
+				change_first_name = name_Janos
+			}
+			1 = {	
+				change_first_name = name_Jaremy
+			}
+			1 = {	
+				change_first_name = name_Jarion
+			}
+			1 = {	
+				change_first_name = name_Jarman
+			}
+			1 = {	
+				change_first_name = name_Jarmon
+			}
+			1 = {	
+				change_first_name = name_Jeomar
+			}
+			1 = {	
+				change_first_name = name_Joffrey
+			}
+			1 = {	
+				change_first_name = name_Jon
+			}
+			1 = {	
+				change_first_name = name_Jothos
+			}
+			1 = {	
+				change_first_name = name_Justin
+			}
+			1 = {	
+				change_first_name = name_Kendel
+			}
+			1 = {	
+				change_first_name = name_Laren
+			}
+			1 = {	
+				change_first_name = name_Lothar
+			}
+			1 = {	
+				change_first_name = name_Lothor
+			}
+			1 = {
+				change_first_name = name_Lucifer
+			}
+			1 = {	
+				change_first_name = name_Lucos
+			}
+			1 = {	
+				change_first_name = name_Luthor
+			}
+			1 = {	
+				change_first_name = name_Mandon
+			}
+			1 = {	
+				change_first_name = name_Manfrey
+			}
+			1 = {	
+				change_first_name = name_Manly
+			}
+			1 = {
+				change_first_name = name_Maric
+			}
+			1 = {	
+				change_first_name = name_Marston
+			}
+			1 = {	
+				change_first_name = name_Mathar
+			}
+			1 = {	
+				change_first_name = name_Matthos
+			}
+			1 = {	
+				change_first_name = name_Merrell
+			}
+			1 = {	
+				change_first_name = name_Morros
+			}
+			1 = {	
+				change_first_name = name_Mortimer
+			}
+			1 = {	
+				change_first_name = name_Olyvar
+			}
+			1 = {	
+				change_first_name = name_Ormory
+			}
+			1 = {	
+				change_first_name = name_Orryn
+			}
+			1 = {
+				change_first_name = name_Osmund
+			}
+			1 = {	
+				change_first_name = name_Osney
+			}
+			1 = {	
+				change_first_name = name_Ossifer
+			}
+			1 = {	
+				change_first_name = name_Oswell
+			}
+			1 = {	
+				change_first_name = name_Owain
+			}
+			1 = {
+				change_first_name = name_Perkin
+			}
+			1 = {	
+				change_first_name = name_Perwyn
+			}
+			1 = {
+				change_first_name = name_Rayford
+			}
+			1 = {
+				change_first_name = name_Raymund
+			}
+			1 = {	
+				change_first_name = name_Renfred
+			}
+			1 = {	
+				change_first_name = name_Rennifer
+			}
+			1 = {	
+				change_first_name = name_Rhaegar
+			}
+			1 = {	
+				change_first_name = name_Richard
+			}
+			1 = {	
+				change_first_name = name_Rickard
+			}
+			1 = {	
+				change_first_name = name_Robert
+			}
+			1 = {	
+				change_first_name = name_Robin
+			}
+			1 = {	
+				change_first_name = name_Roger
+			}
+			1 = {	
+				change_first_name = name_Rolland
+			}
+			1 = {	
+				change_first_name = name_Rupert
+			}
+			1 = {
+				change_first_name = name_Samwell
+			}
+			1 = {
+				change_first_name = name_Sefton
+			}
+			1 = {	
+				change_first_name = name_Simon
+			}
+			1 = {	
+				change_first_name = name_Steffon
+			}
+			1 = {	
+				change_first_name = name_Symon
+			}
+			1 = {	
+				change_first_name = name_Symond
+			}
+			1 = {	
+				change_first_name = name_Tarell
+			}
+			1 = {	
+				change_first_name = name_Tommen
+			}
+			1 = {	
+				change_first_name = name_Trebor
+			}
+			1 = {	
+				change_first_name = name_Triston
+			}
+			1 = {	
+				change_first_name = name_Trystane
+			}
+			1 = {	
+				change_first_name = name_Tywin
+			}
+			1 = {	
+				change_first_name = name_Qarlton
+			}
+			1 = {	
+				change_first_name = name_Quenton
+			}
+			1 = {	
+				change_first_name = name_Viserys
+			}
+			1 = {	
+				change_first_name = name_Wallace
+			}
+			1 = {	
+				change_first_name = name_Whalon
+			}
+			1 = {	
+				change_first_name = name_Willas
+			}
+		}
+	}
+	else = {
+		limit = {
+			NOT = { dynasty = dynasty:dynn_Velaryon }
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Alarra
+			}
+			1 = {
+				change_first_name = name_Alerie
+			}
+			1 = {	
+				change_first_name = name_Alona
+			}
+			1 = {
+				change_first_name = name_Alyce
+			}
+			1 = {
+				change_first_name = name_Alynne
+			}
+			1 = {
+				change_first_name = name_Alys
+			}
+			1 = {
+				change_first_name = name_Alysanne
+			}
+			1 = {	
+				change_first_name = name_Alyssa
+			}
+			1 = {
+				change_first_name = name_Amyana
+			}
+			1 = {
+				change_first_name = name_Annara
+			}
+			1 = {
+				change_first_name = name_Arianne
+			}
+			1 = {	
+				change_first_name = name_Arwyn
+			}
+			1 = {
+				change_first_name = name_Ashaella
+			}
+			1 = {	
+				change_first_name = name_Ashera
+			}
+			1 = {
+				change_first_name = name_Beony
+			}
+			1 = {
+				change_first_name = name_Bethany
+			}
+			1 = {
+				change_first_name = name_Cassana
+			}
+			1 = {
+				change_first_name = name_Cassella
+			}
+			1 = {	
+				change_first_name = name_Catelyn
+			}
+			1 = {
+				change_first_name = name_Cersei
+			}
+			1 = {	
+				change_first_name = name_Colianne
+			}
+			1 = {
+				change_first_name = name_Cynthea
+			}
+			1 = {
+				change_first_name = name_Dorea
+			}
+			1 = {
+				change_first_name = name_Doryssa
+			}
+			1 = {
+				change_first_name = name_Elenora
+			}
+			1 = {
+				change_first_name = name_Ella
+			}
+			1 = {	
+				change_first_name = name_Elleria
+			}
+			1 = {
+				change_first_name = name_Elinda
+			}
+			1 = {
+				change_first_name = name_Elinor
+			}
+			1 = {
+				change_first_name = name_Elrone
+			}
+			1 = {
+				change_first_name = name_Ermesande
+			}
+			1 = {
+				change_first_name = name_Falena
+			}
+			1 = {
+				change_first_name = name_Falyse
+			}
+			1 = {
+				change_first_name = name_Hazel
+			}
+			1 = {
+				change_first_name = name_Hemona
+			}
+			1 = {	
+				change_first_name = name_Hollyse
+			}
+			1 = {	
+				change_first_name = name_Idane
+			}
+			1 = {	
+				change_first_name = name_Ismyra
+			}
+			1 = {
+				change_first_name = name_Jalona
+			}
+			1 = {	
+				change_first_name = name_Janei
+			}
+			1 = {	
+				change_first_name = name_Janora
+			}
+			1 = {	
+				change_first_name = name_Jarella
+			}
+			1 = {
+				change_first_name = name_Jendella
+			}
+			1 = {
+				change_first_name = name_Jenette
+			}
+			1 = {
+				change_first_name = name_Jenna
+			}
+			1 = {
+				change_first_name = name_Jennei
+			}
+			1 = {
+				change_first_name = name_Jeyne
+			}
+			1 = {	
+				change_first_name = name_Joanna
+			}
+			1 = {
+				change_first_name = name_Jocelyn
+			}
+			1 = {
+				change_first_name = name_Jomylla
+			}
+			1 = {	
+				change_first_name = name_Jonquil
+			}
+			1 = {	
+				change_first_name = name_Larra
+			}
+			1 = {	
+				change_first_name = name_Lenylla
+			}
+			1 = {	
+				change_first_name = name_Leria
+			}
+			1 = {	
+				change_first_name = name_Lollys
+			}
+			1 = {	
+				change_first_name = name_Lyra
+			}
+			1 = {
+				change_first_name = name_Lysa
+			}
+			1 = {	
+				change_first_name = name_Maegelle
+			}
+			1 = {	
+				change_first_name = name_Maia
+			}
+			1 = {
+				change_first_name = name_Margaery
+			}
+			1 = {
+				change_first_name = name_Marya
+			}
+			1 = {	
+				change_first_name = name_Melianne
+			}
+			1 = {
+				change_first_name = name_Mella
+			}
+			1 = {
+				change_first_name = name_Meredyth
+			}
+			1 = {	
+				change_first_name = name_Myrcella
+			}
+			1 = {
+				change_first_name = name_Myrielle
+			}
+			1 = {
+				change_first_name = name_Nella
+			}
+			1 = {
+				change_first_name = name_Obany
+			}
+			1 = {
+				change_first_name = name_Olenna
+			}
+			1 = {	
+				change_first_name = name_Olianne
+			}
+			1 = {
+				change_first_name = name_Onna
+			}
+			1 = {	
+				change_first_name = name_Oreyne
+			}
+			1 = {	
+				change_first_name = name_Oriya
+			}
+			1 = {
+				change_first_name = name_Pella
+			}
+			1 = {
+				change_first_name = name_Pennei
+			}
+			1 = {
+				change_first_name = name_Priscella
+			}
+			1 = {
+				change_first_name = name_Raella
+			}
+			1 = {
+				change_first_name = name_Roncianne
+			}
+			1 = {
+				change_first_name = name_Rosamund
+			}
+			1 = {
+				change_first_name = name_Roslin
+			}
+			1 = {
+				change_first_name = name_Salanna
+			}
+			1 = {	
+				change_first_name = name_Sallei
+			}
+			1 = {
+				change_first_name = name_Samantha
+			}
+			1 = {	
+				change_first_name = name_Saranella
+			}
+			1 = {	
+				change_first_name = name_Saryanna
+			}
+			1 = {	
+				change_first_name = name_Selyse
+			}
+			1 = {	
+				change_first_name = name_Semella
+			}
+			1 = {	
+				change_first_name = name_Shaella
+			}
+			1 = {
+				change_first_name = name_Sherion
+			}
+			1 = {	
+				change_first_name = name_Shireen
+			}
+			1 = {	
+				change_first_name = name_Shirei
+			}
+			1 = {	
+				change_first_name = name_Syrianne
+			}
+			1 = {	
+				change_first_name = name_Tanda
+			}
+			1 = {
+				change_first_name = name_Tarianne
+			}
+			1 = {
+				change_first_name = name_Tysane
+			}
+			1 = {
+				change_first_name = name_Tyta
+			}
+			1 = {
+				change_first_name = name_Wella
+			}
+			1 = {
+				change_first_name = name_Ysabel
+			}
+		}
+	}
+}
+
+westerman_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+			NOT = { house = house:house_Kenning }
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Addam
+			}
+			1 = {
+				change_first_name = name_Addison
+			}
+			1 = {
+				change_first_name = name_Adrian
+			}
+			1 = {
+				change_first_name = name_Alan
+			}
+			1 = {	
+				change_first_name = name_Alastor
+			}
+			1 = {
+				change_first_name = name_Alester
+			}
+			1 = {
+				change_first_name = name_Alfred
+			}
+			1 = {
+				change_first_name = name_Alton
+			}
+			1 = {
+				change_first_name = name_Alyn
+			}
+			1 = {
+				change_first_name = name_Amory
+			}
+			1 = {
+				change_first_name = name_Andros
+			}
+			1 = {
+				change_first_name = name_Androw
+			}
+			1 = {
+				change_first_name = name_Antario
+			}
+			1 = {
+				change_first_name = name_Arron
+			}
+			1 = {
+				change_first_name = name_Aubrey
+			}
+			1 = {
+				change_first_name = name_Benedict
+			}
+			1 = {
+				change_first_name = name_Bertram
+			}
+			1 = {
+				change_first_name = name_Bertrand
+			}
+			1 = {
+				change_first_name = name_Burton
+			}
+			1 = {
+				change_first_name = name_Caspor
+			}
+			1 = {
+				change_first_name = name_Cedric
+			}
+			1 = {
+				change_first_name = name_Cerion
+			}
+			1 = {
+				change_first_name = name_Clarent
+			}
+			1 = {
+				change_first_name = name_Cleos
+			}
+			1 = {
+				change_first_name = name_Damion
+			}
+			1 = {
+				change_first_name = name_Damon
+			}
+			1 = {
+				change_first_name = name_Daven
+			}
+			1 = {
+				change_first_name = name_Dennis
+			}
+			1 = {
+				change_first_name = name_Desmond
+			}
+			1 = {
+				change_first_name = name_Denys
+			}
+			1 = {
+				change_first_name = name_Derrick
+			}
+			1 = {
+				change_first_name = name_Donnel
+			}
+			1 = {
+				change_first_name = name_Edwell
+			}
+			1 = {
+				change_first_name = name_Eldon
+			}
+			1 = {
+				change_first_name = name_Eldrick
+			}
+			1 = {
+				change_first_name = name_Elmer
+			}
+			1 = {
+				change_first_name = name_Elys
+			}
+			1 = {
+				change_first_name = name_Emory
+			}
+			1 = {
+				change_first_name = name_Emrick
+			}
+			1 = {
+				change_first_name = name_Erren
+			}
+			1 = {
+				change_first_name = name_Erwin
+			}
+			1 = {
+				change_first_name = name_Ethan
+			}
+			1 = {
+				change_first_name = name_Flement
+			}
+			1 = {
+				change_first_name = name_Forley
+			}
+			1 = {
+				change_first_name = name_Franklyn
+			}
+			1 = {
+				change_first_name = name_Gareth
+			}
+			1 = {
+				change_first_name = name_Garrison
+			}
+			1 = {
+				change_first_name = name_Garth
+			}
+			1 = {
+				change_first_name = name_Gawen
+			}
+			1 = {
+				change_first_name = name_Geremy
+			}
+			1 = {
+				change_first_name = name_Gerion
+			}
+			1 = {
+				change_first_name = name_Gerold
+			}
+			1 = {
+				change_first_name = name_Gregor
+			}
+			1 = {
+				change_first_name = name_Harrold
+			}
+			1 = {
+				change_first_name = name_Harwyn
+			}
+			1 = {
+				change_first_name = name_Harys
+			}
+			1 = {
+				change_first_name = name_Herrock
+			}
+			1 = {
+				change_first_name = name_Horton
+			}
+			1 = {
+				change_first_name = name_Horys
+			}
+			1 = {
+				change_first_name = name_Hugh
+			}
+			1 = {
+				change_first_name = name_Humfrey
+			}
+			1 = {
+				change_first_name = name_Ilyn
+			}
+			1 = {
+				change_first_name = name_Jaime
+			}
+			1 = {
+				change_first_name = name_Jason
+			}
+			1 = {
+				change_first_name = name_Joffrey
+			}
+			1 = {
+				change_first_name = name_Jon
+			}
+			1 = {
+				change_first_name = name_Jonos
+			}
+			1 = {
+				change_first_name = name_Josmyn
+			}
+			1 = {
+				change_first_name = name_Kennet
+			}
+			1 = {
+				change_first_name = name_Kevan
+			}
+			1 = {
+				change_first_name = name_Lambert
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Lancel
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Lann
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 25
+				}
+				change_first_name = name_Leo
+			}
+			1 = {
+				change_first_name = name_Leslyn
+			}
+			1 = {
+				change_first_name = name_Lester
+			}
+			1 = {
+				change_first_name = name_Lewis
+			}
+			1 = {
+				change_first_name = name_Lewys
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Loren
+			}
+			1 = {
+				change_first_name = name_Lorent
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Loreon
+			}
+			1 = {
+				change_first_name = name_Lucion
+			}
+			1 = {	
+				change_first_name = name_Lyle
+			}
+			1 = {	
+				change_first_name = name_Lyman
+			}
+			1 = {
+				change_first_name = name_Lymond
+			}
+			1 = {
+				change_first_name = name_Lyndon
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 30
+				}
+				change_first_name = name_Lyonel
+			}
+			1 = {
+				change_first_name = name_Manfryd
+			}
+			1 = {
+				change_first_name = name_Marq
+			}
+			1 = {
+				change_first_name = name_Martyn
+			}
+			1 = {
+				change_first_name = name_Maynard
+			}
+			1 = {
+				change_first_name = name_Melwyn
+			}
+			1 = {	
+				change_first_name = name_Merlon
+			}
+			1 = {
+				change_first_name = name_Mern
+			}
+			1 = {
+				change_first_name = name_Myles
+			}
+			1 = {	
+				change_first_name = name_Norwin
+			}
+			1 = {
+				change_first_name = name_Orbert
+			}
+			1 = {
+				change_first_name = name_Ormond
+			}
+			1 = {
+				change_first_name = name_Osbert
+			}
+			1 = {
+				change_first_name = name_Ossifer
+			}
+			1 = {
+				change_first_name = name_Othell
+			}
+			1 = {
+				change_first_name = name_Peter
+			}
+			1 = {
+				change_first_name = name_Petyr
+			}
+			1 = {
+				change_first_name = name_Philip
+			}
+			1 = {
+				change_first_name = name_Podrick
+			}
+			1 = {
+				change_first_name = name_Preston
+			}
+			1 = {	
+				change_first_name = name_Quenten
+			}
+			1 = {
+				change_first_name = name_Raynald
+			}
+			1 = {
+				change_first_name = name_Raynard
+			}
+			1 = {	
+				change_first_name = name_Regenard
+			}
+			1 = {	
+				change_first_name = name_Reginald
+			}
+			1 = {	
+				change_first_name = name_Reynard
+			}
+			1 = {	
+				change_first_name = name_Richard
+			}
+			1 = {
+				change_first_name = name_Robb
+			}
+			1 = {
+				change_first_name = name_Robert
+			}
+			1 = {
+				change_first_name = name_Robin
+			}
+			1 = {	
+				change_first_name = name_Roger
+			}
+			1 = {
+				change_first_name = name_Rolland
+			}
+			1 = {
+				change_first_name = name_Rolph
+			}
+			1 = {
+				change_first_name = name_Rupert
+			}
+			1 = {
+				change_first_name = name_Samwell
+			}
+			1 = {
+				change_first_name = name_Sandor
+			}
+			1 = {
+				change_first_name = name_Selmond
+			}
+			1 = {
+				change_first_name = name_Stafford
+			}
+			1 = {	
+				change_first_name = name_Steffon
+			}
+			1 = {
+				change_first_name = name_Sumner
+			}
+			1 = {
+				change_first_name = name_Symond
+			}
+			1 = {
+				change_first_name = name_Terrence
+			}
+			1 = {
+				change_first_name = name_Theomore
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Tion
+			}
+			1 = {	
+				change_first_name = name_Tommard
+			}
+			1 = {	
+				change_first_name = name_Tommen
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Tybolt
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Tygett
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Tyland
+			}
+			1 = {
+				change_first_name = name_Tyler
+			}
+			1 = {
+				change_first_name = name_Tymond
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 25
+				}
+				change_first_name = name_Tyrek
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Tyrion
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 50
+				}
+				change_first_name = name_Tytos
+			}
+			1 = {
+				change_first_name = name_Tywald
+			}
+			1 = {
+				modifier = {
+					house = house:house_Lannister
+					add = 30
+				}
+				change_first_name = name_Tywell
+			}
+			1 = {
+				change_first_name = name_Tywin
+			}
+			1 = {	
+				change_first_name = name_Uthor
+			}
+			1 = {
+				change_first_name = name_Victor
+			}
+			1 = {	
+				change_first_name = name_Viserys
+			}
+			1 = {
+				change_first_name = name_Walder
+			}
+			1 = {
+				change_first_name = name_Walderan
+			}
+			1 = {
+				change_first_name = name_Wendel
+			}
+			1 = {	
+				change_first_name = name_Willam
+			}
+			1 = {
+				change_first_name = name_Willem
+			}
+		}
+	}
+	else = {
+		limit = {
+			NOT = { house = house:house_Kenning }
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Aleyne
+			}
+			1 = {
+				change_first_name = name_Alys
+			}
+			1 = {
+				change_first_name = name_Alysandra
+			}
+			1 = {
+				change_first_name = name_Alysanne
+			}
+			1 = {
+				change_first_name = name_Amarei
+			}
+			1 = {
+				change_first_name = name_Amarya
+			}
+			1 = {
+				change_first_name = name_Amella
+			}
+			1 = {
+				change_first_name = name_Arnessa
+			}
+			1 = {
+				change_first_name = name_Benera
+			}
+			1 = {
+				change_first_name = name_Bryssa
+			}
+			1 = {
+				change_first_name = name_Calynne
+			}
+			1 = {
+				change_first_name = name_Celessa
+			}
+			1 = {
+				change_first_name = name_Celyria
+			}
+			1 = {
+				change_first_name = name_Cenlia
+			}
+			1 = {
+				change_first_name = name_Cerelle
+			}
+			1 = {
+				change_first_name = name_Cerenna
+			}
+			1 = {
+				change_first_name = name_Cerissa
+			}
+			1 = {
+				change_first_name = name_Cersei
+			}
+			1 = {
+				change_first_name = name_Cindria
+			}
+			1 = {
+				change_first_name = name_Corianne
+			}
+			1 = {
+				change_first_name = name_Cynda
+			}
+			1 = {
+				change_first_name = name_Cyralei
+			}
+			1 = {
+				change_first_name = name_Damia
+			}
+			1 = {
+				change_first_name = name_Damylla
+			}
+			1 = {
+				change_first_name = name_Darlessa
+			}
+			1 = {
+				change_first_name = name_Delena
+			}
+			1 = {
+				change_first_name = name_Dolessa
+			}
+			1 = {
+				change_first_name = name_Domella
+			}
+			1 = {
+				change_first_name = name_Dorene
+			}
+			1 = {
+				change_first_name = name_Dorna
+			}
+			1 = {
+				change_first_name = name_Edella
+			}
+			1 = {
+				change_first_name = name_Edrina
+			}
+			1 = {
+				change_first_name = name_Elanna
+			}
+			1 = {
+				change_first_name = name_Elene
+			}
+			1 = {
+				change_first_name = name_Elenna
+			}
+			1 = {	
+				change_first_name = name_Elessa
+			}
+			1 = {	
+				change_first_name = name_Eleyna
+			}
+			1 = {	
+				change_first_name = name_Elinor
+			}
+			1 = {
+				change_first_name = name_Elissa
+			}
+			1 = {	
+				change_first_name = name_Ella
+			}
+			1 = {	
+				change_first_name = name_Elle
+			}
+			1 = {	
+				change_first_name = name_Ellyn
+			}
+			1 = {
+				change_first_name = name_Elona
+			}
+			1 = {
+				change_first_name = name_Elyne
+			}
+			1 = {
+				change_first_name = name_Erena
+			}
+			1 = {
+				change_first_name = name_Falyse
+			}
+			1 = {
+				change_first_name = name_Farena
+			}
+			1 = {	
+				change_first_name = name_Fiona
+			}
+			1 = {
+				change_first_name = name_Genna
+			}
+			1 = {
+				change_first_name = name_Gisella
+			}
+			1 = {	
+				change_first_name = name_Hamina
+			}
+			1 = {	
+				change_first_name = name_Jamylla
+			}
+			1 = {	
+				change_first_name = name_Janei
+			}
+			1 = {	
+				change_first_name = name_Jeyne
+			}
+			1 = {	
+				change_first_name = name_Joanna
+			}
+			1 = {	
+				change_first_name = name_Jocasta
+			}
+			1 = {
+				change_first_name = name_Jocelyn
+			}
+			1 = {	
+				change_first_name = name_Johanna
+			}
+			1 = {	
+				change_first_name = name_Jorelle
+			}
+			1 = {
+				change_first_name = name_Joy
+			}
+			1 = {
+				change_first_name = name_Kellyn
+			}
+			1 = {	
+				change_first_name = name_Lanna
+			}
+			1 = {
+				change_first_name = name_Lelia
+			}
+			1 = {
+				change_first_name = name_Leomella
+			}
+			1 = {	
+				change_first_name = name_Leona
+			}
+			1 = {
+				change_first_name = name_Leonella
+			}
+			1 = {
+				change_first_name = name_Lucinda
+			}
+			1 = {
+				change_first_name = name_Lyene
+			}
+			1 = {
+				change_first_name = name_Lynora
+			}
+			1 = {	
+				change_first_name = name_Lysa
+			}
+			1 = {
+				change_first_name = name_Malanna
+			}
+			1 = {	
+				change_first_name = name_Malanne
+			}
+			1 = {	
+				change_first_name = name_Manysa
+			}
+			1 = {
+				change_first_name = name_Marla
+			}
+			1 = {
+				change_first_name = name_Margot
+			}
+			1 = {
+				change_first_name = name_Melara
+			}
+			1 = {
+				change_first_name = name_Melesa
+			}
+			1 = {
+				change_first_name = name_Melissa
+			}
+			1 = {
+				change_first_name = name_Mendre
+			}
+			1 = {
+				change_first_name = name_Milerra
+			}
+			1 = {
+				change_first_name = name_Molianne
+			}
+			1 = {	
+				change_first_name = name_Moranne
+			}
+			1 = {
+				change_first_name = name_Mylana
+			}
+			1 = {	
+				change_first_name = name_Myranda
+			}
+			1 = {	
+				change_first_name = name_Myrcella
+			}
+			1 = {	
+				change_first_name = name_Myrielle
+			}
+			1 = {	
+				change_first_name = name_Nesella
+			}
+			1 = {	
+				change_first_name = name_Olenei
+			}
+			1 = {
+				change_first_name = name_Orena
+			}
+			1 = {	
+				change_first_name = name_Parena
+			}
+			1 = {	
+				change_first_name = name_Philena
+			}
+			1 = {	
+				change_first_name = name_Renna
+			}
+			1 = {	
+				change_first_name = name_Rohanne
+			}
+			1 = {
+				change_first_name = name_Rosalind
+			}
+			1 = {
+				change_first_name = name_Rosamund
+			}
+			1 = {
+				change_first_name = name_Ryalla
+			}
+			1 = {
+				change_first_name = name_Rylene
+			}
+			1 = {
+				change_first_name = name_Rylenna
+			}
+			1 = {
+				change_first_name = name_Ryone
+			}
+			1 = {
+				change_first_name = name_Samalla
+			}
+			1 = {
+				change_first_name = name_Serylla
+			}
+			1 = {
+				change_first_name = name_Sharra
+			}
+			1 = {
+				change_first_name = name_Sherei
+			}
+			1 = {
+				change_first_name = name_Shiera
+			}
+			1 = {
+				change_first_name = name_Shierle
+			}
+			1 = {
+				change_first_name = name_Sybell
+			}
+			1 = {
+				change_first_name = name_Tamena
+			}
+			1 = {
+				change_first_name = name_Tarina
+			}
+			1 = {
+				change_first_name = name_Teora
+			}
+			1 = {
+				change_first_name = name_Teressa
+			}
+			1 = {
+				change_first_name = name_Tya
+			}
+			1 = {
+				change_first_name = name_Tyrianne
+			}
+			1 = {
+				change_first_name = name_Tyshara
+			}
+			1 = {
+				change_first_name = name_Tysha
+			}
+		}
+	}
+}
+
+reachman_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Abelar
+			}
+			1 = {	
+				change_first_name = name_Addam
+			}
+			1 = {	
+				change_first_name = name_Aemon
+			}
+			1 = {
+				change_first_name = name_Agramore
+			}
+			1 = {	
+				change_first_name = name_Aladore
+			}
+			1 = {	
+				change_first_name = name_Alan
+			}
+			1 = {	
+				change_first_name = name_Alekyne
+			}
+			1 = {	
+				change_first_name = name_Alester
+			}
+			1 = {	
+				change_first_name = name_Alyn
+			}
+			1 = {	
+				change_first_name = name_Amaury
+			}
+			1 = {	
+				change_first_name = name_Androw
+			}
+			1 = {	
+				change_first_name = name_Armen
+			}
+			1 = {
+				change_first_name = name_Armond
+			}
+			1 = {	
+				change_first_name = name_Arthor
+			}
+			1 = {	
+				change_first_name = name_Arthur
+			}
+			1 = {	
+				change_first_name = name_Arys
+			}
+			1 = {	
+				change_first_name = name_Aubrey
+			}
+			1 = {	
+				change_first_name = name_Axell
+			}
+			1 = {	
+				change_first_name = name_Barquen
+			}
+			1 = {	
+				change_first_name = name_Bayard
+			}
+			1 = {	
+				change_first_name = name_Bernard
+			}
+			1 = {	
+				change_first_name = name_Bertram
+			}
+			1 = {	
+				change_first_name = name_Bertrand
+			}
+			1 = {	
+				change_first_name = name_Branston
+			}
+			1 = {	
+				change_first_name = name_Braxton
+			}
+			1 = {	
+				change_first_name = name_Bryan
+			}
+			1 = {	
+				change_first_name = name_Bryndon
+			}
+			1 = {
+				change_first_name = name_Buford
+			}
+			1 = {	
+				change_first_name = name_Byren
+			}
+			1 = {	
+				change_first_name = name_Clement
+			}
+			1 = {	
+				change_first_name = name_Cleyton
+			}
+			1 = {	
+				change_first_name = name_Clifford
+			}
+			1 = {	
+				change_first_name = name_Colin
+			}
+			1 = {	
+				change_first_name = name_Damon
+			}
+			1 = {	
+				change_first_name = name_Denys
+			}
+			1 = {	
+				change_first_name = name_Derrick
+			}
+			1 = {	
+				change_first_name = name_Desmond
+			}
+			1 = {	
+				change_first_name = name_Dickon
+			}
+			1 = {	
+				change_first_name = name_Donald
+			}
+			1 = {	
+				change_first_name = name_Donnel
+			}
+			1 = {	
+				change_first_name = name_Eddison
+			}
+			1 = {
+				change_first_name = name_Eden
+			}
+			1 = {	
+				change_first_name = name_Edgar
+			}
+			1 = {	
+				change_first_name = name_Edgerran
+			}
+			1 = {
+				change_first_name = name_Edmund
+			}
+			1 = {
+				change_first_name = name_Edwyd
+			}
+			1 = {	
+				change_first_name = name_Edwyn
+			}
+			1 = {	
+				change_first_name = name_Ellard
+			}
+			1 = {	
+				change_first_name = name_Elwood
+			}
+			1 = {	
+				change_first_name = name_Elyas
+			}
+			1 = {	
+				change_first_name = name_Emerick
+			}
+			1 = {	
+				change_first_name = name_Emmon
+			}
+			1 = {	
+				change_first_name = name_Erren
+			}
+			1 = {	
+				change_first_name = name_Estyn
+			}
+			1 = {	
+				change_first_name = name_Eustace
+			}
+			1 = {	
+				change_first_name = name_Franklyn
+			}
+			1 = {
+				modifier = {
+					house = house:house_Gardener
+					add = 35
+				}
+				change_first_name = name_Gareth
+			}
+			1 = {	
+				change_first_name = name_Garlan
+			}
+			1 = {
+				modifier = {
+					house = house:house_Gardener
+					add = 35
+				}
+				change_first_name = name_Garland
+			}
+			1 = {	
+				change_first_name = name_Garmon
+			}
+			1 = {	
+				change_first_name = name_Garmund
+			}
+			1 = {
+				change_first_name = name_Garrett
+			}
+			1 = {
+				modifier = {
+					house = house:house_Gardener
+					add = 40
+				}
+				change_first_name = name_Garse
+			}
+			1 = {
+				modifier = {
+					house = house:house_Gardener
+					add = 50
+				}
+				change_first_name = name_Garth
+			}
+			1 = {	
+				change_first_name = name_Gawen
+			}
+			1 = {	
+				change_first_name = name_Gedmund
+			}
+			1 = {
+				change_first_name = name_George
+			}
+			1 = {	
+				change_first_name = name_Gerold
+			}
+			1 = {	
+				change_first_name = name_Glendon
+			}
+			1 = {	
+				change_first_name = name_Gormon
+			}
+			1 = {
+				modifier = {
+					house = house:house_Gardener
+					add = 20
+				}
+				change_first_name = name_Greydon
+			}
+			1 = {
+				modifier = {
+					house = house:house_Gardener
+					add = 20
+				}
+				change_first_name = name_Gwayne
+			}
+			1 = {
+				change_first_name = name_Gunthor
+			}
+			1 = {
+				change_first_name = name_Guthor
+			}
+			1 = {
+				modifier = {
+					house = house:house_Gardener
+					add = 45
+				}
+				change_first_name = name_Gyles
+			}
+			1 = {	
+				change_first_name = name_Harlan
+			}
+			1 = {	
+				change_first_name = name_Harrold
+			}
+			1 = {	
+				change_first_name = name_Harys
+			}
+			1 = {
+				change_first_name = name_Hobber
+			}
+			1 = {	
+				change_first_name = name_Hobert
+			}
+			1 = {
+				change_first_name = name_Horas
+			}
+			1 = {	
+				change_first_name = name_Hosman
+			}
+			1 = {	
+				change_first_name = name_Hugh
+			}
+			1 = {	
+				change_first_name = name_Humfrey
+			}
+			1 = {
+				change_first_name = name_Hyle
+			}
+			1 = {	
+				change_first_name = name_Igon
+			}
+			1 = {
+				change_first_name = name_Imry
+			}
+			1 = {	
+				change_first_name = name_Jafer
+			}
+			1 = {	
+				change_first_name = name_Jaime
+			}
+			1 = {	
+				change_first_name = name_Jason
+			}
+			1 = {
+				change_first_name = name_Jeffory
+			}
+			1 = {	
+				change_first_name = name_Jeremy
+			}
+			1 = {	
+				change_first_name = name_Joffrey
+			}
+			1 = {	
+				change_first_name = name_John
+			}
+			1 = {	
+				change_first_name = name_Jon
+			}
+			1 = {	
+				change_first_name = name_Jorgen
+			}
+			1 = {	
+				change_first_name = name_Josua
+			}
+			1 = {	
+				change_first_name = name_Laswell
+			}
+			1 = {
+				modifier = {
+					house = house:house_Tyrell
+					add = 30
+				}
+				change_first_name = name_Leo
+			}
+			1 = {	
+				change_first_name = name_Leyton
+			}
+			1 = {
+				modifier = {
+					house = house:house_Tyrell
+					add = 30
+				}
+				change_first_name = name_Loras
+			}
+			1 = {	
+				change_first_name = name_Lorence
+			}
+			1 = {	
+				change_first_name = name_Lorent
+			}
+			1 = {	
+				change_first_name = name_Lorimar
+			}
+			1 = {	
+				change_first_name = name_Lucantine
+			}
+			1 = {
+				change_first_name = name_Lucas
+			}
+			1 = {
+				modifier = {
+					house = house:house_Tyrell
+					add = 30
+				}
+				change_first_name = name_Luthor
+			}
+			1 = {
+				change_first_name = name_Lyman
+			}
+			1 = {
+				change_first_name = name_Lymond
+			}
+			1 = {	
+				change_first_name = name_Lyonel
+			}
+			1 = {
+				modifier = {
+					house = house:house_Tyrell
+					add = 15
+				}
+				change_first_name = name_Mace
+			}
+			1 = {	
+				change_first_name = name_Manfred
+			}
+			1 = {	
+				change_first_name = name_Manfryd
+			}
+			1 = {	
+				change_first_name = name_Marq
+			}
+			1 = {	
+				change_first_name = name_Martyn
+			}
+			1 = {	
+				change_first_name = name_Mathis
+			}
+			1 = {	
+				change_first_name = name_Mattheus
+			}
+			1 = {	
+				change_first_name = name_Matthos
+			}
+			1 = {	
+				change_first_name = name_Medwick
+			}
+			1 = {
+				modifier = {
+					house = house:house_Gardener
+					add = 50
+				}
+				change_first_name = name_Mern
+			}
+			1 = {
+				change_first_name = name_Merrell
+			}
+			1 = {	
+				change_first_name = name_Mervyn
+			}
+			1 = {	
+				change_first_name = name_Meryn
+			}
+			1 = {	
+				change_first_name = name_Morgan
+			}
+			1 = {	
+				change_first_name = name_Morgil
+			}
+			1 = {	
+				change_first_name = name_Moribald
+			}
+			1 = {	
+				change_first_name = name_Moryn
+			}
+			1 = {	
+				change_first_name = name_Myles
+			}
+			1 = {	
+				change_first_name = name_Nicol
+			}
+			1 = {
+				change_first_name = name_Norman
+			}
+			1 = {	
+				change_first_name = name_Normund
+			}
+			1 = {	
+				change_first_name = name_Nyles
+			}
+			1 = {
+				change_first_name = name_Olymer
+			}
+			1 = {
+				change_first_name = name_Olyvar
+			}
+			1 = {
+				change_first_name = name_Omer
+			}
+			1 = {	
+				change_first_name = name_Orbert
+			}
+			1 = {	
+				change_first_name = name_Ormond
+			}
+			1 = {
+				change_first_name = name_Ormund
+			}
+			1 = {
+				change_first_name = name_Orton
+			}
+			1 = {
+				change_first_name = name_Osbert
+			}
+			1 = {	
+				change_first_name = name_Osmund
+			}
+			1 = {
+				change_first_name = name_Otho
+			}
+			1 = {
+				change_first_name = name_Otto
+			}
+			1 = {	
+				change_first_name = name_Ottyn
+			}
+			1 = {	
+				change_first_name = name_Owen
+			}
+			1 = {	
+				change_first_name = name_Parmen
+			}
+			1 = {	
+				change_first_name = name_Paxter
+			}
+			1 = {	
+				change_first_name = name_Perwyn
+			}
+			1 = {	
+				change_first_name = name_Portifer
+			}
+			1 = {	
+				change_first_name = name_Pykewood
+			}
+			1 = {	
+				change_first_name = name_Randyll
+			}
+			1 = {	
+				change_first_name = name_Raymun
+			}
+			1 = {	
+				change_first_name = name_Raymund
+			}
+			1 = {	
+				change_first_name = name_Renly
+			}
+			1 = {	
+				change_first_name = name_Reynard
+			}
+			1 = {	
+				change_first_name = name_Richard
+			}
+			1 = {	
+				change_first_name = name_Rickard
+			}
+			1 = {	
+				change_first_name = name_Robert
+			}
+			1 = {	
+				change_first_name = name_Robyn
+			}
+			1 = {	
+				change_first_name = name_Rolland
+			}
+			1 = {	
+				change_first_name = name_Runceford
+			}
+			1 = {	
+				change_first_name = name_Runcel
+			}
+			1 = {	
+				change_first_name = name_Russell
+			}
+			1 = {	
+				change_first_name = name_Ryam
+			}
+			1 = {	
+				change_first_name = name_Rycherd
+			}
+			1 = {	
+				change_first_name = name_Samwell
+			}
+			1 = {	
+				change_first_name = name_Samwyle
+			}
+			1 = {	
+				change_first_name = name_Simon
+			}
+			1 = {	
+				change_first_name = name_Steffon
+			}
+			1 = {	
+				change_first_name = name_Quentin
+			}
+			1 = {	
+				change_first_name = name_Quenton
+			}
+			1 = {	
+				change_first_name = name_Quentyn
+			}
+			1 = {	
+				change_first_name = name_Talbert
+			}
+			1 = {	
+				change_first_name = name_Tanton
+			}
+			1 = {	
+				change_first_name = name_Thaddeus
+			}
+			1 = {	
+				change_first_name = name_Theo
+			}
+			1 = {	
+				change_first_name = name_Theodore
+			}
+			1 = {	
+				change_first_name = name_Theomore
+			}
+			1 = {	
+				change_first_name = name_Titus
+			}
+			1 = {	
+				change_first_name = name_Tommen
+			}
+			1 = {	
+				change_first_name = name_Torgen
+			}
+			1 = {	
+				change_first_name = name_Torman
+			}
+			1 = {	
+				change_first_name = name_Triston
+			}
+			1 = {	
+				change_first_name = name_Tyler
+			}
+			1 = {	
+				change_first_name = name_Unwin
+			}
+			1 = {	
+				change_first_name = name_Urrathon
+			}
+			1 = {	
+				change_first_name = name_Urrigon
+			}
+			1 = {	
+				change_first_name = name_Uther
+			}
+			1 = {	
+				change_first_name = name_Uthor
+			}
+			1 = {	
+				change_first_name = name_Victor
+			}
+			1 = {	
+				change_first_name = name_Vortimer
+			}
+			1 = {	
+				change_first_name = name_Walys
+			}
+			1 = {	
+				change_first_name = name_Warryn
+			}
+			1 = {	
+				change_first_name = name_Wendell
+			}
+			1 = {	
+				change_first_name = name_Wilbert
+			}
+			1 = {	
+				change_first_name = name_Willam
+			}
+			1 = {	
+				change_first_name = name_Willas
+			}
+			1 = {	
+				change_first_name = name_Wyman
+			}
+		}
+	}
+	else = {
+		random_list = {
+			1 = {
+				change_first_name = name_Alena
+			}
+			1 = {
+				change_first_name = name_Alera
+			}
+			1 = {	
+				change_first_name = name_Alera
+			}
+			1 = {
+				change_first_name = name_Aleyne
+			}
+			1 = {
+				change_first_name = name_Alla
+			}
+			1 = {
+				change_first_name = name_Allene
+			}
+			1 = {
+				change_first_name = name_Alicent
+			}
+			1 = {	
+				change_first_name = name_Alinor
+			}
+			1 = {
+				change_first_name = name_Alyce
+			}
+			1 = {
+				change_first_name = name_Alys
+			}
+			1 = {
+				change_first_name = name_Alysanne
+			}
+			1 = {	
+				change_first_name = name_Ameria
+			}
+			1 = {
+				change_first_name = name_Amyria
+			}
+			1 = {	
+				change_first_name = name_Annet
+			}
+			1 = {
+				change_first_name = name_Annys
+			}
+			1 = {
+				change_first_name = name_Arana
+			}
+			1 = {
+				change_first_name = name_Arrene
+			}
+			1 = {
+				change_first_name = name_Arwyn
+			}
+			1 = {	
+				change_first_name = name_Asta
+			}
+			1 = {
+				change_first_name = name_Beliona
+			}
+			1 = {	
+				change_first_name = name_Beony
+			}
+			1 = {
+				change_first_name = name_Bera
+			}
+			1 = {
+				change_first_name = name_Bethany
+			}
+			1 = {
+				change_first_name = name_Bressa
+			}
+			1 = {
+				change_first_name = name_Calla
+			}
+			1 = {
+				change_first_name = name_Carellen
+			}
+			1 = {	
+				change_first_name = name_Celessa
+			}
+			1 = {
+				change_first_name = name_Cella
+			}
+			1 = {
+				change_first_name = name_Cerenna
+			}
+			1 = {
+				change_first_name = name_Ceryse
+			}
+			1 = {
+				change_first_name = name_Clarice
+			}
+			1 = {
+				change_first_name = name_Dalla
+			}
+			1 = {
+				change_first_name = name_Delena
+			}
+			1 = {
+				change_first_name = name_Delina
+			}
+			1 = {
+				change_first_name = name_Denyse
+			}
+			1 = {	
+				change_first_name = name_Desmera
+			}
+			1 = {	
+				change_first_name = name_Elara
+			}
+			1 = {	
+				change_first_name = name_Eldara
+			}
+			1 = {
+				change_first_name = name_Eldene
+			}
+			1 = {	
+				change_first_name = name_Eldrene
+			}
+			1 = {	
+				change_first_name = name_Elia
+			}
+			1 = {	
+				change_first_name = name_Elinor
+			}
+			1 = {
+				change_first_name = name_Elissa
+			}
+			1 = {
+				change_first_name = name_Ella
+			}
+			1 = {
+				change_first_name = name_Elorra
+			}
+			1 = {
+				change_first_name = name_Elsabeth
+			}
+			1 = {
+				change_first_name = name_Elvyra
+			}
+			1 = {	
+				change_first_name = name_Elwene
+			}
+			1 = {
+				change_first_name = name_Elyn
+			}
+			1 = {
+				change_first_name = name_Elyse
+			}
+			1 = {	
+				change_first_name = name_Enna
+			}
+			1 = {	
+				change_first_name = name_Erayna
+			}
+			1 = {	
+				change_first_name = name_Falia
+			}
+			1 = {	
+				change_first_name = name_Florence
+			}
+			1 = {	
+				change_first_name = name_Galissa
+			}
+			1 = {	
+				change_first_name = name_Gelenna
+			}
+			1 = {
+				change_first_name = name_Helicent
+			}
+			1 = {	
+				change_first_name = name_Jancia
+			}
+			1 = {	
+				change_first_name = name_Janna
+			}
+			1 = {
+				change_first_name = name_Janyra
+			}
+			1 = {
+				change_first_name = name_Jayne
+			}
+			1 = {	
+				change_first_name = name_Jeona
+			}
+			1 = {
+				change_first_name = name_Jeyne
+			}
+			1 = {
+				change_first_name = name_Jomylla
+			}
+			1 = {	
+				change_first_name = name_Jorella
+			}
+			1 = {
+				change_first_name = name_Josella
+			}
+			1 = {
+				change_first_name = name_Kalianne
+			}
+			1 = {
+				change_first_name = name_Keleria
+			}
+			1 = {
+				change_first_name = name_Kenella
+			}
+			1 = {	
+				change_first_name = name_Lanette
+			}
+			1 = {
+				change_first_name = name_Lerra
+			}
+			1 = {	
+				change_first_name = name_Leyla
+			}
+			1 = {	
+				change_first_name = name_Lia
+			}
+			1 = {
+				change_first_name = name_Liera
+			}
+			1 = {
+				change_first_name = name_Lena
+			}
+			1 = {
+				change_first_name = name_Leona
+			}
+			1 = {
+				change_first_name = name_Leonette
+			}
+			1 = {
+				change_first_name = name_Lerra
+			}
+			1 = {
+				change_first_name = name_Lorianne
+			}
+			1 = {
+				change_first_name = name_Lyessa
+			}
+			1 = {
+				change_first_name = name_Lynesse
+			}
+			1 = {	
+				change_first_name = name_Lynett
+			}
+			1 = {
+				change_first_name = name_Lyrissa
+			}
+			1 = {	
+				change_first_name = name_Lysa
+			}
+			1 = {	
+				change_first_name = name_Malyssa
+			}
+			1 = {	
+				change_first_name = name_Marella
+			}
+			1 = {	
+				change_first_name = name_Margaery
+			}
+			1 = {	
+				change_first_name = name_Maris
+			}
+			1 = {
+				change_first_name = name_Megga
+			}
+			1 = {	
+				change_first_name = name_Melara
+			}
+			1 = {	
+				change_first_name = name_Melessa
+			}
+			1 = {	
+				change_first_name = name_Melina
+			}
+			1 = {	
+				change_first_name = name_Mellei
+			}
+			1 = {
+				change_first_name = name_Meredyth
+			}
+			1 = {
+				change_first_name = name_Merissa
+			}
+			1 = {
+				change_first_name = name_Mesella
+			}
+			1 = {
+				change_first_name = name_Mina
+			}
+			1 = {
+				change_first_name = name_Myleria
+			}
+			1 = {
+				change_first_name = name_Mylessa
+			}
+			1 = {
+				change_first_name = name_Myria
+			}
+			1 = {
+				change_first_name = name_Myrielle
+			}
+			1 = {
+				change_first_name = name_Nella
+			}
+			1 = {
+				change_first_name = name_Nemony
+			}
+			1 = {
+				change_first_name = name_Nyrise
+			}
+			1 = {
+				change_first_name = name_Olanne
+			}
+			1 = {
+				change_first_name = name_Olene
+			}
+			1 = {
+				change_first_name = name_Olenna
+			}
+			1 = {
+				change_first_name = name_Oraney
+			}
+			1 = {
+				change_first_name = name_Ottyria
+			}
+			1 = {
+				change_first_name = name_Patrice
+			}
+			1 = {
+				change_first_name = name_Patricia
+			}
+			1 = {
+				change_first_name = name_Rhea
+			}
+			1 = {
+				change_first_name = name_Rhonda
+			}
+			1 = {
+				change_first_name = name_Rohanne
+			}
+			1 = {
+				change_first_name = name_Rosalei
+			}
+			1 = {
+				change_first_name = name_Rosamund
+			}
+			1 = {
+				change_first_name = name_Roslin
+			}
+			1 = {
+				change_first_name = name_Rylene
+			}
+			1 = {
+				change_first_name = name_Rylla
+			}
+			1 = {
+				change_first_name = name_Rymella
+			}
+			1 = {
+				change_first_name = name_Salene
+			}
+			1 = {
+				change_first_name = name_Samantha
+			}
+			1 = {
+				change_first_name = name_Sansara
+			}
+			1 = {
+				change_first_name = name_Selyse
+			}
+			1 = {
+				change_first_name = name_Sharis
+			}
+			1 = {
+				change_first_name = name_Sheralla
+			}
+			1 = {
+				change_first_name = name_Syldia
+			}
+			1 = {
+				change_first_name = name_Sylvina
+			}
+			1 = {
+				change_first_name = name_Taena
+			}
+			1 = {
+				change_first_name = name_Talla
+			}
+			1 = {
+				change_first_name = name_Tanera
+			}
+			1 = {
+				change_first_name = name_Tenda
+			}
+			1 = {
+				change_first_name = name_Tylarra
+			}
+			1 = {
+				change_first_name = name_Vanera
+			}
+			1 = {
+				change_first_name = name_Victaria
+			}
+			1 = {
+				change_first_name = name_Wynella
+			}
+			1 = {
+				change_first_name = name_Yrma
+			}
+		}
+	}
+}
+
+stormlander_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Addam
+			}
+			1 = {	
+				change_first_name = name_Alesander
+			}
+			1 = {	
+				change_first_name = name_Allard
+			}
+			1 = {
+				change_first_name = name_Allos
+			}
+			1 = {	
+				change_first_name = name_Aladore
+			}
+			1 = {	
+				change_first_name = name_Anders
+			}
+			1 = {	
+				change_first_name = name_Andren
+			}
+			1 = {	
+				change_first_name = name_Andrew
+			}
+			1 = {	
+				change_first_name = name_Andrion
+			}
+			1 = {	
+				change_first_name = name_Argilac
+			}
+			1 = {	
+				change_first_name = name_Arion
+			}
+			1 = {	
+				change_first_name = name_Arlan
+			}
+			1 = {
+				change_first_name = name_Armond
+			}
+			1 = {	
+				change_first_name = name_Arrec
+			}
+			1 = {	
+				change_first_name = name_Arstan
+			}
+			1 = {	
+				change_first_name = name_Arthur
+			}
+			1 = {	
+				change_first_name = name_Axel
+			}
+			1 = {	
+				change_first_name = name_Baldric
+			}
+			1 = {	
+				change_first_name = name_Balon
+			}
+			1 = {	
+				change_first_name = name_Barristan
+			}
+			1 = {	
+				change_first_name = name_Barron
+			}
+			1 = {	
+				change_first_name = name_Benedict
+			}
+			1 = {	
+				change_first_name = name_Beren
+			}
+			1 = {	
+				change_first_name = name_Beric
+			}
+			1 = {	
+				change_first_name = name_Bonifer
+			}
+			1 = {	
+				change_first_name = name_Boremund
+			}
+			1 = {	
+				change_first_name = name_Borros
+			}
+			1 = {
+				change_first_name = name_Borys
+			}
+			1 = {	
+				change_first_name = name_Brus
+			}
+			1 = {	
+				change_first_name = name_Bryce
+			}
+			1 = {	
+				change_first_name = name_Bryen
+			}
+			1 = {	
+				change_first_name = name_Bryndemere
+			}
+			1 = {	
+				change_first_name = name_Byron
+			}
+			1 = {	
+				change_first_name = name_Cameron
+			}
+			1 = {	
+				change_first_name = name_Casper
+			}
+			1 = {	
+				change_first_name = name_Clement
+			}
+			1 = {	
+				change_first_name = name_Cleoden
+			}
+			1 = {	
+				change_first_name = name_Clifford
+			}
+			1 = {	
+				change_first_name = name_Cortnay
+			}
+			1 = {	
+				change_first_name = name_Corwin
+			}
+			1 = {	
+				change_first_name = name_Criston
+			}
+			1 = {
+				change_first_name = name_Dale
+			}
+			1 = {	
+				change_first_name = name_Damon
+			}
+			1 = {	
+				change_first_name = name_Davos
+			}
+			1 = {
+				change_first_name = name_Denys
+			}
+			1 = {
+				change_first_name = name_Devan
+			}
+			1 = {	
+				change_first_name = name_Dickon
+			}
+			1 = {	
+				change_first_name = name_Donnel
+			}
+			1 = {	
+				change_first_name = name_Doran
+			}
+			1 = {	
+				change_first_name = name_Durran
+			}
+			1 = {	
+				change_first_name = name_Durwald
+			}
+			1 = {	
+				change_first_name = name_Ector
+			}
+			1 = {	
+				change_first_name = name_Edric
+			}
+			1 = {	
+				change_first_name = name_Edwyn
+			}
+			1 = {	
+				change_first_name = name_Eldon
+			}
+			1 = {	
+				change_first_name = name_Elys
+			}
+			1 = {
+				change_first_name = name_Endrew
+			}
+			1 = {	
+				change_first_name = name_Erich
+			}
+			1 = {
+				change_first_name = name_Galladon
+			}
+			1 = {	
+				change_first_name = name_Gallard
+			}
+			1 = {	
+				change_first_name = name_Garon
+			}
+			1 = {
+				change_first_name = name_Garse
+			}
+			1 = {
+				change_first_name = name_Gawen
+			}
+			1 = {
+				change_first_name = name_Gerald
+			}
+			1 = {	
+				change_first_name = name_Gladden
+			}
+			1 = {	
+				change_first_name = name_Glendon
+			}
+			1 = {
+				change_first_name = name_Gowen
+			}
+			1 = {	
+				change_first_name = name_Grance
+			}
+			1 = {	
+				change_first_name = name_Gulian
+			}
+			1 = {	
+				change_first_name = name_Gunthor
+			}
+			1 = {
+				change_first_name = name_Guyard
+			}
+			1 = {
+				change_first_name = name_Gyles
+			}
+			1 = {
+				change_first_name = name_Harbert
+			}
+			1 = {
+				change_first_name = name_Harlan
+			}
+			1 = {
+				change_first_name = name_Harmon
+			}
+			1 = {	
+				change_first_name = name_Harrold
+			}
+			1 = {	
+				change_first_name = name_Harwood
+			}
+			1 = {	
+				change_first_name = name_Harys
+			}
+			1 = {
+				change_first_name = name_Hoster
+			}
+			1 = {	
+				change_first_name = name_Hugh
+			}
+			1 = {
+				change_first_name = name_Humfrey
+			}
+			1 = {	
+				change_first_name = name_Jared
+			}
+			1 = {	
+				change_first_name = name_Jasper
+			}
+			1 = {	
+				change_first_name = name_Jerion
+			}
+			1 = {
+				change_first_name = name_Joffrey
+			}
+			1 = {	
+				change_first_name = name_Jon
+			}
+			1 = {
+				change_first_name = name_Jonald
+			}
+			1 = {	
+				change_first_name = name_Kyle
+			}
+			1 = {	
+				change_first_name = name_Leslyn
+			}
+			1 = {	
+				change_first_name = name_Lester
+			}
+			1 = {
+				change_first_name = name_Lomas
+			}
+			1 = {	
+				change_first_name = name_Lorent
+			}
+			1 = {	
+				change_first_name = name_Luceon
+			}
+			1 = {	
+				change_first_name = name_Lyonel
+			}
+			1 = {	
+				change_first_name = name_Maldon
+			}
+			1 = {	
+				change_first_name = name_Manfred
+			}
+			1 = {	
+				change_first_name = name_Maric
+			}
+			1 = {	
+				change_first_name = name_Marq
+			}
+			1 = {
+				change_first_name = name_Matthos
+			}
+			1 = {	
+				change_first_name = name_Meryn
+			}
+			1 = {
+				change_first_name = name_Michael
+			}
+			1 = {	
+				change_first_name = name_Monfryd
+			}
+			1 = {	
+				change_first_name = name_Morden
+			}
+			1 = {	
+				change_first_name = name_Morgan
+			}
+			1 = {	
+				change_first_name = name_Morton
+			}
+			1 = {
+				change_first_name = name_Mychel
+			}
+			1 = {
+				change_first_name = name_Myles
+			}
+			1 = {
+				change_first_name = name_Narbert
+			}
+			1 = {
+				change_first_name = name_Olyver
+			}
+			1 = {	
+				change_first_name = name_Ormund
+			}
+			1 = {
+				change_first_name = name_Orryn
+			}
+			1 = {	
+				change_first_name = name_Orson
+			}
+			1 = {	
+				change_first_name = name_Orys
+			}
+			1 = {	
+				change_first_name = name_Osmund
+			}
+			1 = {	
+				change_first_name = name_Pearse
+			}
+			1 = {	
+				change_first_name = name_Qarlton
+			}
+			1 = {	
+				change_first_name = name_Quentyn
+			}
+			1 = {	
+				change_first_name = name_Ralph
+			}
+			1 = {	
+				change_first_name = name_Raymont
+			}
+			1 = {
+				change_first_name = name_Raymund
+			}
+			1 = {
+				change_first_name = name_Renly
+			}
+			1 = {	
+				change_first_name = name_Richard
+			}
+			1 = {	
+				change_first_name = name_Rickard
+			}
+			1 = {	
+				change_first_name = name_Robert
+			}
+			1 = {	
+				change_first_name = name_Robin
+			}
+			1 = {	
+				change_first_name = name_Rogar
+			}
+			1 = {	
+				change_first_name = name_Rolland
+			}
+			1 = {	
+				change_first_name = name_Ronald
+			}
+			1 = {	
+				change_first_name = name_Ronard
+			}
+			1 = {
+				change_first_name = name_Ronnal
+			}
+			1 = {	
+				change_first_name = name_Ronnel
+			}
+			1 = {	
+				change_first_name = name_Ronnet
+			}
+			1 = {
+				change_first_name = name_Roy
+			}
+			1 = {
+				change_first_name = name_Royce
+			}
+			1 = {
+				change_first_name = name_Ryman
+			}
+			1 = {	
+				change_first_name = name_Sarmion
+			}
+			1 = {	
+				change_first_name = name_Sebastion
+			}
+			1 = {
+				change_first_name = name_Selwyn
+			}
+			1 = {
+				change_first_name = name_Serwyn
+			}
+			1 = {
+				change_first_name = name_Simon
+			}
+			1 = {	
+				change_first_name = name_Stannis
+			}
+			1 = {
+				change_first_name = name_Steffon
+			}
+			1 = {
+				change_first_name = name_Tancred
+			}
+			1 = {	
+				change_first_name = name_Tarwen
+			}
+			1 = {	
+				change_first_name = name_Terrence
+			}
+			1 = {	
+				change_first_name = name_Theo
+			}
+			1 = {	
+				change_first_name = name_Thurgood
+			}
+			1 = {	
+				change_first_name = name_Tristan
+			}
+			1 = {	
+				change_first_name = name_Walter
+			}
+			1 = {	
+				change_first_name = name_Willem
+			}
+			1 = {	
+				change_first_name = name_Willis
+			}
+		}
+	}
+	else = {
+		random_list = {
+			1 = {
+				change_first_name = name_Adena
+			}
+			1 = {
+				change_first_name = name_Aelinor
+			}
+			1 = {	
+				change_first_name = name_Alanei
+			}
+			1 = {
+				change_first_name = name_Aliona
+			}
+			1 = {
+				change_first_name = name_Alora
+			}
+			1 = {
+				change_first_name = name_Alynne
+			}
+			1 = {
+				change_first_name = name_Alys
+			}
+			1 = {	
+				change_first_name = name_Alysanne
+			}
+			1 = {
+				change_first_name = name_Amanda
+			}
+			1 = {
+				change_first_name = name_Ammina
+			}
+			1 = {
+				change_first_name = name_Argalia
+			}
+			1 = {	
+				change_first_name = name_Argella
+			}
+			1 = {
+				change_first_name = name_Arianne
+			}
+			1 = {	
+				change_first_name = name_Arlana
+			}
+			1 = {
+				change_first_name = name_Arrana
+			}
+			1 = {
+				change_first_name = name_Artaria
+			}
+			1 = {
+				change_first_name = name_Arya
+			}
+			1 = {
+				change_first_name = name_Audrey
+			}
+			1 = {	
+				change_first_name = name_Belissa
+			}
+			1 = {
+				change_first_name = name_Benara
+			}
+			1 = {	
+				change_first_name = name_Benera
+			}
+			1 = {
+				change_first_name = name_Benyssa
+			}
+			1 = {
+				change_first_name = name_Beonelle
+			}
+			1 = {
+				change_first_name = name_Bonessa
+			}
+			1 = {
+				change_first_name = name_Brella
+			}
+			1 = {
+				change_first_name = name_Brienne
+			}
+			1 = {	
+				change_first_name = name_Carella
+			}
+			1 = {
+				change_first_name = name_Carmella
+			}
+			1 = {
+				change_first_name = name_Carolei
+			}
+			1 = {
+				change_first_name = name_Caronne
+			}
+			1 = {
+				change_first_name = name_Cassana
+			}
+			1 = {
+				change_first_name = name_Cassandra
+			}
+			1 = {
+				change_first_name = name_Corenna
+			}
+			1 = {
+				change_first_name = name_Coryanne
+			}
+			1 = {
+				change_first_name = name_Cyrenna
+			}
+			1 = {	
+				change_first_name = name_Dalia
+			}
+			1 = {	
+				change_first_name = name_Damella
+			}
+			1 = {	
+				change_first_name = name_Demerei
+			}
+			1 = {
+				change_first_name = name_Eddane
+			}
+			1 = {	
+				change_first_name = name_Elane
+			}
+			1 = {	
+				change_first_name = name_Elaena
+			}
+			1 = {	
+				change_first_name = name_Elanna
+			}
+			1 = {
+				change_first_name = name_Elayne
+			}
+			1 = {
+				change_first_name = name_Eldera
+			}
+			1 = {
+				change_first_name = name_Eleanor
+			}
+			1 = {
+				change_first_name = name_Elenda
+			}
+			1 = {
+				change_first_name = name_Elenei
+			}
+			1 = {	
+				change_first_name = name_Ella
+			}
+			1 = {
+				change_first_name = name_Ellyn
+			}
+			1 = {
+				change_first_name = name_Elmeria
+			}
+			1 = {	
+				change_first_name = name_Elyana
+			}
+			1 = {	
+				change_first_name = name_Elyanna
+			}
+			1 = {	
+				change_first_name = name_Elyssa
+			}
+			1 = {	
+				change_first_name = name_Emmara
+			}
+			1 = {	
+				change_first_name = name_Floris
+			}
+			1 = {	
+				change_first_name = name_Genna
+			}
+			1 = {
+				change_first_name = name_Hanna
+			}
+			1 = {	
+				change_first_name = name_Idena
+			}
+			1 = {	
+				change_first_name = name_Idorea
+			}
+			1 = {
+				change_first_name = name_Ismane
+			}
+			1 = {
+				change_first_name = name_Jaenyssa
+			}
+			1 = {	
+				change_first_name = name_Jasonnei
+			}
+			1 = {
+				change_first_name = name_Jena
+			}
+			1 = {
+				change_first_name = name_Jeyne
+			}
+			1 = {	
+				change_first_name = name_Jocelyn
+			}
+			1 = {
+				change_first_name = name_Johanna
+			}
+			1 = {
+				change_first_name = name_Joy
+			}
+			1 = {
+				change_first_name = name_Jynna
+			}
+			1 = {
+				change_first_name = name_Kelyce
+			}
+			1 = {	
+				change_first_name = name_Kerena
+			}
+			1 = {
+				change_first_name = name_Laena
+			}
+			1 = {	
+				change_first_name = name_Lanna
+			}
+			1 = {	
+				change_first_name = name_Laressa
+			}
+			1 = {
+				change_first_name = name_Leyne
+			}
+			1 = {
+				change_first_name = name_Lollys
+			}
+			1 = {
+				change_first_name = name_Lucinda
+			}
+			1 = {
+				change_first_name = name_Lynera
+			}
+			1 = {
+				change_first_name = name_Lynett
+			}
+			1 = {
+				change_first_name = name_Lyria
+			}
+			1 = {
+				change_first_name = name_Lysanne
+			}
+			1 = {
+				change_first_name = name_Lysena
+			}
+			1 = {	
+				change_first_name = name_Maelane
+			}
+			1 = {
+				change_first_name = name_Maella
+			}
+			1 = {	
+				change_first_name = name_Maenylla
+			}
+			1 = {	
+				change_first_name = name_Malarra
+			}
+			1 = {	
+				change_first_name = name_Malia
+			}
+			1 = {	
+				change_first_name = name_Malyce
+			}
+			1 = {	
+				change_first_name = name_Marena
+			}
+			1 = {
+				change_first_name = name_Marenda
+			}
+			1 = {	
+				change_first_name = name_Maris
+			}
+			1 = {	
+				change_first_name = name_Mary
+			}
+			1 = {	
+				change_first_name = name_Marya
+			}
+			1 = {	
+				change_first_name = name_Meona
+			}
+			1 = {
+				change_first_name = name_Merei
+			}
+			1 = {
+				change_first_name = name_Milerra
+			}
+			1 = {
+				change_first_name = name_Mylenda
+			}
+			1 = {
+				change_first_name = name_Mylla
+			}
+			1 = {
+				change_first_name = name_Myrena
+			}
+			1 = {
+				change_first_name = name_Myrren
+			}
+			1 = {
+				change_first_name = name_Narra
+			}
+			1 = {
+				change_first_name = name_Olyssa
+			}
+			1 = {
+				change_first_name = name_Onora
+			}
+			1 = {
+				change_first_name = name_Osmera
+			}
+			1 = {
+				change_first_name = name_Patrice
+			}
+			1 = {
+				change_first_name = name_Pelyne
+			}
+			1 = {
+				change_first_name = name_Raena
+			}
+			1 = {
+				change_first_name = name_Ravella
+			}
+			1 = {
+				change_first_name = name_Rella
+			}
+			1 = {
+				change_first_name = name_Rolanna
+			}
+			1 = {
+				change_first_name = name_Sarella
+			}
+			1 = {
+				change_first_name = name_Sarena
+			}
+			1 = {
+				change_first_name = name_Sarissa
+			}
+			1 = {
+				change_first_name = name_Sarya
+			}
+			1 = {
+				change_first_name = name_Sebara
+			}
+			1 = {
+				change_first_name = name_Shalenna
+			}
+			1 = {
+				change_first_name = name_Sharon
+			}
+			1 = {
+				change_first_name = name_Shireen
+			}
+			1 = {
+				change_first_name = name_Shyra
+			}
+			1 = {
+				change_first_name = name_Simona
+			}
+			1 = {
+				change_first_name = name_Symalla
+			}
+			1 = {
+				change_first_name = name_Syrene
+			}
+			1 = {
+				change_first_name = name_Talenna
+			}
+			1 = {
+				change_first_name = name_Tasene
+			}
+			1 = {
+				change_first_name = name_Tyana
+			}
+			1 = {
+				change_first_name = name_Tynalla
+			}
+			1 = {
+				change_first_name = name_Tysane
+			}
+			1 = {
+				change_first_name = name_Walessa
+			}
+		}
+	}
+}
+
+dornish_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Ademar
+			}
+			1 = {	
+				change_first_name = name_Alric
+			}
+			1 = {	
+				change_first_name = name_Andrey
+			}
+			1 = {
+				change_first_name = name_Angran
+			}
+			1 = {	
+				change_first_name = name_Arden
+			}
+			1 = {	
+				change_first_name = name_Armand
+			}
+			1 = {	
+				change_first_name = name_Aron
+			}
+			1 = {	
+				change_first_name = name_Baduin
+			}
+			1 = {	
+				change_first_name = name_Barrett
+			}
+			1 = {	
+				change_first_name = name_Bastian
+			}
+			1 = {	
+				change_first_name = name_Bedard
+			}
+			1 = {	
+				change_first_name = name_Blaise
+			}
+			1 = {
+				change_first_name = name_Branston
+			}
+			1 = {	
+				change_first_name = name_Brys
+			}
+			1 = {	
+				change_first_name = name_Cadan
+			}
+			1 = {	
+				change_first_name = name_Conayn
+			}
+			1 = {	
+				change_first_name = name_Corrent
+			}
+			1 = {	
+				change_first_name = name_Danton
+			}
+			1 = {	
+				change_first_name = name_Danyll
+			}
+			1 = {	
+				change_first_name = name_Darren
+			}
+			1 = {	
+				change_first_name = name_Davit
+			}
+			1 = {	
+				change_first_name = name_Denzel
+			}
+			1 = {	
+				change_first_name = name_Derrett
+			}
+			1 = {	
+				change_first_name = name_Derrik
+			}
+			1 = {	
+				change_first_name = name_Derry
+			}
+			1 = {	
+				change_first_name = name_Desmond
+			}
+			1 = {	
+				change_first_name = name_Devin
+			}
+			1 = {
+				change_first_name = name_Devlin
+			}
+			1 = {	
+				change_first_name = name_Devon
+			}
+			1 = {	
+				change_first_name = name_Deziel
+			}
+			1 = {	
+				change_first_name = name_Digory
+			}
+			1 = {	
+				change_first_name = name_Dinias
+			}
+			1 = {	
+				change_first_name = name_Doran
+			}
+			1 = {	
+				change_first_name = name_Duran
+			}
+			1 = {	
+				change_first_name = name_Dylan
+			}
+			1 = {	
+				change_first_name = name_Edgar
+			}
+			1 = {	
+				change_first_name = name_Elfred
+			}
+			1 = {	
+				change_first_name = name_Elric
+			}
+			1 = {	
+				change_first_name = name_Elyas
+			}
+			1 = {	
+				change_first_name = name_Emrys
+			}
+			1 = {	
+				change_first_name = name_Galeran
+			}
+			1 = {
+				change_first_name = name_Galwell
+			}
+			1 = {	
+				change_first_name = name_Gareth
+			}
+			1 = {	
+				change_first_name = name_Garin
+			}
+			1 = {
+				change_first_name = name_Gavyn
+			}
+			1 = {
+				change_first_name = name_Gerris
+			}
+			1 = {	
+				change_first_name = name_Gerys
+			}
+			1 = {	
+				change_first_name = name_Gesmund
+			}
+			1 = {	
+				change_first_name = name_Gethan
+			}
+			1 = {	
+				change_first_name = name_Gideon
+			}
+			1 = {	
+				change_first_name = name_Gilbert
+			}
+			1 = {	
+				change_first_name = name_Godry
+			}
+			1 = {	
+				change_first_name = name_Gorian
+			}
+			1 = {	
+				change_first_name = name_Greyson
+			}
+			1 = {	
+				change_first_name = name_Griffin
+			}
+			1 = {	
+				change_first_name = name_Griffith
+			}
+			1 = {
+				change_first_name = name_Gyren
+			}
+			1 = {	
+				change_first_name = name_Jaran
+			}
+			1 = {
+				change_first_name = name_Jaspin
+			}
+			1 = {	
+				change_first_name = name_Josua
+			}
+			1 = {	
+				change_first_name = name_Landon
+			}
+			1 = {
+				change_first_name = name_Laryn
+			}
+			1 = {
+				change_first_name = name_Laurent
+			}
+			1 = {
+				change_first_name = name_Leoran
+			}
+			1 = {	
+				change_first_name = name_Lewyn
+			}
+			1 = {	
+				change_first_name = name_Madyn
+			}
+			1 = {
+				change_first_name = name_Malor
+			}
+			1 = {	
+				change_first_name = name_Manfrey
+			}
+			1 = {	
+				change_first_name = name_Marden
+			}
+			1 = {	
+				change_first_name = name_Marence
+			}
+			1 = {
+				change_first_name = name_Marius
+			}
+			1 = {
+				change_first_name = name_Maron
+			}
+			1 = {
+				change_first_name = name_Matrim
+			}
+			1 = {
+				change_first_name = name_Meribald
+			}
+			1 = {
+				change_first_name = name_Merrick
+			}
+			1 = {	
+				change_first_name = name_Milo
+			}
+			1 = {	
+				change_first_name = name_Morgan
+			}
+			1 = {	
+				change_first_name = name_Moribald
+			}
+			1 = {
+				change_first_name = name_Morion
+			}
+			1 = {	
+				change_first_name = name_Mors
+			}
+			1 = {
+				change_first_name = name_Myron
+			}
+			1 = {	
+				change_first_name = name_Neilyn
+			}
+			1 = {	
+				change_first_name = name_Nigel
+			}
+			1 = {	
+				change_first_name = name_Nymor
+			}
+			1 = {
+				change_first_name = name_Oberyn
+			}
+			1 = {	
+				change_first_name = name_Olymer
+			}
+			1 = {
+				change_first_name = name_Olyvar
+			}
+			1 = {	
+				change_first_name = name_Orlyn
+			}
+			1 = {	
+				change_first_name = name_Orrys
+			}
+			1 = {	
+				change_first_name = name_Owen
+			}
+			1 = {
+				change_first_name = name_Qoren
+			}
+			1 = {	
+				change_first_name = name_Quentyn
+			}
+			1 = {	
+				change_first_name = name_Qyle
+			}
+			1 = {	
+				change_first_name = name_Raymun
+			}
+			1 = {	
+				change_first_name = name_Reynold
+			}
+			1 = {	
+				change_first_name = name_Rhodry
+			}
+			1 = {	
+				change_first_name = name_Rickard
+			}
+			1 = {	
+				change_first_name = name_Ronan
+			}
+			1 = {
+				change_first_name = name_Ronyn
+			}
+			1 = {	
+				change_first_name = name_Royce
+			}
+			1 = {
+				change_first_name = name_Rufus
+			}
+			1 = {	
+				change_first_name = name_Russell
+			}
+			1 = {	
+				change_first_name = name_Rustyn
+			}
+			1 = {	
+				change_first_name = name_Sargon
+			}
+			1 = {	
+				change_first_name = name_Sherman
+			}
+			1 = {
+				change_first_name = name_Simon
+			}
+			1 = {
+				change_first_name = name_Sylas
+			}
+			1 = {
+				change_first_name = name_Symon
+			}
+			1 = {
+				change_first_name = name_Talfryn
+			}
+			1 = {	
+				change_first_name = name_Tamlyn
+			}
+			1 = {
+				change_first_name = name_Tomas
+			}
+			1 = {	
+				change_first_name = name_Toryn
+			}
+			1 = {	
+				change_first_name = name_Trebor
+			}
+			1 = {	
+				change_first_name = name_Tremond
+			}
+			1 = {	
+				change_first_name = name_Trystane
+			}
+			1 = {	
+				change_first_name = name_Waldon
+			}
+			1 = {	
+				change_first_name = name_Warrin
+			}
+			1 = {	
+				change_first_name = name_Wendel
+			}
+			1 = {	
+				change_first_name = name_Willam
+			}
+		}
+	}
+	else = {
+		random_list = {
+			1 = {
+				change_first_name = name_Adrienne
+			}
+			1 = {
+				change_first_name = name_Adrya
+			}
+			1 = {	
+				change_first_name = name_Alara
+			}
+			1 = {
+				change_first_name = name_Alba
+			}
+			1 = {
+				change_first_name = name_Aleona
+			}
+			1 = {
+				change_first_name = name_Alesia
+			}
+			1 = {
+				change_first_name = name_Aliandra
+			}
+			1 = {	
+				change_first_name = name_Alyse
+			}
+			1 = {
+				change_first_name = name_Amaria
+			}
+			1 = {
+				change_first_name = name_Ameline
+			}
+			1 = {
+				change_first_name = name_Ariana
+			}
+			1 = {	
+				change_first_name = name_Arianne
+			}
+			1 = {
+				change_first_name = name_Arlene
+			}
+			1 = {	
+				change_first_name = name_Belessa
+			}
+			1 = {
+				change_first_name = name_Claire
+			}
+			1 = {
+				change_first_name = name_Coryanne
+			}
+			1 = {
+				change_first_name = name_Dacella
+			}
+			1 = {
+				change_first_name = name_Dacey
+			}
+			1 = {	
+				change_first_name = name_Daleria
+			}
+			1 = {
+				change_first_name = name_Danella
+			}
+			1 = {	
+				change_first_name = name_Darcia
+			}
+			1 = {
+				change_first_name = name_Deneza
+			}
+			1 = {
+				change_first_name = name_Deria
+			}
+			1 = {
+				change_first_name = name_Deridre
+			}
+			1 = {
+				change_first_name = name_Dora
+			}
+			1 = {
+				change_first_name = name_Dorea
+			}
+			1 = {	
+				change_first_name = name_Elda
+			}
+			1 = {
+				change_first_name = name_Eleria
+			}
+			1 = {
+				change_first_name = name_Elia
+			}
+			1 = {
+				change_first_name = name_Eloise
+			}
+			1 = {
+				change_first_name = name_Elyce
+			}
+			1 = {
+				change_first_name = name_Emilia
+			}
+			1 = {
+				change_first_name = name_Emphyria
+			}
+			1 = {
+				change_first_name = name_Eselle
+			}
+			1 = {
+				change_first_name = name_Essylt
+			}
+			1 = {	
+				change_first_name = name_Evelyn
+			}
+			1 = {	
+				change_first_name = name_Gemma
+			}
+			1 = {	
+				change_first_name = name_Gilda
+			}
+			1 = {
+				change_first_name = name_Gileta
+			}
+			1 = {	
+				change_first_name = name_Glynis
+			}
+			1 = {	
+				change_first_name = name_Gwyn
+			}
+			1 = {	
+				change_first_name = name_Halera
+			}
+			1 = {
+				change_first_name = name_Helia
+			}
+			1 = {
+				change_first_name = name_Idella
+			}
+			1 = {
+				change_first_name = name_Iona
+			}
+			1 = {
+				change_first_name = name_Izabel
+			}
+			1 = {
+				change_first_name = name_Jayne
+			}
+			1 = {	
+				change_first_name = name_Jeanne
+			}
+			1 = {
+				change_first_name = name_Jocasta
+			}
+			1 = {
+				change_first_name = name_Jolene
+			}
+			1 = {	
+				change_first_name = name_Joleta
+			}
+			1 = {	
+				change_first_name = name_Julianna
+			}
+			1 = {	
+				change_first_name = name_Jyalla
+			}
+			1 = {	
+				change_first_name = name_Leonette
+			}
+			1 = {	
+				change_first_name = name_Leyla
+			}
+			1 = {	
+				change_first_name = name_Lilah
+			}
+			1 = {
+				change_first_name = name_Liliane
+			}
+			1 = {	
+				change_first_name = name_Lilya
+			}
+			1 = {	
+				change_first_name = name_Linette
+			}
+			1 = {
+				change_first_name = name_Lisette
+			}
+			1 = {
+				change_first_name = name_Loreza
+			}
+			1 = {	
+				change_first_name = name_Lucinda
+			}
+			1 = {
+				change_first_name = name_Lynette
+			}
+			1 = {
+				change_first_name = name_Lyrella
+			}
+			1 = {	
+				change_first_name = name_Maerra
+			}
+			1 = {
+				change_first_name = name_Maia
+			}
+			1 = {
+				change_first_name = name_Mairona
+			}
+			1 = {
+				change_first_name = name_Malia
+			}
+			1 = {
+				change_first_name = name_Mara
+			}
+			1 = {	
+				change_first_name = name_Marion
+			}
+			1 = {
+				change_first_name = name_Maryce
+			}
+			1 = {	
+				change_first_name = name_Meria
+			}
+			1 = {	
+				change_first_name = name_Milona
+			}
+			1 = {
+				change_first_name = name_Mirielis
+			}
+			1 = {
+				change_first_name = name_Monielle
+			}
+			1 = {
+				change_first_name = name_Morna
+			}
+			1 = {
+				change_first_name = name_Muriel
+			}
+			1 = {
+				change_first_name = name_Mylene
+			}
+			1 = {
+				change_first_name = name_Myria
+			}
+			1 = {
+				change_first_name = name_Myriah
+			}
+			1 = {
+				change_first_name = name_Nella
+			}
+			1 = {	
+				change_first_name = name_Nera
+			}
+			1 = {
+				change_first_name = name_Nerissa
+			}
+			1 = {	
+				change_first_name = name_Nicola
+			}
+			1 = {	
+				change_first_name = name_Nymella
+			}
+			1 = {	
+				change_first_name = name_Nymeria
+			}
+			1 = {	
+				change_first_name = name_Nyrene
+			}
+			1 = {	
+				change_first_name = name_Obara
+			}
+			1 = {
+				change_first_name = name_Obella
+			}
+			1 = {	
+				change_first_name = name_Olivia
+			}
+			1 = {	
+				change_first_name = name_Ormane
+			}
+			1 = {	
+				change_first_name = name_Ravenna
+			}
+			1 = {	
+				change_first_name = name_Rhialta
+			}
+			1 = {
+				change_first_name = name_Richelle
+			}
+			1 = {
+				change_first_name = name_Roslyn
+			}
+			1 = {
+				change_first_name = name_Roxana
+			}
+			1 = {
+				change_first_name = name_Sarella
+			}
+			1 = {
+				change_first_name = name_Sarilla
+			}
+			1 = {
+				change_first_name = name_Sarra
+			}
+			1 = {
+				change_first_name = name_Selara
+			}
+			1 = {
+				change_first_name = name_Senara
+			}
+			1 = {
+				change_first_name = name_Serene
+			}
+			1 = {
+				change_first_name = name_Sharyn
+			}
+			1 = {
+				change_first_name = name_Silva
+			}
+			1 = {
+				change_first_name = name_Sybella
+			}
+			1 = {
+				change_first_name = name_Sybelle
+			}
+			1 = {
+				change_first_name = name_Synella
+			}
+			1 = {
+				change_first_name = name_Sylva
+			}
+			1 = {
+				change_first_name = name_Sylvenna
+			}
+			1 = {
+				change_first_name = name_Tamsyn
+			}
+			1 = {
+				change_first_name = name_Tanyth
+			}
+			1 = {
+				change_first_name = name_Tara
+			}
+			1 = {
+				change_first_name = name_Teora
+			}
+			1 = {
+				change_first_name = name_Tristana
+			}
+			1 = {
+				change_first_name = name_Tyene
+			}
+			1 = {
+				change_first_name = name_Tyssa
+			}
+			1 = {
+				change_first_name = name_Valena
+			}
+			1 = {
+				change_first_name = name_Vanora
+			}
+			1 = {
+				change_first_name = name_Wylla
+			}
+		}
+	}
+}
+
+ghiscari_names_effect = {
+	if = {
+		limit = {
+			is_male = yes #else block covers females
+		}
+		random_list = {
+			1 = {
+				change_first_name = name_Azzak
+			}
+			1 = {
+				change_first_name = name_Azzhak
+			}
+			1 = {	
+				change_first_name = name_Bharkaz
+			}
+			1 = {	
+				change_first_name = name_Barghaz
+			}
+			1 = {	
+				change_first_name = name_Bezzaq
+			}
+			1 = {	
+				change_first_name = name_Bhakaz
+			}
+			1 = {	
+				change_first_name = name_Chezdhar
+			}
+			1 = {	
+				change_first_name = name_Dezhor
+			}
+			1 = {	
+				change_first_name = name_Dhazzar
+			}
+			1 = {	
+				change_first_name = name_Drazdahr
+			}
+			1 = {	
+				change_first_name = name_Draqaz
+			}
+			1 = {	
+				change_first_name = name_Eqnaz
+			}
+			1 = {	
+				change_first_name = name_Faezdhar
+			}
+			1 = {	
+				change_first_name = name_Fendahl
+			}
+			1 = {	
+				change_first_name = name_Faezhar
+			}
+			1 = {	
+				change_first_name = name_Fharaq
+			}
+			1 = {	
+				change_first_name = name_Gadhaz
+			}
+			1 = {	
+				change_first_name = name_Garnhak
+			}
+			1 = {	
+				change_first_name = name_Grazdan
+			}
+			1 = {	
+				change_first_name = name_Gorzhak
+			}
+			1 = {	
+				change_first_name = name_Ghazdor
+			}
+			1 = {	
+				change_first_name = name_Grazdhan
+			}
+			1 = {	
+				change_first_name = name_Grazdar
+			}
+			1 = {	
+				change_first_name = name_Gorghan
+			}
+			1 = {	
+				change_first_name = name_Grazhar
+			}
+			1 = {	
+				change_first_name = name_Gazhaq
+			}
+			1 = {	
+				change_first_name = name_Gighak
+			}
+			1 = {	
+				change_first_name = name_Grozlal
+			}
+			1 = {	
+				change_first_name = name_Ghrazz
+			}
+			1 = {	
+				change_first_name = name_Haghdon
+			}
+			1 = {	
+				change_first_name = name_Harnaz
+			}
+			1 = {	
+				change_first_name = name_Haezhar
+			}
+			1 = {	
+				change_first_name = name_Hizdahr
+			}
+			1 = {	
+				change_first_name = name_Haznak
+			}
+			1 = {	
+				change_first_name = name_Harghaz
+			}
+			1 = {	
+				change_first_name = name_Hazrak
+			}
+			1 = {	
+				change_first_name = name_Kazak
+			}
+			1 = {	
+				change_first_name = name_Krazdan
+			}
+			1 = {	
+				change_first_name = name_Kraznys
+			}
+			1 = {	
+				change_first_name = name_Kargaz
+			}
+			1 = {	
+				change_first_name = name_Kharaq
+			}
+			1 = {	
+				change_first_name = name_Kendahl
+			}
+			1 = {	
+				change_first_name = name_Khezdhar
+			}
+			1 = {	
+				change_first_name = name_Karghaz
+			}
+			1 = {	
+				change_first_name = name_Kharkaz
+			}
+			1 = {	
+				change_first_name = name_Kaznak
+			}
+			1 = {	
+				change_first_name = name_Kaezon
+			}
+			1 = {	
+				change_first_name = name_Korghaz
+			}
+			1 = {	
+				change_first_name = name_Korghan
+			}
+			1 = {	
+				change_first_name = name_Khrazz
+			}
+			1 = {	
+				change_first_name = name_Larraq
+			}
+			1 = {	
+				change_first_name = name_Leshahl
+			}
+			1 = {	
+				change_first_name = name_Liznuq
+			}
+			1 = {	
+				change_first_name = name_Mazdhan
+			}
+			1 = {	
+				change_first_name = name_Marghaz
+			}
+			1 = {	
+				change_first_name = name_Miklaz
+			}
+			1 = {	
+				change_first_name = name_Miznahl
+			}
+			1 = {	
+				change_first_name = name_Maezhar
+			}
+			1 = {	
+				change_first_name = name_Maezon
+			}
+			1 = {	
+				change_first_name = name_Maklan
+			}
+			1 = {	
+				change_first_name = name_Morghaz
+			}
+			1 = {	
+				change_first_name = name_Omdhaz
+			}
+			1 = {	
+				change_first_name = name_Omkhaz
+			}
+			1 = {	
+				change_first_name = name_Orhghaz
+			}
+			1 = {	
+				change_first_name = name_Ohzrak
+			}
+			1 = {	
+				change_first_name = name_Ozdhan
+			}
+			1 = {	
+				change_first_name = name_Oznak
+			}
+			1 = {	
+				change_first_name = name_Ozzak
+			}
+			1 = {	
+				change_first_name = name_Ozzan
+			}
+			1 = {	
+				change_first_name = name_Prendahl
+			}
+			1 = {	
+				change_first_name = name_Paezhar
+			}
+			1 = {	
+				change_first_name = name_Razdal
+			}
+			1 = {	
+				change_first_name = name_Rezmohl
+			}
+			1 = {	
+				change_first_name = name_Reznak
+			}
+			1 = {	
+				change_first_name = name_Razlahr
+			}
+			1 = {	
+				change_first_name = name_Raqnak
+			}
+			1 = {	
+				change_first_name = name_Razdar
+			}
+			1 = {	
+				change_first_name = name_Shernar
+			}
+			1 = {	
+				change_first_name = name_Skahaz
+			}
+			1 = {	
+				change_first_name = name_Shakhar
+			}
+			1 = {	
+				change_first_name = name_Shakdhan
+			}
+			1 = {	
+				change_first_name = name_Srozdaz
+			}
+			1 = {	
+				change_first_name = name_Urkhaz
+			}
+			1 = {	
+				change_first_name = name_Yezzan
+			}
+			1 = {	
+				change_first_name = name_Yurkhaz
+			}
+			1 = {	
+				change_first_name = name_Yardhar
+			}
+			1 = {	
+				change_first_name = name_Yarkaz
+			}
+			1 = {	
+				change_first_name = name_Yazzak
+			}
+			1 = {	
+				change_first_name = name_Yarkhaz
+			}
+			1 = {	
+				change_first_name = name_Zharaq
+			}
+			1 = {	
+				change_first_name = name_Zhezzan
+			}
+			1 = {	
+				change_first_name = name_Zadrak
+			}
+		}
+	}
+	else = {
+		random_list = {
+			1 = {
+				change_first_name = name_Azzea
+			}
+			1 = {	
+				change_first_name = name_Azzara
+			}
+			1 = {	
+				change_first_name = name_Azhene
+			}
+			1 = {	
+				change_first_name = name_Azhara
+			}
+			1 = {	
+				change_first_name = name_Bharkaza
+			}
+			1 = {	
+				change_first_name = name_Bhezzara
+			}
+			1 = {	
+				change_first_name = name_Belza
+			}
+			1 = {	
+				change_first_name = name_Baezhara
+			}
+			1 = {	
+				change_first_name = name_Bazella
+			}
+			1 = {	
+				change_first_name = name_Bezhene
+			}
+			1 = {	
+				change_first_name = name_Balazza
+			}
+			1 = {	
+				change_first_name = name_Bezza
+			}
+			1 = {	
+				change_first_name = name_Bezqa
+			}
+			1 = {	
+				change_first_name = name_Chezzara
+			}
+			1 = {	
+				change_first_name = name_Chazella
+			}
+			1 = {	
+				change_first_name = name_Chekaza
+			}
+			1 = {	
+				change_first_name = name_Dhazzara
+			}
+			1 = {	
+				change_first_name = name_Dazzaga
+			}
+			1 = {	
+				change_first_name = name_Dezzara
+			}
+			1 = {	
+				change_first_name = name_Dezella
+			}
+			1 = {	
+				change_first_name = name_Dhakazza
+			}
+			1 = {	
+				change_first_name = name_Ezzara
+			}
+			1 = {	
+				change_first_name = name_Ellezzara
+			}
+			1 = {	
+				change_first_name = name_Elza
+			}
+			1 = {	
+				change_first_name = name_Faezarra
+			}
+			1 = {	
+				change_first_name = name_Falazza
+			}
+			1 = {	
+				change_first_name = name_Galazza
+			}
+			1 = {	
+				change_first_name = name_Gezzella
+			}
+			1 = {	
+				change_first_name = name_Grazdarra
+			}
+			1 = {	
+				change_first_name = name_Gorgazza
+			}
+			1 = {	
+				change_first_name = name_Gazzea
+			}
+			1 = {	
+				change_first_name = name_Gazzara
+			}
+			1 = {	
+				change_first_name = name_Hazzara
+			}
+			1 = {	
+				change_first_name = name_Helza
+			}
+			1 = {	
+				change_first_name = name_Hezzela
+			}
+			1 = {	
+				change_first_name = name_Halazza
+			}
+			1 = {	
+				change_first_name = name_Hazzea
+			}
+			1 = {	
+				change_first_name = name_Hazzaara
+			}
+			1 = {	
+				change_first_name = name_Hezza
+			}
+			1 = {	
+				change_first_name = name_Hezhene
+			}
+			1 = {	
+				change_first_name = name_Jezhane
+			}
+			1 = {	
+				change_first_name = name_Jezhene
+			}
+			1 = {	
+				change_first_name = name_Kezmya
+			}
+			1 = {	
+				change_first_name = name_Korraqa
+			}
+			1 = {	
+				change_first_name = name_Laqhezna
+			}
+			1 = {	
+				change_first_name = name_Mezzara
+			}
+			1 = {	
+				change_first_name = name_Mellezzara
+			}
+			1 = {	
+				change_first_name = name_Mezzala
+			}
+			1 = {	
+				change_first_name = name_Malazza
+			}
+			1 = {	
+				change_first_name = name_Morgazza
+			}
+			1 = {	
+				change_first_name = name_Maezhara
+			}
+			1 = {	
+				change_first_name = name_Paezhara
+			}
+			1 = {	
+				change_first_name = name_Prandaqha
+			}
+			1 = {	
+				change_first_name = name_Pezhazha
+			}
+			1 = {	
+				change_first_name = name_Qezza
+			}
+			1 = {	
+				change_first_name = name_Qazella
+			}
+			1 = {	
+				change_first_name = name_Qaezhara
+			}
+			1 = {	
+				change_first_name = name_Razliqha
+			}
+			1 = {	
+				change_first_name = name_Sezqa
+			}
+			1 = {	
+				change_first_name = name_Sezza
+			}
+			1 = {	
+				change_first_name = name_Selezzqa
+			}
+			1 = {	
+				change_first_name = name_Skahaza
+			}
+			1 = {	
+				change_first_name = name_Sassazla
+			}
+			1 = {	
+				change_first_name = name_Silaqna
+			}
+			1 = {	
+				change_first_name = name_Saezhara
+			}
+			1 = {	
+				change_first_name = name_Telza
+			}
+			1 = {	
+				change_first_name = name_Tazzea
+			}
+			1 = {	
+				change_first_name = name_Taezarra
+			}
+			1 = {
+				change_first_name = name_Tezhene
+			}
+			1 = {	
+				change_first_name = name_Tazzara
+			}
+			1 = {	
+				change_first_name = name_Talazza
+			}
+			1 = {	
+				change_first_name = name_Tellezzara
+			}
+			1 = {	
+				change_first_name = name_Tezza
+			}
+			1 = {	
+				change_first_name = name_Yezza
+			}
+			1 = {	
+				change_first_name = name_Yezhene
+			}
+			1 = {	
+				change_first_name = name_Zahrina
+			}
+			1 = {	
+				change_first_name = name_Zellazara
+			}
+			1 = {	
+				change_first_name = name_Zellazza
+			}
+			1 = {	
+				change_first_name = name_Zhanasha
+			}
+			1 = {	
+				change_first_name = name_Zazhezza
+			}
+		}
+	}
+}

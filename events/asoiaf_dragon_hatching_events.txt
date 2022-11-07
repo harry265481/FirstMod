@@ -1,0 +1,175 @@
+﻿namespace = asoiaf_dragon_hatching
+
+asoiaf_dragon_hatching.1 = { 
+	type = character_event
+	title = asoiaf_dragon_hatching.1.t
+	desc = asoiaf_dragon_hatching.1.desc
+	theme = friendly
+	right_portrait = {
+		character = root
+		animation = personality_bold
+	}
+	#override_background = { event_background = throne_room }
+	
+	trigger = {
+		has_trait = dragon_egg
+	}
+	
+	option = { #try to hatch the dragon egg
+		name = asoiaf_dragon_hatching.1.confirm
+		custom_tooltip = asoiaf_dragon_hatching_tooltip_confirm
+		
+		weight_multiplier = {
+			base = -50
+			
+			modifier = {
+				add = 35
+				scope:root = {
+					OR = {
+						has_trait = lunatic_1
+						has_trait = lunatic_genetic
+					}
+				}
+			}
+			modifier = {
+				add = 30
+				scope:root = {
+					dynasty = { has_dynasty_modifier = valyrian_house }
+				}
+			}
+			modifier = {
+				add = 20
+				scope:root = {
+					has_trait = ambitious
+				}
+			}
+			modifier = {
+				add = 20
+				scope:root = {
+					OR = {
+						has_trait = valyrian_3
+						has_trait = valyrian_2
+					}
+				}
+			}
+			modifier = {
+				add = 100
+				any_close_family_member = {
+					even_if_dead = yes
+					has_trait = dragon_rider
+				}
+			}
+			modifier = {
+				add = -60
+				scope:root = {
+					has_trait = content
+				}
+			}
+		}
+		
+		hidden_effect = {
+			random_list = {
+				10 = { #success!
+					remove_trait = dragon_egg
+					add_trait = dragon_rider
+					add_prestige = 2500
+					modifier = {
+						add = 15
+						has_trait = valyrian_2
+					}
+					modifier = {
+						add = 100
+						has_trait = valyrian_3
+					}
+					modifier = {
+						add = 25
+						dynasty = { has_dynasty_modifier = valyrian_house }
+					}
+					modifier = {
+						add = 850
+						any_close_family_member = {
+							even_if_dead = yes
+							has_trait = dragon_rider
+						}
+					}
+				}
+				90 = { #failure
+					remove_trait = dragon_egg
+					random_list = {
+						30 = {
+							add_trait = wounded_3
+						}
+						20 = {
+							add_trait = maimed
+						}
+						30 = {
+							add_trait = wounded_3
+							add_trait = maimed
+						}
+						30 = {
+							add_trait = maimed
+							add_trait = wounded_1
+						}
+						40 = {
+							death = {
+								death_reason = death_accident
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	
+	option = { #Cancel
+		name = asoiaf_dragon_hatching.1.cancel
+		custom_tooltip = asoiaf_dragon_hatching_tooltip_cancel
+		
+		add_prestige = 100
+	}
+}
+
+asoiaf_dragon_hatching.2 = { #dragon lays an egg!
+	type = character_event
+	title = asoiaf_dragon_hatching.2.t
+	desc = asoiaf_dragon_hatching.2.desc
+	theme = friendly
+	right_portrait = {
+		character = root
+		animation = personality_rational
+	}
+	#override_background = { event_background = throne_room }
+	
+	trigger = {
+		AND = {
+			has_trait = dragon_rider
+			NOT = { has_trait = dragon_egg }
+		}
+	}
+	
+	weight_multiplier = {
+		base = 5
+		modifier = {
+			add = 10
+			dynasty = { has_dynasty_modifier = valyrian_house }
+		}
+	}
+	
+	option = { #you get a dragon egg
+		name = asoiaf_dragon_hatching.2.confirm
+		
+		add_trait = dragon_egg
+	}
+}
+
+asoiaf_dragon_hatching.3 = { #dragon egg inheritance
+	type = character_event
+	hidden = yes
+	
+	trigger = {
+		has_trait = dragon_egg #a person who dies has a dragon egg
+	}
+	immediate = {
+		#the dragon egg granted to a person's closest living relative (of their dynasty) upon death
+	}
+}

@@ -1,0 +1,156 @@
+﻿#on_birth_father = {
+#	if = {
+#        limit = {
+#			AND = {
+#				has_culture = culture:valyrian
+#				NOR = {
+#					has_trait = valyrian_1 
+#					has_trait = valyrian_2 
+#					has_trait = valyrian_3
+#				}
+#			}
+#		}
+#        random_list = {
+#            30 = {
+#                add_trait = valyrian_3
+#            }
+#            40 = {
+#                add_trait = valyrian_2
+#            }
+#            30 = {
+#                add_trait = valyrian_1
+#            }
+#        }
+#    }
+#}
+
+on_birth_child = {
+	events = {
+		asoiaf_birth.1
+		asoiaf_birth.2
+	}
+	on_actions = {
+		asoiaf_valyrian_names_birth
+		asoiaf_northern_names_birth
+		asoiaf_riverman_names_birth
+		asoiaf_ironborn_names_birth
+		asoiaf_valeman_names_birth
+		asoiaf_crownlander_names_birth
+		asoiaf_westerman_names_birth
+		asoiaf_reachman_names_birth
+		asoiaf_stormlander_names_birth
+		asoiaf_dornish_names_birth
+		asoiaf_ghiscari_names_birth
+	}
+}
+
+#ASOIAF NAMES ON_ACTIONS
+asoiaf_valyrian_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = valyrian_house }
+			house = { has_house_modifier = valyrian_house }
+		}
+	}
+	effect = { valyrian_names_effect = yes }
+}
+
+asoiaf_northern_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = northern_house }
+			house = { has_house_modifier = northern_house }
+		}
+	}
+	effect = { northern_names_effect = yes }
+}
+
+asoiaf_riverman_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = riverman_house }
+			house = { has_house_modifier = riverman_house }
+		}
+	}
+	effect = { riverman_names_effect = yes }
+}
+
+asoiaf_ironborn_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = ironborn_house }
+			house = { has_house_modifier = ironborn_house }
+		}
+	}
+	effect = { ironborn_names_effect = yes }
+}
+
+asoiaf_valeman_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = valeman_house }
+			house = { has_house_modifier = valeman_house }
+		}
+	}
+	effect = { valeman_names_effect = yes }
+}
+
+asoiaf_crownlander_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = crownlander_house }
+			house = { has_house_modifier = crownlander_house }
+		}
+	}
+	effect = { crownlander_names_effect = yes }
+}
+
+asoiaf_westerman_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = westerman_house }
+			house = { has_house_modifier = westerman_house }
+		}
+	}
+	effect = { westerman_names_effect = yes }
+}
+
+asoiaf_reachman_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = reachman_house }
+			house = { has_house_modifier = reachman_house }
+		}
+	}
+	effect = { reachman_names_effect = yes }
+}
+
+asoiaf_stormlander_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = stormlander_house }
+			house = { has_house_modifier = stormlander_house }
+		}
+	}
+	effect = { stormlander_names_effect = yes }
+}
+
+asoiaf_dornish_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = dornish_house }
+			house = { has_house_modifier = dornish_house }
+		}
+	}
+	effect = { dornish_names_effect = yes }
+}
+
+asoiaf_ghiscari_names_birth = {
+	trigger = {
+		OR = {
+			dynasty = { has_dynasty_modifier = ghiscari_house }
+			house = { has_house_modifier = ghiscari_house }
+		}
+	}
+	effect = { ghiscari_names_effect = yes }
+}

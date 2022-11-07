@@ -1,0 +1,13 @@
+﻿asoiaf_fertility_health_modifier_effect = {
+	if = {
+		limit = {
+			scope:recipient = { is_ai = yes }
+		}
+		house = {
+			add_house_modifier = {
+				modifier = asoiaf_fertility_health_boost
+				years = 30
+			}
+		}
+	}
+}

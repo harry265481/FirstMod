@@ -1,0 +1,169 @@
+﻿#Regular dynasties
+house_Targaryen = {
+	name = "dynn_Targaryen"
+	dynasty = dynn_Targaryen
+	motto = "dynn_Targaryen_motto"
+}
+house_Velaryon = {
+	name = "dynn_Velaryon"
+	dynasty = dynn_Velaryon
+	motto = "dynn_Velaryon_motto"
+}
+house_Bar_Emmon = {
+	name = "dynn_Bar_Emmon"
+	dynasty = dynn_Bar_Emmon
+	motto = "dynn_Bar_Emmon_motto"
+}
+house_Chelsted = {
+	name = "dynn_Chelsted"
+	dynasty = dynn_Chelsted
+	motto = "dynn_Chelsted_motto"
+}
+house_Darklyn = {
+	name = "dynn_Darklyn"
+	dynasty = dynn_Darklyn
+	motto = "dynn_Darklyn_motto"
+}
+house_Farring = {
+	name = "dynn_Farring"
+	dynasty = dynn_Farring
+	motto = "dynn_Farring_motto"
+}
+house_Gaunt = {
+	name = "dynn_Gaunt"
+	dynasty = dynn_Gaunt
+	motto = "dynn_Gaunt_motto"
+}
+house_Hayford = {
+	name = "dynn_Hayford"
+	dynasty = dynn_Hayford
+	motto = "dynn_Hayford_motto"
+}
+house_Langward = {
+	name = "dynn_Langward"
+	dynasty = dynn_Langward
+	motto = "dynn_Langward_motto"
+}
+house_Rosby = {
+	name = "dynn_Rosby"
+	dynasty = dynn_Rosby
+	motto = "dynn_Rosby_motto"
+}
+house_Rykker = {
+	name = "dynn_Rykker"
+	dynasty = dynn_Rykker
+	motto = "dynn_Rykker_motto"
+}
+house_Hollard = {
+	name = "dynn_Hollard"
+	dynasty = dynn_Hollard
+	motto = "dynn_Hollard_motto"
+}
+house_Blackwater = {
+	name = "dynn_Blackwater"
+	prefix = "dynnp_of_the"
+	dynasty = dynn_Blackwater
+	motto = "dynn_Blackwater_motto"
+}
+house_Slynt = {
+	name = "dynn_Slynt"
+	dynasty = dynn_Slynt
+	motto = "dynn_Slynt_motto"
+}
+house_Massey = {
+	name = "dynn_Massey"
+	dynasty = dynn_Massey
+	motto = "dynn_Massey_motto"
+}
+house_Pyle = {
+	name = "dynn_Pyle"
+	dynasty = dynn_Pyle
+	motto = "dynn_Pyle_motto"
+}
+house_Chyttering = {
+	name = "dynn_Chyttering"
+	dynasty = dynn_Chyttering
+	motto = "dynn_Chyttering_motto"
+}
+house_Rollingford = {
+	name = "dynn_Rollingford"
+	dynasty = dynn_Rollingford
+	motto = "dynn_Rollingford_motto"
+}
+house_Sunglass = {
+	name = "dynn_Sunglass"
+	dynasty = dynn_Sunglass
+	motto = "dynn_Sunglass_motto"
+}
+house_Stokeworth = {
+	name = "dynn_Stokeworth"
+	dynasty = dynn_Stokeworth
+	motto = "dynn_Stokeworth_motto"
+}
+house_Cargyll = {
+	name = "dynn_Cargyll"
+	dynasty = dynn_Cargyll
+	motto = "dynn_Cargyll_motto"
+}
+
+#Cadet Branches
+house_Blackfyre = {
+	name = "dynn_Blackfyre"
+	dynasty = dynn_Targaryen #Targaryen
+	motto = "dynn_Blackfyre_motto"
+}
+house_Bittersteel = {
+	name = "dynn_Bittersteel"
+	dynasty = dynn_Targaryen
+	motto = "dynn_Bittersteel_motto"
+}
+house_Bloodraven = {
+	name = "dynn_Bloodraven"
+	dynasty = dynn_Targaryen
+	motto = "dynn_Bloodraven_motto"
+}
+house_Brightflame = {
+	name = "dynn_Brightflame"
+	dynasty = dynn_Targaryen
+	motto = "dynn_Brightflame_motto"
+}
+house_Targaryen_Aegon_II = {
+	name = "dynn_Targaryen"
+	dynasty = dynn_Targaryen
+	motto = "dynn_Targaryen_motto"
+}
+house_Targaryen_Maekar_I = {
+	name = "dynn_Targaryen"
+	dynasty = dynn_Targaryen
+	motto = "dynn_Targaryen_motto"
+}
+house_Targaryen_Rhaenyra = {
+	name = "dynn_Targaryen"
+	dynasty = dynn_Targaryen
+	motto = "dynn_Targaryen_motto"
+}
+house_Targaryen_Daemon = {
+	name = "dynn_Targaryen"
+	dynasty = dynn_Targaryen
+	motto = "dynn_Targaryen_motto"
+}
+house_Truefyre = {
+	name = "dynn_Truefyre"
+	dynasty = dynn_Targaryen
+	motto = "dynn_Truefyre_motto"
+}
+house_Dargood = {
+	name = "dynn_Dargood"
+	dynasty = dynn_Darklyn #Darklyn
+	motto = "dynn_Dargood_motto"
+}
+house_Darkwood = {
+	name = "dynn_Darkwood"
+	dynasty = dynn_Darklyn #Darklyn
+	motto = "dynn_Darkwood_motto"
+}
+house_Darke = {
+	name = "dynn_Darke"
+	dynasty = dynn_Darklyn #Darklyn
+	motto = "dynn_Darke_motto"
+}

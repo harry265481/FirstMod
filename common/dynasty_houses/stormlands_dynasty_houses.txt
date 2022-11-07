@@ -1,0 +1,103 @@
+﻿#Main houses
+house_Durrandon = { #Durrandon
+	name = "dynn_Durrandon"
+	dynasty = dynn_Durrandon
+	motto = dynn_Baratheon_motto
+}
+house_Baratheon = { #Baratheon
+	name = "dynn_Baratheon"
+	dynasty = dynn_Baratheon
+	motto = dynn_Baratheon_motto
+}
+house_Connington = {
+	name = "dynn_Connington"
+	dynasty = dynn_Connington
+	motto = dynn_Connington_motto
+}
+house_Dondarrion = {
+	name = "dynn_Dondarrion"
+	dynasty = dynn_Dondarrion
+	motto = dynn_Dondarrion_motto
+}
+house_Estermont = {
+	name = "dynn_Estermont"
+	dynasty = dynn_Estermont
+	motto = dynn_Estermont_motto
+}
+house_Seaworth = {
+	name = "dynn_Seaworth"
+	dynasty = dynn_Seaworth
+	motto = dynn_Seaworth_motto
+}
+house_Selmy = {
+	name = "dynn_Selmy"
+	dynasty = dynn_Selmy
+	motto = dynn_Selmy_motto
+}
+house_Tarth = {
+	name = "dynn_Tarth"
+	dynasty = dynn_Tarth
+	motto = dynn_Tarth_motto
+}
+house_Morrigen = {
+	name = "dynn_Morrigen"
+	dynasty = dynn_Morrigen
+	motto = dynn_Morrigen_motto
+}
+house_Swann = {
+	name = "dynn_Swann"
+	dynasty = dynn_Swann
+	motto = dynn_Swann_motto
+}
+house_Caron = {
+	name = "dynn_Caron"
+	dynasty = dynn_Caron
+	motto = dynn_Caron_motto
+}
+house_Wylde = {
+	name = "dynn_Wylde"
+	dynasty = dynn_Wylde
+	motto = dynn_Wylde_motto
+}
+house_Penrose = {
+	name = "dynn_Penrose"
+	dynasty = dynn_Penrose
+	motto = dynn_Penrose_motto
+}
+house_Cole = {
+	name = "dynn_Cole"
+	dynasty = dynn_Cole
+	motto = dynn_Cole_motto
+}
+house_Tudbury = {
+	name = "dynn_Tudbury"
+	dynasty = dynn_Tudbury
+	motto = dynn_Tudbury_motto
+}
+house_Lonmouth = {
+	name = "dynn_Lonmouth"
+	dynasty = dynn_Lonmouth
+	motto = dynn_Lonmouth_motto
+}
+
+#Cadet branches
+house_Baratheon_Renly = {
+	name = "dynn_Baratheon"
+	dynasty = dynn_Baratheon
+	motto = "dynn_Baratheon_motto"
+}
+house_BaratheonDS = {
+	name = "dynn_Baratheon"
+	dynasty = dynn_Baratheon
+	motto = "dynn_Baratheon_motto"
+}
+house_BaratheonKL = {
+	name = "dynn_Baratheon"
+	dynasty = dynn_Baratheon
+	motto = "dynn_Baratheon_motto"
+}
+house_Bolling = {
+	name = "dynn_Bolling"
+	dynasty = dynn_Durrandon
+	motto = dynn_Bolling_motto
+}

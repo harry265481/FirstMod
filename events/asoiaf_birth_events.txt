@@ -1,0 +1,33 @@
+﻿namespace = asoiaf_birth
+
+# Regarding having the trait not apply to secret bastards, someone on Discord suggested this: "real_father = { root.father = {not = { character = prev } } }"
+# See how you can use that code in the events.
+
+asoiaf_birth.1 = { #Lannister trait
+	type = character_event
+	hidden = yes
+	
+	trigger = {
+		OR = {
+			dynasty = dynasty:dynn_Lannister
+			house = house:house_BaratheonKL
+		}
+	}
+	immediate = { add_trait = lannister }
+}
+
+asoiaf_birth.2 = { #Baratheon trait 
+	type = character_event
+	hidden = yes
+	
+	trigger = {
+		AND = {
+			NOT = { house = house:house_BaratheonKL }
+			OR = {
+				dynasty = dynasty:dynn_Baratheon
+				dynasty = dynasty:dynn_Durrandon
+			}
+		}
+	}
+	immediate = { add_trait = baratheon }
+}

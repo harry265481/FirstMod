@@ -1,0 +1,63 @@
+﻿on_death = {
+	on_actions = {
+		asoiaf_widow_on_action
+		asoiaf_widow_lover_on_action
+		asoiaf_widow_soulmate_on_action
+	}
+}
+asoiaf_widow_on_action = {
+	trigger = {
+		AND = {
+			exists = primary_spouse
+			primary_spouse = {
+				NOR = {
+					has_relation_lover = root
+					has_relation_soulmate = root
+				}
+			}
+		}
+		has_game_rule = asoiaf_widowhood_on
+	}
+	effect = {
+		primary_spouse = {
+			add_trait = asoiaf_widowed
+			trigger_event = { id = asoiaf_widow_events.1 days = 14 } #fortnight to "mourn" the death of your spouse
+		}
+	}
+}
+
+asoiaf_widow_lover_on_action = {
+	trigger = {
+		AND = {
+			exists = primary_spouse
+			primary_spouse = {
+				has_relation_lover = root
+			}
+		}
+		has_game_rule = asoiaf_widowhood_on
+	}
+	effect = {
+		primary_spouse = {
+			add_trait = asoiaf_widowed
+			trigger_event = { id = asoiaf_widow_events.1 days = 1826 } #5 years to mourn your lover
+		}
+	}
+}
+
+asoiaf_widow_soulmate_on_action = {
+	trigger = {
+		AND = {
+			exists = primary_spouse
+			primary_spouse = {
+				has_relation_soulmate = root
+			}
+		}
+		has_game_rule = asoiaf_widowhood_on
+	}
+	effect = {
+		primary_spouse = {
+			add_trait = asoiaf_widowed
+			trigger_event = { id = asoiaf_widow_events.1 days = 5479 } #15 years to mourn your soulmate
+		}
+	}
+}

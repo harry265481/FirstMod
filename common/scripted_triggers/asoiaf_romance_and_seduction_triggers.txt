@@ -1,0 +1,63 @@
+﻿
+###TRIGGER LIST
+
+###SEDUCE SCHEME##
+# use_seduce_secrecy_trigger
+
+
+###SEXUAL ORITENTATION###
+# attracted_to_same_gender_trigger_trigger
+# attracted_to_opposite_gender_trigger_trigger
+# attracted_to_all_genders_trigger
+# matching_gender_and_sexuality_trigger
+
+###INCEST###
+# accepts_incest_with_trigger
+# accepts_incest_with_each_other_trigger
+
+###ATTRACTION###
+# possibly_interested_in_root_trigger
+# possible_mutual_interest_trigger
+# object_of_importance_exist_trigger
+
+### CHEATING ####
+# might_cheat_on_partner_trigger - If scope would at all be willing to cheat, baseline that must be passed
+# might_cheat_on_every_partner_trigger - checks might_cheat_on_partner_trigger on every partner
+# dislikes_partner_cheating_trigger	
+
+
+### PREGNANCY & STDs ###
+# possible_pregnancy_after_sex_with_character_trigger - requries root and other character
+
+# 100% fine with incest with CHARACTER. Important: There are also other factors to attraction! This isn't 100% acceptance of romantic/sexual relationship.
+accepts_incest_with_trigger = {
+	OR = {
+		NOT = { is_close_or_extended_family_of = $CHARACTER$ } #Actually no incest here!
+		is_incestuous_trigger = yes
+		has_relation_potential_lover = $CHARACTER$
+		has_relation_lover = $CHARACTER$
+		OR = {
+			$CHARACTER$ = { allow_incest = yes }
+			AND = {
+				$CHARACTER$ = { allow_valyrian_incest = yes }
+				NOR = {
+					is_parent_of = $CHARACTER$
+					is_child_of = $CHARACTER$
+					
+					is_grandparent_of = $CHARACTER$
+					is_grandchild_of = $CHARACTER$
+					
+					is_great_grandparent_of = $CHARACTER$
+					is_great_grandchild_of = $CHARACTER$
+				}
+			}
+		}
+	}
+	save_temporary_scope_as = incest_evaluation
+	NOT = { #under 20 trigger is a HARD limit
+		guaranteed_under_20_incest_rejection_trigger = {
+			TARGET = scope:incest_evaluation
+			SEDUCER = $CHARACTER$
+		}
+	}
+}

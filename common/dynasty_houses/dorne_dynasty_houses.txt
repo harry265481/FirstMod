@@ -1,0 +1,55 @@
+﻿house_Martell = { #House Martell post-Rhoynar invasion
+	name = "dynn_Martell"
+	dynasty = dynn_Martell
+	motto = "dynn_Martell_motto"
+}
+house_Dayne = {
+	name = "dynn_Dayne"
+	dynasty = dynn_Dayne
+	motto = "dynn_Dayne_motto"
+}
+house_Allyrion = {
+	name = "dynn_Allyrion"
+	dynasty = dynn_Allyrion
+	motto = "dynn_Allyrion_motto"
+}
+house_Blackmont = {
+	name = "dynn_Blackmont"
+	dynasty = dynn_Blackmont
+	motto = "dynn_Blackmont_motto"
+}
+house_Dalt = {
+	name = "dynn_Dalt"
+	dynasty = dynn_Dalt
+	motto = "dynn_Dalt_motto"
+}
+house_Jordayne = {
+	name = "dynn_Jordayne"
+	dynasty = dynn_Jordayne
+	motto = "dynn_Jordayne_motto"
+}
+house_Manwoody = {
+	name = "dynn_Manwoody"
+	dynasty = dynn_Manwoody
+	motto = "dynn_Manwoody_motto"
+}
+house_Yronwood = {
+	name = "dynn_Yronwood"
+	dynasty = dynn_Yronwood
+	motto = "dynn_Yronwood_motto"
+}
+house_Nymeros = {
+	name = "dynn_Nymeros"
+	dynasty = dynn_Nymeros
+	motto = "dynn_Nymeros_motto"
+}
+house_Toland = {
+	name = "dynn_Toland"
+	dynasty = dynn_Toland
+	motto = "dynn_Toland_motto"
+}
+house_Qorgyle = {
+	name = "dynn_Qorgyle"
+	dynasty = dynn_Qorgyle
+	motto = "dynn_Qorgyle_motto"
+}

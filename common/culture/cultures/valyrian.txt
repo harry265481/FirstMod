@@ -11,6 +11,7 @@
 		tradition_isolationist
 		tradition_ruling_caste
 		tradition_polygamous
+		tradition_valyrian_incest
 	}
 	coa_gfx = { english_coa_gfx western_coa_gfx }
 	building_gfx = { western_building_gfx }
